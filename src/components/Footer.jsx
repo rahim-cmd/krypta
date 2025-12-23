@@ -1,11 +1,11 @@
-import React,{useState} from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom';
 const Footer = () => {
 const msgShow = (e) => {
   alert("No subscription accepted");
   e.preventDefault();
 };
-    const [go,setGo] = useState('');
+    
     
    
   return (
@@ -140,17 +140,7 @@ const msgShow = (e) => {
   <div
     className="color-trigger"
     style={{ cursor: "pointer" }}
-    onClick={(event) => {
-      event.preventDefault();
-
-      if (go != '') {
-        setGo('/contact');
-        window.location.href = '/contact';
-      } else {
-        setGo('tel');
-        window.location.href = 'tel:+91-9763406746';
-      }
-    }}
+    onClick={(e)=>{e.preventDefault();location.href='/contact'}}
   >
     <i className={`fa fa-envelope`}></i>
   </div>
