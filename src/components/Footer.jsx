@@ -136,7 +136,7 @@ const msgShow = (e) => {
     
 
     
-    <div className="color-switcher">
+    {/* <div className="color-switcher">
   <div
     className="color-trigger"
     style={{ cursor: "pointer" }}
@@ -144,7 +144,7 @@ const msgShow = (e) => {
   >
     <i className={`fa fa-envelope`}></i>
   </div>
-</div>
+</div> */}
 
     </>
   )
