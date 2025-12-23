@@ -14,7 +14,7 @@ export default function ServiceDetail() {
     <Breadcrumb/>
     <div className="container mb-5 text-center bg-gray p-3">
     <div className="service-detail shadow p-3">
-      <h1>{item.title}</h1>
+      <h3>{item.title}</h3>
       <p className="font-italic">{item.desc}</p>
     </div>
     <div className="container shadow p-3">
