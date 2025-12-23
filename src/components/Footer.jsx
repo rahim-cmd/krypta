@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from 'react'
+import React,{useState} from 'react'
 import { Link } from 'react-router-dom';
 const Footer = () => {
 const msgShow = (e) => {
@@ -6,14 +6,8 @@ const msgShow = (e) => {
   e.preventDefault();
 };
     const [go,setGo] = useState('');
-    const [i, setI] = useState('fa-envelope');
-    useEffect(() => {
-  if (go === '/contact') {
-      setI('fa-phone');
-} else {
-    setI('fa-envelope');
-  }
-}, [go]);
+    
+   
   return (
     <>
       <footer className="footer widget-footer clearfix">
@@ -158,7 +152,7 @@ const msgShow = (e) => {
       }
     }}
   >
-    <i className={`fa ${i}`}></i>
+    <i className={`fa fa-envelope`}></i>
   </div>
 </div>
 
