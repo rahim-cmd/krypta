@@ -1,0 +1,80 @@
+.card {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.card-body{
+  height:max-content;
+  width:auto;
+}
+
+.card:hover {
+  background-color: rgb(22, 22, 21);
+  cursor: pointer;
+  color:white;
+  h5{
+    color:white;
+  }
+  a{
+    color:yellow;
+  }
+}
+
+.card:hover .card-title .card-body{
+  color: #fff; /* text white ho jayega */
+}
+
+.service-tab {
+  flex:1;
+  padding: 20px;
+  background: #f5f5f5;
+  color:black;
+  text-align: center;
+  cursor: pointer;
+  height:100px;
+  border: 2px solid orange ;
+  border-radius: .4rem;
+  box-shadow: 5px 5px 10px black ;
+  margin-bottom:20px;
+  
+}
+.service-tab:hover {
+  padding: 20px;
+  background: orange;
+  text-align: center;
+  cursor: pointer;
+  color:white;
+}
+.service-tab.active {
+  background: orange;
+  color: #fff;
+}
+@keyframes myAnimation {
+   from {
+    transform: translateY(-10px); /* Start 10px higher than the final position */
+  }
+   to {
+    transform: translateY(10px); /* Move 10px down from the original position */
+  }
+}
+.service-tab{
+  background-color: orange;
+  
+  animation: myAnimation 5s linear 2s infinite alternate;
+}
+
+
+
+@media screen and (max-width:768px){
+
+    .card-title{
+
+        text-align: center;
+    }
+    .card{
+        margin-bottom:5px;
+    }
+    .service-tab{
+      margin-bottom:3px;
+    }
+   
+}
+

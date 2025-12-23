@@ -1,0 +1,58 @@
+import { useParams } from "react-router-dom";
+import bimServices from "./data/Bimservices";
+import Breadcrumb from "./Breadcrump";
+import ProcessWorkFlow from "./ProcessWorkFlow";
+
+export default function ServiceDetail() {
+  const { service, slug } = useParams();
+
+  const serviceItems = bimServices[service].items;
+  const item = serviceItems.find(i => i.slug === slug);
+
+  return (
+    <>
+    <Breadcrumb/>
+    <div className="container mb-5 text-center bg-gray p-3">
+    <div className="service-detail shadow p-3">
+      <h1>{item.title}</h1>
+      <p className="font-italic">{item.desc}</p>
+    </div>
+    <div className="container shadow p-3">
+{item.details && (
+  typeof item.details === "string" ? (
+    <p>{item.details}</p>
+  ) : (
+    <div className="row">
+      {item.details.map(result => (
+        <div
+          className="col-lg-4 col-md-4 col-sm-12 text-center"
+          key={result.id}
+        >
+          <div className="card text-center h-100" style={{ width: "18rem" }}>
+            <img
+              src={result.image}
+              className="card-img-top"
+              style={{height:'auto',width:'100%'}}
+              alt={result.title}
+            />
+            <div className="card-body">
+              <h5 className="card-title">{result.title}</h5>
+              <p className="card-text">{result.desc}</p>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  )
+)}
+
+
+    </div>
+</div>
+<div className="container text-justify bg-white text-dark shadow">
+      <ProcessWorkFlow/>
+    </div>
+    
+    </>
+  );
+}

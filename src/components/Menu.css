@@ -1,0 +1,42 @@
+/* MOBILE MENU FIX */
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+    width: 100%;
+    background: #fff;
+  }
+
+  .menu.show-menu {
+    display: block;
+  }
+
+  .menu ul {
+    flex-direction: column;
+  }
+
+  .menu ul li {
+    border-bottom: 1px solid #eee;
+  }
+
+  .ttm-menu-toggle {
+    cursor: pointer;
+    display: block;
+  }
+  #site-navigation{
+
+    margin-top:20px;
+    padding:10px;
+    z-index:999;
+  }
+}
+
+/* TOGGLE ANIMATION */
+.ttm-menu-toggle.active .toggle-blocks-1 {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.ttm-menu-toggle.active .toggle-blocks-2 {
+  opacity: 0;
+}
+.ttm-menu-toggle.active .toggle-blocks-3 {
+  transform: rotate(-45deg) translate(6px, -6px);
+}

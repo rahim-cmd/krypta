@@ -1,0 +1,51 @@
+.service-cards-row {
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
+  margin-bottom:50px;
+  flex-wrap: wrap; /* mobile ke liye */
+  border-radius: 50%;
+}
+
+.service-card {
+  flex: 1;
+  min-width: 130px;
+  max-width: 150px;
+  text-align: center;
+  padding: 15px;
+  border: 1px solid #eee;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.service-card img {
+  flex:1;
+  width: 40%;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 10px;
+  background-blend-mode: multiply;
+  mix-blend-mode: multiply;
+  filter:grayscale(70%);
+  
+}
+.image-container {
+  position: relative;
+  display: flex;
+  width:100%;
+}
+
+
+
+
+.service-card:hover {
+  background: rgba(209, 208, 208, 0.404);
+  color: #fff;
+}
+
+/* 📱 Mobile */
+@media (max-width: 768px) {
+  .service-cards-row {
+    justify-content: center;
+  }
+}
