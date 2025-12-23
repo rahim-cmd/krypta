@@ -6,13 +6,13 @@ const slides = [
     image: "/images/slides/slider-mainbg-001.jpg",
     title: "BIM Consulting Services",
     subtitle: "Smart planning, accurate execution",
-    button: "Explore Services",
+    
   },
   {
     image: "/images/slides/slider-mainbg-002.jpg",
     title: "Architectural BIM Solutions",
     subtitle: "Design with precision & clarity",
-    button: "View Portfolio",
+    
   },
 ];
 
