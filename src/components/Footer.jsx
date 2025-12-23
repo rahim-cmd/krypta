@@ -136,15 +136,7 @@ const msgShow = (e) => {
     
 
     
-    {/* <div className="color-switcher">
-  <div
-    className="color-trigger"
-    style={{ cursor: "pointer" }}
-    onClick={(e)=>{e.preventDefault();location.href='/contact'}}
-  >
-    <i className={`fa fa-envelope`}></i>
-  </div>
-</div> */}
+    
 
     </>
   )

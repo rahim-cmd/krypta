@@ -49,7 +49,7 @@ const Home = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-lg-3 col-md-3 col-sm-12 shadow">
+                            <div className="col-lg-3 col-md-3 col-sm-12 shadow text-center">
                                 
                                 <div className="featured-icon-box style1 top-icon text-center">
                                     <div className="ttm-icon ttm-icon_element-fill ttm-icon_element-background-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-square">
@@ -57,7 +57,7 @@ const Home = () => {
                                     </div>
                                     <div className="featured-content">
                                         <div className="featured-title">
-                                            <h5>10+ Years<br/>of Experience</h5>
+                                            <h5>10+ Years <br/>of Experience</h5>
                                         </div>
                                         
                                     </div>
