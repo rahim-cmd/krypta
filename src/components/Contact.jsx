@@ -38,7 +38,7 @@ const Contact = () => {
                             <h2 className="display-4 text-capitalize mb-3">Send Your Message</h2>
                             
                         </div>
-                        <form ref={htmlForm} onSubmit={sendEmail}>
+                        <form ref={form} onSubmit={sendEmail}>
                             <div className="row g-3">
                                 <div className="col-lg-6 col-sm-12 col-md-6 col-xl-6 mb-5">
                                     <div className="htmlForm-floating border border-warning">
