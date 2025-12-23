@@ -46,7 +46,7 @@ useEffect(() => {
           <div className="overlay">
             <h1>{slide.title}</h1>
             <p>{slide.subtitle}</p>
-            <button>{slide.button}</button>
+           
           </div>
         </div>
       ))}
