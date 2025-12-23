@@ -66,17 +66,17 @@ function Navbar() {
                         </Link>
                       </li>
 
-                      <li>
+                      <li className={`nav-item nav-link ${isActive("/contact")}`}>
                         <Link
                           to="/contact"
                           onClick={closeMenu}
-                          className={`nav-item nav-link ${isActive("/contact")}`}
+                          
                         >
                           Contact Us
                         </Link>
                       </li>
 
-                      <li>
+                      <li className={`nav-item nav-link ${isActive("/services")}`}>
                         <Link to="/services" onClick={closeMenu}>Services</Link>
                         
                       </li>
