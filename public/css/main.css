@@ -833,6 +833,7 @@ a.ttm-btn.ttm-btn-color-skincolor.btn-inline:hover{ color: #313131; }
     Pre-loader
 ------------------------*/
 #preloader  {
+    display:none;
     position: absolute;
     top: 50%;
     left: 50%;
