@@ -2,7 +2,7 @@ import React,{ useRef } from 'react'
 import Breadcrumb from '../components/Breadcrump'
 import emailjs from "@emailjs/browser";
 const Contact = () => {
-    const htmlForm = useRef();
+    const form = useRef();
       
         const sendEmail = (e) => {
           e.preventDefault();
@@ -11,14 +11,14 @@ const Contact = () => {
             .sendhtmlForm(
               "service_j7zxk6f",
               "template_i30srre",
-              htmlForm.current,
+              form.current,
               "ET1I6lsZFuKMM2xCf"
             )
             .then(
               (result) => {
                 console.log("Email Sent:", result.text);
                 alert("Email sent successfully!");
-                htmlForm.current.reset();
+                form.current.reset();
               },
               (error) => {
                 console.error("Error:", error.text);
