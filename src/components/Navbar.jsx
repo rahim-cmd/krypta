@@ -56,7 +56,7 @@ function Navbar() {
                         <Link to="/" onClick={closeMenu}>Home</Link>
                       </li>
 
-                      <li className={`nav-item nav-link ${isActive("/about")}`>
+                      <li className={`nav-item nav-link ${isActive("/about")}`}>
                         <Link
                           to="/about"
                           onClick={closeMenu}
