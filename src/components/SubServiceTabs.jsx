@@ -17,7 +17,7 @@ const SubServiceTabs = ({tabs}) => {
         <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
           <div key={tab.id} className="btn-group mr-2 ">
             <button
-              className={`btn btn-warning mb-2 ${activeTab === tab.id ? "active" : ""}`}
+              className={`btn btn-warning text-wrap mb-2 ${activeTab === tab.id ? "active" : ""}`}
               onClick={() => setActiveTab(tab.id)}
             >
               {tab.title}
