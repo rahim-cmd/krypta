@@ -56,48 +56,22 @@ function Navbar() {
                       </li>
 
                       <li className={`nav-item nav-link ${isActive("/about")}`}>
-<<<<<<< HEAD
-                        <Link to="/about" onClick={closeMenu}>
-=======
-                        <Link
-                          to="/about"
-                          onClick={closeMenu}
-                          
-                        >
->>>>>>> 837dc6680516993f74a836c49866aa4dff527348
+                      <Link to="/about" onClick={closeMenu}>
                           About Us
                         </Link>
                       </li>
 
-<<<<<<< HEAD
-                      <li
-                        className={`nav-item nav-link ${isActive("/contact")}`}
-                      >
-                        <Link to="/contact" onClick={closeMenu}>
-=======
+
                       <li className={`nav-item nav-link ${isActive("/contact")}`}>
-                        <Link
-                          to="/contact"
-                          onClick={closeMenu}
-                          
-                        >
->>>>>>> 837dc6680516993f74a836c49866aa4dff527348
+                        <Link to="/contact" onClick={closeMenu}>
                           Contact Us
                         </Link>
                       </li>
 
-<<<<<<< HEAD
-                      <li
-                        className={`nav-item nav-link ${isActive("/services")}`}
-                      >
+                      <li className={`nav-item nav-link ${isActive("/services")}`}>
                         <Link to="/services" onClick={closeMenu}>
                           Services
                         </Link>
-=======
-                      <li className={`nav-item nav-link ${isActive("/services")}`}>
-                        <Link to="/services" onClick={closeMenu}>Services</Link>
-                        
->>>>>>> 837dc6680516993f74a836c49866aa4dff527348
                       </li>
 
                       <li>
