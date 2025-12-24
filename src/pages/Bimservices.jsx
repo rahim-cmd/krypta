@@ -3,6 +3,7 @@ import bimServices from '../components/data/Bimservices';
 import Servicecards from '../components/Servicecards';
 import ServiceTabs from '../components/ServiceTabs';
 import './Bim.css';
+import Breadcrumb from '../components/Breadcrump';
 
 
 const Bimservices = () => {
@@ -12,7 +13,7 @@ const [activeService, setActiveService] = useState("consulting");
   return (
    
     <>
-      
+      <Breadcrumb/>
        <section className="ttm-row portfolio-section bg-img2 clearfix" id="bimServices">
             <div className="container mb-5">
               

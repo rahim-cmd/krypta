@@ -32,6 +32,8 @@ export default function Breadcrumb() {
                 </div>
             </div>)
 
+    }else if(path === '/'){
+        return null;
     } else{
 
 return (
