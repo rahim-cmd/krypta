@@ -78,7 +78,33 @@ With our service, we aim to help all the stakeholders gain a clear understanding
 
 Our highly skilled professionals use tools such as Autodesk Revit, Navisworks Manage, BIM 360, Solibri, and Revizto, and work as an extended team for general contractors and trade contractors worldwide, to manage coordination. We consolidated design inputs from all consultants into a single BIM model and resolves all the clashes before they reached the construction site. To support our clients better, we also set up Dedicated Resource Centers (DRCs), giving direct access to our team for ongoing coordination needs, resulting in real-time decision-making and faster project delivery.
 
-At Krypta Tech, we're not just building models; we're building better outcomes. With a decade of experience, we have completed 1,100+ projects & served over 300+ satisfied global clients through our precise services. We help our clients with our expertise to turn complex data into intelligent 3D models with efficiency.`
+At Krypta Tech, we're not just building models; we're building better outcomes. With a decade of experience, we have completed 1,100+ projects & served over 300+ satisfied global clients through our precise services. We help our clients with our expertise to turn complex data into intelligent 3D models with efficiency.`,
+        tabs:[
+          {
+            id:1,
+            title:'Architectural Coordination',
+            content:`Our Architectural Coordination Services ensure the architectural model aligns perfectly with systems (structural, MEP, and civil). We maintain design intent and spatial integrity by reviewing layouts, openings, ceiling heights, and finishes. Our experts perform detailed interference checks & visual inspections to detect overlaps and inconsistencies using Revit, Navisworks, and BIM 360. We also host coordination meetings to discuss issues, find solutions & resolve conflicts among all disciplines. At last, in we handover clash reports, updated models & revision logs for complete transparency and systematic use`,
+            image:'/images/service/architectural-coordination.png'
+          },
+          {
+            id:2,
+            title:'Structural Coordination ',
+            content:`In our Structural Coordination service, we integrate all load-bearing elements, like beams, columns, slabs, and foundations, accurately with other systems. Our skilled professionals use Revit, Navisworks Manage, and Solibri to perform clash detection, verifying load paths, clearances, and connection points. We also make sure that we conduct regular coordination meetings with all stakeholders to make sure all teams are working toward the same design intent and can discuss clashes to resolve them. This structured process gives us a fully coordinated model that ensures safety, constructability, and alignment with the overall building design `,
+            image:'/images/service/structural-coordination.png'
+          },
+          {
+            id:3,
+            title:'MEP Coordination',
+            content:`Our MEP Coordination Services bring together mechanical, electrical, and plumbing systems into a uniform, clash-free model. Our team of skilled professionals uses advanced tools like Revit, Navisworks, Revizto, and BIM 360 to optimize service routing, maintain access zones, and verify clearances. We host timely coordination workshops to align the MEP layouts with architectural & structural frameworks to make sure all systems are installable and do not require rework on site. Deliverables include clash detection reports, coordination sign-off sheets, and construction-ready MEP models for fabrication and installation.`,
+            image:'/images/service/mep-coordination.png'
+          },
+          {
+            id:4,
+            title:'Civil Coordination',
+            content:`With our Civil Coordination Service, clients can align the main building design with the site utilities, grading, drainage, and infrastructure. Using Civil 3D, InfraWorks, and Navisworks, our team integrates civil models with architectural, structural, and MEP data for proper overall coordination across all disciplines. We thoroughly review site layouts, underground utilities & surface interfaces in our coordination meetings hosted by us to ensure no conflicts occur during construction. This proper process results in a coordinated civil model that enhances constructability and efficient site execution.`,
+            image:'/images/service/civil-coordination.png'
+          },
+        ]
       },
 
       {
