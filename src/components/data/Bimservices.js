@@ -116,7 +116,46 @@ At Krypta Tech, we're not just building models; we're building better outcomes. 
 
 Our onsite experts handle every aspect of BIM implementation, including QA & QC checks, coordination, and clash resolution. They actively support design development and construction activities while integrating BIM workflows with field operations to ensure accuracy and efficiency throughout the project lifecycle. This structured approach not only enhances collaboration but also improves communication among all stakeholders. Which results in better project execution and project delivery in accordance with the schedule, within budget, & aligned with your BIM objectives.
 
-With our expertise, we stand out with our strong portfolio of 1100+ projects and 300 satisfied clients globally, and have been serving as a leading BIM service provider since 2014. Helping our clients with precise 3D models and elevating their design from concept to reality in different sectors like residential, commercial, retail, hospitality, industrial, and infrastructure. `
+With our expertise, we stand out with our strong portfolio of 1100+ projects and 300 satisfied clients globally, and have been serving as a leading BIM service provider since 2014. Helping our clients with precise 3D models and elevating their design from concept to reality in different sectors like residential, commercial, retail, hospitality, industrial, and infrastructure. `,
+tabs:[
+	{
+		id:1,
+		title:'Planning & Coordination',
+		content:`Our Planning & Coordination service facilitates proper coordination of BIM models among different stakeholders involved in the management process. This ensures everyone, including general contractors, has access to up‑to‑date, accurate information about the models, resulting in improved collaboration. Our service creates a uniform project vision through a proper BIM Execution Plan (BEP) that defines clear project goals, sets outlines information exchange protocols, and guidelines for implementing BIM Workflows across the entire facility lifecycle.`,
+		image:'/images/services/planning-and-coordination.jpg'
+	},
+	{
+		id:2,
+		title:'Training & Implementation',
+		content:`Techture delivers customized BIM training programs tailored to your team's skill level and project needs. Our Training and Implementation service serves from infrastructure setup to software selection, guiding your organization through successful BIM adoption. We also assist in deploying the right tools for on-site model management, 3D Coordination, & quality control, to make sure teams are equipped to resolve challenges in real time and maintain high productivity on the construction site.`,
+		image:'/images/services/training-and-documentation.jpg'
+	},
+	{
+		id:3,
+		title:'Monitoring & Documentation',
+		content:`It is important to monitor project progress to ensure BIM practices are improving productivity, efficiency & quality. With our monitoring & documentation service, we continuously look after technical issues & coordination challenges that show up on-site, and troubleshoot promptly to keep things on track. We also create and maintain a proper BIM documentation covering processes, design updates, & model changes. This Documentation enables precise decision-making throughout the project cycle and helps all stakeholders to refer to the updated and error-free version.`,
+		image:'/images/services/monitoring-and-documentation.jpg'
+	},
+	{
+		id:4,
+		title:'3D Laser Scanning',
+		content:`Our 3D laser scanning services capture complex & minute site details with high precision, and with the help of advanced scanners, we create detailed digital models that provide accurate measurement of structural components & their relationships. With the help of this laser scanning, you can streamline your workflows, minimize errors & reduce costly rework. This will not help you with timely & budget-friendly execution, but also increase accuracy during construction.`,
+		image:'/images/services/3dlaser-scanning.jpg'
+	},
+	{
+		id:5,
+		title:'Visual Site Capture With OpenSpace',
+		content:`OpenSpace is an advanced reality‑capture platform that automatically maps 360° site photos to your BIM floor plans, creating a visual timeline of construction progress without manual registration. We use OpenSpace to conduct site scans, instantly documenting installations, verifying work against design intent, and flagging deviations. Our experts capture the schedule, manage the data upload, and integrate the images directly into your BIM environment. With OpenSpace, clients gain real‑time access to as‑built conditions, which help stakeholders to review progress from anywhere in the world, make informed decisions faster, and minimize costly rework.`,
+		image:'/images/services/vscwo.png'
+	},
+	{
+		id:6,
+		title:'Cupix',
+		content:`Techture leverages Cupix to capture as‑built conditions quickly and accurately, uploading panoramas to the cloud. Clients can remotely inspect site conditions, measure clearances, and verify installations against design data, reducing travel costs and project delays. We also customize dashboards & reporting tools to highlight progress, resolve issues, and track changes over time, and also train your staff on Cupix best practices. We make sure all stakeholders have access to up‑to‑date site information and deliver enhanced site visibility and faster decision‑making.`,
+		image:'/images/services/cupix.jpg'
+	},
+		
+	]
 
       },
       {
