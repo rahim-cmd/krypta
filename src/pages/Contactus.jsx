@@ -5,10 +5,12 @@ const Contactus = () => {
   return (
     <>
       <Breadcrumb/>
-      <section className="m-5 p-5 text-center">
+      <div className="container justify-content-center align-items-center">
+        <div className="col-12">
         <h3 className="mb-5">Know more about how we can take your project to the next level</h3>
         <p className="fs-5">Use the below form to specify if you have any queries, or you would like to request for a quotation for any of our services or products. You'll hear back from us once we've received your request.</p>
-      </section>
+      </div>
+        </div>
       <Contact/>
     </>
   )

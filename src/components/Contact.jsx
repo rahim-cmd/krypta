@@ -2,23 +2,23 @@ import React,{ useRef } from 'react'
 import Breadcrumb from '../components/Breadcrump'
 import emailjs from "@emailjs/browser";
 const Contact = () => {
-    const htmlForm = useRef();
+    const form = useRef();
       
         const sendEmail = (e) => {
           e.preventDefault();
       
           emailjs
-            .sendhtmlForm(
+            .sendForm(
               "service_j7zxk6f",
               "template_i30srre",
-              htmlForm.current,
+              form.current,
               "ET1I6lsZFuKMM2xCf"
             )
             .then(
               (result) => {
                 console.log("Email Sent:", result.text);
                 alert("Email sent successfully!");
-                htmlForm.current.reset();
+                form.current.reset();
               },
               (error) => {
                 console.error("Error:", error.text);
@@ -38,7 +38,7 @@ const Contact = () => {
                             <h2 className="display-4 text-capitalize mb-3">Send Your Message</h2>
                             
                         </div>
-                        <form ref={htmlForm} onSubmit={sendEmail}>
+                        <form ref={form} onSubmit={sendEmail}>
                             <div className="row g-3">
                                 <div className="col-lg-6 col-sm-12 col-md-6 col-xl-6 mb-5">
                                     <div className="htmlForm-floating border border-warning">

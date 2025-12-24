@@ -7,7 +7,7 @@ consulting: {
         title: "BIM Modeling Services",
         desc: "Tailored BIM Modeling Services for Architecture, Structure, and MEPF disciplines.Streamlining pre-construction planning and multidisciplinary coordination.",
         slug: "bim-modeling-services",
-        details:`Since 2014, Techture has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Techture, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.
+        details:`Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Krypta Tech, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.
 
         Our BIM Modeling Services are designed for architects, engineers, contractors, developers, and owners who want to boost accuracy & improve coordination in their architectural, structural, MEP, facade, landscape, and As-Built 3D Modeling projects. We work globally across a variety of sectors, including residential, commercial, retail, hospitality, industrial, infrastructure, data centers, & mission-critical facilities. Depending on the required Building information modeling output, we develop detailed BIM building modeling for LOD 100 (Concept Design), LOD 200 (Coordination & Schematic Design), LOD 300 (Coordination & BOQ/BOM), LOD 400 (Coordination, Fabrication, Scheduling & Shop Drawings), and LOD 500 (As-Built).
 
@@ -78,7 +78,7 @@ With our service, we aim to help all the stakeholders gain a clear understanding
 
 Our highly skilled professionals use tools such as Autodesk Revit, Navisworks Manage, BIM 360, Solibri, and Revizto, and work as an extended team for general contractors and trade contractors worldwide, to manage coordination. We consolidated design inputs from all consultants into a single BIM model and resolves all the clashes before they reached the construction site. To support our clients better, we also set up Dedicated Resource Centers (DRCs), giving direct access to our team for ongoing coordination needs, resulting in real-time decision-making and faster project delivery.
 
-At Techture, we're not just building models; we're building better outcomes. With a decade of experience, we have completed 1,100+ projects & served over 300+ satisfied global clients through our precise services. We help our clients with our expertise to turn complex data into intelligent 3D models with efficiency.`
+At Krypta Tech, we're not just building models; we're building better outcomes. With a decade of experience, we have completed 1,100+ projects & served over 300+ satisfied global clients through our precise services. We help our clients with our expertise to turn complex data into intelligent 3D models with efficiency.`
       },
 
       {
@@ -113,7 +113,7 @@ With a strong portfolio of 1000+ completed projects, we have helped 300+ clients
 
 Our expert team uses popular estimation and takeoff platforms such as BIM 360 & Navisworks to help our clients reduce rework and enhance collaboration across teams. We ensure our service complies with different industry standards such as NRM, CSI MasterFormat, RICS & ISO BIM protocols, by our multilevel QA & QC checks.
 
-Since 2014, Techture has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Techture, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Krypta Tech, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.`
       },
       {
         id:6,
@@ -124,25 +124,25 @@ Since 2014, Techture has been delivering precise and practical BIM modeling serv
 
 Our team of experts meticulously review each model to identify inconsistencies, missing data, and deviations from the project using tools such as Solibri, Navisworks, Revizto, Procore, and Revit. Our detailed audits highlight modeling errors, standard violations, and reliability issues. The detailed report is then drafted by our experts with clear issue logs and corrective recommendations for the clients, and helps them by hosting a collaborative meeting for all stakeholders to resolve the clashes. This approach not only minimises rework but also ensures faster project delivery.
 
-Since 2014, Techture has been a trusted partner in BIM Model Auditing services worldwide. With a growing network of satisfied clients, we help project teams detect clashes and coordinate effectively throughout the project cycle. With a strong portfolio of 1,000+ completed projects, we not only help you with smart solutions we also turn design intent into precision-built reality.`
+Since 2014, Krypta Tech has been a trusted partner in BIM Model Auditing services worldwide. With a growing network of satisfied clients, we help project teams detect clashes and coordinate effectively throughout the project cycle. With a strong portfolio of 1,000+ completed projects, we not only help you with smart solutions we also turn design intent into precision-built reality.`
       },
       {
         id:7,
         title:"VR and AR Services",
         desc:"Krypta Tech’s BIM VR and AR service offers clients a comprehensive, immersive view of their digital models. ",
         slug:"vr-and-ar-services",
-        details:`Our BIM Virtual Reality & Augmented Reality Services enable all stakeholders to navigate the building even before they are actually built. Techture merges Building Information Modeling with VR and AR technologies to create an immersive experience by transforming static drawings into interactive environments.
+        details:`Our BIM Virtual Reality & Augmented Reality Services enable all stakeholders to navigate the building even before they are actually built. Krypta Tech merges Building Information Modeling with VR and AR technologies to create an immersive experience by transforming static drawings into interactive environments.
 
 This experience enables us to enhance capabilities like clash detection, construction sequencing (4D), and cost integration (5D), helping project teams with better planning and budgeting. VR/AR environments with BIM enable clients to explore material options, layouts, and freeze their preferred design choices, all with unmatched accuracy. Also, reality capture workflows such as scan-to-BIM allow as-built conditions to be integrated seamlessly into digital models for renovation. This not only helps clients but also helps alongside architects and contractors, identify issues, validate decisions, and align expectations without ambiguity, resulting in fewer reworks and enhanced communication.
 
-Since 2014, Techture has been delivering precise and practical BIM modeling services. We’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. We don’t just build models; we help our clients bring vision into intelligent, data-driven 3D BIM models.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. We’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. We don’t just build models; we help our clients bring vision into intelligent, data-driven 3D BIM models.`
       },
       {
         id:8,
         title:"BIM Content Creation",
         desc:"Krypta Tech, specialize in delivering high-quality BIM content for AEC professionals, covering everything from Revit families and parametric objects to templates and libraries.",
         slug:"bim-and-content-creation",
-        details:`In the AEC industry, Successful BIM workflows cannot be achieved by intelligent, parametric content. Techture is known for developing intelligent Revit Families, structured BIM libraries, and custom project templates to enhance accuracy. Our BIM content creation services ensure each component is built to adapt to different dimensions, materials, and specifications according to project needs.
+        details:`In the AEC industry, Successful BIM workflows cannot be achieved by intelligent, parametric content. Krypta Tech is known for developing intelligent Revit Families, structured BIM libraries, and custom project templates to enhance accuracy. Our BIM content creation services ensure each component is built to adapt to different dimensions, materials, and specifications according to project needs.
 
 We make sure our content has every specification and follows the standard right from LOD100 to LOD 500, and also COBie-ready to hand over the crucial building info for future operation and maintenance. Our services are aligned with global standards such as AIA and NBS, ensuring seamless integration into collaborative environments. We also use optimized workflows and Dynamo-driven automation for a perfect balance between detail & usability. Perfect for manufacturers needing standardized libraries or a perfect digital twin.
 
@@ -158,7 +158,7 @@ Since 2014, we have been the leading BIM service provider globally, helping our 
 
 Our seasoned experts are proficient in tools like AutoCAD, helping our clients with precise 2D output, in accordance with design intent and project type. Also, to enhance our client requirements and workflow, we provide drawings in different CAD format standards (.dwg, .dwt, .dws, and .dxf).
 
-It's been a decade, Techture is delivering precise & practical CAD Drafting service globally. With a strong and proven record of over 1000+ completed projects, we helped architects, engineers, contractors, & consultants, and clients proceed with execution confidently and integrate BIM workflow in their projects effectively. This helps them bring their vision into life seamlessly.`
+It's been a decade, Krypta Tech is delivering precise & practical CAD Drafting service globally. With a strong and proven record of over 1000+ completed projects, we helped architects, engineers, contractors, & consultants, and clients proceed with execution confidently and integrate BIM workflow in their projects effectively. This helps them bring their vision into life seamlessly.`
       },
       {
         id:10,
@@ -193,7 +193,7 @@ With a strong portfolio of over 1100+ completed projects and 300+ satisfied clie
 
 With our architectural 3D modeling solutions, we assist architects, designers, and contractors with a commitment to quality and timely delivery. Offering coordinated, clash-free, and production-ready 3D models for different sectors such as retail, residences (single & multi-family), healthcare, industrial, etc.
 
-Since 2014, Techture has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. Our advanced 3D modeling and other BIM services don’t just help build models; we help our clients bring their ideas to life more clearly and efficiently.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. Our advanced 3D modeling and other BIM services don’t just help build models; we help our clients bring their ideas to life more clearly and efficiently.`
       },
       {
         id: 2,
@@ -204,7 +204,7 @@ Since 2014, Techture has been delivering precise and practical BIM modeling serv
 
 Using advanced platforms such as Revit, AutoCAD, and BIM-driven workflows, we produce documentation that is geometrically precise, clash-free, and aligned with international quality standards. Our team follows a rigorous QA/QC process to eliminate inconsistencies, reduce RFIs, streamline coordination, and provide contractors with dependable, build-ready information.
 
-With proven expertise over a decade, Techture has delivered 1100 completed projects with a strong focus on clarity, technical accuracy, and execution efficiency. With our advanced BIM services, we help project teams minimise errors, accelerate approvals, enhance construction planning, and deliver high-quality outcomes with confidence.`
+With proven expertise over a decade, Krypta Tech has delivered 1100 completed projects with a strong focus on clarity, technical accuracy, and execution efficiency. With our advanced BIM services, we help project teams minimise errors, accelerate approvals, enhance construction planning, and deliver high-quality outcomes with confidence.`
       },
       {
         id: 3,
@@ -215,7 +215,7 @@ With proven expertise over a decade, Techture has delivered 1100 completed proje
 
 Our interior documentation packages incorporate detailed plans, RCPs, flooring layouts, wall elevations, millwork shop drawings, schedules, material specifications, and installation details. Our experts use Revit and BIM-centric workflows to prepare drawings that are properly dimensioned, clearly annotated, and technically coordinated for smooth execution on site. 
 
-With a strong focus on accuracy, quality, and coordination, Techture has delivered over 1100 completed projects globally since 2014. With our advanced BIM service, we aim to help our clients reduce design conflicts, shorten approval cycles, support fabrication, and ensure efficient construction delivery. This gives architects, engineers, and consultants a streamlined process from design development (DD) to project handover for bringing their vision into reality.`
+With a strong focus on accuracy, quality, and coordination, Krypta Tech has delivered over 1100 completed projects globally since 2014. With our advanced BIM service, we aim to help our clients reduce design conflicts, shorten approval cycles, support fabrication, and ensure efficient construction delivery. This gives architects, engineers, and consultants a streamlined process from design development (DD) to project handover for bringing their vision into reality.`
       },
       {
         id:4,
@@ -226,7 +226,7 @@ With a strong focus on accuracy, quality, and coordination, Techture has deliver
 
 Our documentation service includes ACP panel layouts, skylight shop drawings, shading system details, fabrication sheets, panelization plans, installation sequencing, section cuts, material schedules, and connection details; all developed using Revit, AutoCAD, and façade design tools. With a strong focus on precision, buildability, and coordination, our façade BIM services reduce rework, accelerate installation, and deliver a fully coordinated digital blueprint that supports smooth and error-free façade construction.
 
-Since 2014, Techture has been providing advanced BIM services globally. Helping architects, engineers, consultants & owners gain clarity and control of their projects at every stage of their project. We offer a precise BIM solution for different sectors, including educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural.`
+Since 2014, Krypta Tech has been providing advanced BIM services globally. Helping architects, engineers, consultants & owners gain clarity and control of their projects at every stage of their project. We offer a precise BIM solution for different sectors, including educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural.`
       },
       {
         id:5,
@@ -248,7 +248,7 @@ With our expertise, we stand out with our strong portfolio of 1100+ projects and
 
 Using industry-leading tools like Lumion, Twinmotion, Enscape, V-Ray, and Unreal Engine, our highly skilled professionals produce visuals that support presentation & client approval, but also facilitate support marketing content & coordination among stakeholders. Our expertise enables every image to communicate the true essence of the design in cooperating exterior façade renders to detailed interior spaces, landscape views, lighting studies, and material options. With our rendering service, we aim to remove uncertainty regarding design, validate concepts early, and make confident decisions.
 
-With over a decade of experience in the AEC & BIM industry, Techture has established itself as one of the leading BIM service providers globally. Helping architects, engineers, consultants, and owners with our advanced BIM solutions. Our strong portfolio consists of 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors, helping clients gain clarity and control.`
+With over a decade of experience in the AEC & BIM industry, Krypta Tech has established itself as one of the leading BIM service providers globally. Helping architects, engineers, consultants, and owners with our advanced BIM solutions. Our strong portfolio consists of 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors, helping clients gain clarity and control.`
       },
       
     ]
@@ -266,7 +266,7 @@ With over a decade of experience in the AEC & BIM industry, Techture has establi
 
 Every structural model is created in Autodesk Revit, Tekla, or Advance Steel, for the required Level of Development (LOD 200–400). These models then undergo extensive QA/QC checks to ensure alignment with design drawings and supporting clash detection, construction sequencing, quantity take-offs, and design validation, helping engineers and contractors to make informed decisions and eliminate rework.
 
-With hands-on experience in the BIM industry, Techture has been a reliable BIM service provider for different sectors for over a decade. Our experts have delivered more than 1,100 projects to 350+ clients across the globe. We make sure every model reflects design intent and can be converted into reality with real-world construction logic, enabling our clients with smoother coordination, faster approvals, and fewer on-site reworks.`
+With hands-on experience in the BIM industry, Krypta Tech has been a reliable BIM service provider for different sectors for over a decade. Our experts have delivered more than 1,100 projects to 350+ clients across the globe. We make sure every model reflects design intent and can be converted into reality with real-world construction logic, enabling our clients with smoother coordination, faster approvals, and fewer on-site reworks.`
       },
       {
         id: 2,
@@ -277,7 +277,7 @@ With hands-on experience in the BIM industry, Techture has been a reliable BIM s
 
 We make sure each package surpasses our QA/QC checks to verify dimensions, annotations, standards, and constructability. We support contractors with revisions, markups, clash-resolved updates, and RFI responses throughout the project lifecycle, helping them gain reliable, coordination-focused drawing sets that minimize rework, enhance site efficiency.
 
-With over a decade of experience in the AEC & BIM industry, Techture is serving as a leading BIM service provider globally. Helping architects, engineers, consultants, and owners gain clarity and control over their projects. Our strong portfolio stands out with 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors.`
+With over a decade of experience in the AEC & BIM industry, Krypta Tech is serving as a leading BIM service provider globally. Helping architects, engineers, consultants, and owners gain clarity and control over their projects. Our strong portfolio stands out with 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors.`
       },
       {
         id:3,
@@ -288,7 +288,7 @@ With over a decade of experience in the AEC & BIM industry, Techture is serving 
 
 We also run clash detection, conduct coordination reviews, and resolve interface issues before they reach the site to streamline fabrication & on-site execution. Our robust QA/QC checks minimize errors in drawings, maintain consistency, and enable fabricators to produce steel components with confidence. With our steel detailing expertise, we benefit clients by eliminating fabrication delays, reducing rework, and ensuring smoother erection sequencing right from modelling and coordination to final delivery.
 
-Techture has provided accurate BIM modeling services since 2014, and has completed more than 1,100 projects for 350+ clients. Our goal is to help our clients translate design ideas into clear, coordinated digital models that support improved decision-making, save time, and money.`
+Krypta Tech has provided accurate BIM modeling services since 2014, and has completed more than 1,100 projects for 350+ clients. Our goal is to help our clients translate design ideas into clear, coordinated digital models that support improved decision-making, save time, and money.`
       },
       {
         id:4,
@@ -335,7 +335,7 @@ civil: {
 
 We combine every detail, such as client drawings, survey data, and point clouds, to create a comprehensive 3D model & accurate technical document. These deliverables incorporate plans, sections, elevations, and 3D visualizations, highlighting critical parameters like slopes, cut-and-fill areas, drainage patterns & surface details. Helping to validate designs, optimize workflows, detect clashes, and support accurate quantity take-offs. Once the models are completely developed, we make sure they undergo a QA/QC process to check dimensions, alignments, and tolerances. With our well-coordinated surface models and drawings, we help clients make informed decisions, reduce errors, and streamline construction to ensure overall consistency throughout the project life cycle.
 
-Since 2014, Techture has been a top BIM services provider across various regions. Helping project teams move from concept to execution with clarity. We have delivered over 1,100+ projects around the world, and built models that convey design intent accurately and provide the level of detail required for efficient on-site implementation.`
+Since 2014, Krypta Tech has been a top BIM services provider across various regions. Helping project teams move from concept to execution with clarity. We have delivered over 1,100+ projects around the world, and built models that convey design intent accurately and provide the level of detail required for efficient on-site implementation.`
       },
       {
         id: 2,
@@ -346,7 +346,7 @@ Since 2014, Techture has been a top BIM services provider across various regions
 
 These services utilize state-of-the-art BIM and CAD workflows to integrate precise geometry, ground survey data, and alignment information. This enables project teams to assess design options, evaluate multidisciplinary coordination, and implement cost-effective construction techniques. We also provide drawings & data-rich reports that support decision-making, regulatory compliance, and efficient project execution, helping clients to eliminate chances of costly rework. Once the model is made, it undergoes a strict QA/QC process to ensure dimensional accuracy, correct alignments, and compliance with the project standard. With our corridor modeling expertise, project teams benefit from optimized service routing, enhanced constructability, reduced on-site conflicts, and reliable outputs that are ready for fabrication, prefabrication planning.
 
-Techture has been supporting global projects with BIM modeling services since 2014. We have delivered over 1,100 projects for more than 350 clients across different sectors. We emphasize developing models that make communication easier, capture design intent properly, and keep workflows running efficiently.`
+Krypta Tech has been supporting global projects with BIM modeling services since 2014. We have delivered over 1,100 projects for more than 350 clients across different sectors. We emphasize developing models that make communication easier, capture design intent properly, and keep workflows running efficiently.`
       },
       {
         id: 3,
@@ -357,7 +357,7 @@ Techture has been supporting global projects with BIM modeling services since 20
 
 We develop elaborate 3D utility models by integrating survey data, design criteria, and real-world site constraints, capturing every pipe, conduit, duct, cable, valve, and support. These models give a clear visualization of underground and overhead systems, helping stakeholders identify potential conflicts, optimize routing, plan accurate excavations, and reduce construction risks. Our calculated approach ensures that all utility assets are installed perfectly and minimizes the interference with other infrastructure elements. Once the utility model is completed, we make sure it undergoes a strict QA/QC process to check dimensions, alignments, and compliance with standards. We combine our 3D modeling with high-quality documentation to enable project teams to make informed decisions, improve coordination, and reduce errors.
 
-For more than a decade, Techture has been providing BIM modeling services to clients across the globe. With 1,100+ completed projects in different sectors, we aim to create models that simplify discussions between teams, accurately represent the design, and support smooth progress throughout the project timeline.`
+For more than a decade, Krypta Tech has been providing BIM modeling services to clients across the globe. With 1,100+ completed projects in different sectors, we aim to create models that simplify discussions between teams, accurately represent the design, and support smooth progress throughout the project timeline.`
       }
     ]
   },
@@ -370,7 +370,7 @@ For more than a decade, Techture has been providing BIM modeling services to cli
         title: "3D Laser Scanning",
         desc: "Krypta Tech offers industry-leading, high-resolution 3D Laser Scanning Services that capture existing conditions of buildings, infrastructure, and sites.",
         slug: "3d-laser-scanning",
-        details:`At Techture, our tried and true workflows deliver highly accurate spatial data through LiDAR-based scanning and photogrammetry. Using state-of-the-art laser scanners like Leica, Faro, and Trimble, our expert team captures millions of data points in a matter of minutes - which is then meticulously processed to meet the specific needs of each project.
+        details:`At Krypta Tech, our tried and true workflows deliver highly accurate spatial data through LiDAR-based scanning and photogrammetry. Using state-of-the-art laser scanners like Leica, Faro, and Trimble, our expert team captures millions of data points in a matter of minutes - which is then meticulously processed to meet the specific needs of each project.
 
 Our 3D scanning services align with global standards, from supporting your plant digitization process to documenting heritage buildings and monuments, we equip clients with precise, actionable information that aligns with their goals.
 
@@ -381,11 +381,11 @@ Our meticulous and detailed point cloud data serves as the foundation for modeli
         title: "Scan to BIM Services",
         desc: "Our Scan to BIM services convert real-world building data into intelligent BIM models. Krypta Tech delivers highly accurate and intelligent",
         slug: "scan-to-bim-services",
-        details:`Techture has been a pioneer in providing Scan-to-BIM services. Utilizing the power of laser scanning, we capture detailed information about an element in its physical space to enable precise and accurate modeling, coordination, and quantity take-offs.
+        details:`Krypta Tech has been a pioneer in providing Scan-to-BIM services. Utilizing the power of laser scanning, we capture detailed information about an element in its physical space to enable precise and accurate modeling, coordination, and quantity take-offs.
 
 We cater to the specific needs of architects, general contractors, mechanical/plumbing/HVAC contractors and civil contractors in streamlining design, clash detection, coordination, and construction decision-making. By using advanced laser scanners and photogrammetry tools, we capture accurate 3D point clouds that serve as the foundation for Revit-based BIM models.
 
-Techture produces detailed BIM outputs, assisting with different aspects of your project - whether it is 3D model creation, visualization, or quality inspection. We adhere to international BIM standards (like PAS 1192 and ISO 19650) and deliver models compatible with all major platforms, including Revit, AutoCAD, Navisworks, and ArchiCAD.`
+Krypta Tech produces detailed BIM outputs, assisting with different aspects of your project - whether it is 3D model creation, visualization, or quality inspection. We adhere to international BIM standards (like PAS 1192 and ISO 19650) and deliver models compatible with all major platforms, including Revit, AutoCAD, Navisworks, and ArchiCAD.`
       },
       {
         id:3,
@@ -394,7 +394,7 @@ Techture produces detailed BIM outputs, assisting with different aspects of your
         slug:"scan-to-card-services",
         details:`Our Scan to CAD services offer a reliable pathway from field data to design-ready CAD files. Using advanced 3D scanners for CAD modeling and 3D scanners for AutoCAD, we convert point clouds into clean, vectorized outputs suitable for architectural, structural, MEP, interior, and civil engineering applications.
 
-We help stakeholders transition from raw scans to usable data by offering deliverables like DWG, DXF, or DGN files, optimized for use in AutoCAD, MicroStation, and similar platforms. Whether you’re working on restoration, retrofitting, or documentation, Techture ensures every detail of the existing conditions is captured with precision and clarity.`
+We help stakeholders transition from raw scans to usable data by offering deliverables like DWG, DXF, or DGN files, optimized for use in AutoCAD, MicroStation, and similar platforms. Whether you’re working on restoration, retrofitting, or documentation, Krypta Tech ensures every detail of the existing conditions is captured with precision and clarity.`
       },
       {
         id:4,
@@ -414,7 +414,7 @@ Whether it’s tracking assets for renovations, retrofits, or routine upkeep, ou
         slug:"digital-twin-services",
         details:`Our digital twin services provide an immersive, interactive digital replica of your building that evolves throughout its lifecycle—from planning and design to operation and maintenance. Unlike static models, digital twins for buildings integrate real-time data streams, IoT inputs, and AI-powered simulation to deliver dynamic performance tracking and predictive insights.
 
-With years of experience in BIM and digital construction, Techture creates scalable, cloud-integrated digital twin solutions that help you manage building systems more efficiently. Whether you're a facility manager, contractor, or asset owner, our digital twin software bridges the gap between virtual design and physical reality—enabling smart asset management and engineering design optimization.`
+With years of experience in BIM and digital construction, Krypta Tech creates scalable, cloud-integrated digital twin solutions that help you manage building systems more efficiently. Whether you're a facility manager, contractor, or asset owner, our digital twin software bridges the gap between virtual design and physical reality—enabling smart asset management and engineering design optimization.`
       }
     ]
   },
@@ -437,7 +437,7 @@ Whether you’re tracking 5D BIM cost changes, comparing planned vs actual 4D co
         title: "4D Scheduling",
         desc: "Krypta Tech leverages 4D BIM to simulate construction sequences, linking Gantt charts with 3D geometry for precise progress tracking, resource planning, and clash-free execution.",
         slug: "4d-scheduling",
-        details:`Techtures 4D BIM construction sequencing and Scheduling services provides you with the detailed time-driven visualizations that allows all the stakeholders to monitor their construction process. These 4D BIM simulations represents building elements & their surroundings at regular intervals, which helps stakeholders to monitor real-time construction process. Our 4D simulation outputs also helps contractors during the bidding phase, providing them with realistic construction timelines.
+        details:`Krypta Techs 4D BIM construction sequencing and Scheduling services provides you with the detailed time-driven visualizations that allows all the stakeholders to monitor their construction process. These 4D BIM simulations represents building elements & their surroundings at regular intervals, which helps stakeholders to monitor real-time construction process. Our 4D simulation outputs also helps contractors during the bidding phase, providing them with realistic construction timelines.
 
 By mapping start and end dates for the procurement and installation of key components, our 4D BIM models bring clarity to construction sequencing and scheduling.`
       },
@@ -489,7 +489,7 @@ This step helps contractors understand the full scope of work. It also helps the
             image:'/images/service/dart.png',
            
             title:'Manage Tasks and Resources',
-            desc:'With a comprehensive construction schedule prepared by Techture, the project can undergo in a smooth manner as all the tasks and the the resources can be well managed considering the linking of the 3D models to the on-site information.'
+            desc:'With a comprehensive construction schedule prepared by Krypta Tech, the project can undergo in a smooth manner as all the tasks and the the resources can be well managed considering the linking of the 3D models to the on-site information.'
           },
           {
             id:3,
