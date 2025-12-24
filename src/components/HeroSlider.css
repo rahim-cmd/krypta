@@ -79,4 +79,6 @@
   .overlay p {
     font-size: 1rem;
   }
+  .nav.prev{display: none;}
+  .nav.next{display: none;}
 }
