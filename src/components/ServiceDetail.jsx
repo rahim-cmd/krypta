@@ -2,6 +2,7 @@ import { useParams } from "react-router-dom";
 import bimServices from "./data/Bimservices";
 import Breadcrumb from "./Breadcrump";
 import ProcessWorkFlow from "./ProcessWorkFlow";
+import SubServiceTabs from "./SubServiceTabs";
 
 export default function ServiceDetail() {
   const { service, slug } = useParams();
@@ -14,7 +15,7 @@ export default function ServiceDetail() {
     <Breadcrumb/>
     <div className="container mb-5 text-center bg-gray p-3">
     <div className="service-detail shadow p-3">
-      <h1>{item.title}</h1>
+      <h3>{item.title}</h3>
       <p className="font-italic">{item.desc}</p>
     </div>
     <div className="container shadow p-3">
@@ -42,12 +43,17 @@ export default function ServiceDetail() {
           </div>
         </div>
       ))}
+
+      
     </div>
   )
 )}
-
-
     </div>
+</div>
+<div className="container-flex align-items-center justify-content-center justify-item-center">
+  {item.tabs && item.tabs.length > 0 && (
+  <SubServiceTabs tabs={item.tabs} />
+)}
 </div>
 <div className="container text-justify bg-white text-dark shadow">
       <ProcessWorkFlow/>

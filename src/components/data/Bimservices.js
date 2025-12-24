@@ -11,7 +11,63 @@ consulting: {
 
         Our BIM Modeling Services are designed for architects, engineers, contractors, developers, and owners who want to boost accuracy & improve coordination in their architectural, structural, MEP, facade, landscape, and As-Built 3D Modeling projects. We work globally across a variety of sectors, including residential, commercial, retail, hospitality, industrial, infrastructure, data centers, & mission-critical facilities. Depending on the required Building information modeling output, we develop detailed BIM building modeling for LOD 100 (Concept Design), LOD 200 (Coordination & Schematic Design), LOD 300 (Coordination & BOQ/BOM), LOD 400 (Coordination, Fabrication, Scheduling & Shop Drawings), and LOD 500 (As-Built).
 
-       Our expert team uses advanced tools like Autodesk Revit, Navisworks, and BIM 360 to develop models that comply with international standards (ADA, IBC, NFPA, ASHRAE, and SMACNA). Every model designed and developed undergoes rigorous in-house QA & QC checks to ensure the highest quality delivery. Our integrated BIM approach supports clash detection, 4D (scheduling) & 5D (cost estimation), which results in lower costs, better project control, and faster delivery for every client.`
+       Our expert team uses advanced tools like Autodesk Revit, Navisworks, and BIM 360 to develop models that comply with international standards (ADA, IBC, NFPA, ASHRAE, and SMACNA). Every model designed and developed undergoes rigorous in-house QA & QC checks to ensure the highest quality delivery. Our integrated BIM approach supports clash detection, 4D (scheduling) & 5D (cost estimation), which results in lower costs, better project control, and faster delivery for every client.`,
+       tabs:[
+        {
+          id:1,
+          title:'Architectural 3D Modeling',
+          content:`At Techture, we start the projects by analyzing clients' drawings & design inputs. We then develop precise and information-rich 3D architectural models with Autodesk Revit, incorporating key building components (walls, floors, roofs, doors, windows, and ceilings).
+
+Throughout the BIM modelling process, we try to maintain consistency and accuracy at every stage by establishing standardized project settings & ensuring seamless coordination with other disciplines.
+
+Our architectural 3D modeling service not only offers a realistic & detailed visualization but also enables you with concept validation & clash detection. We help our clients with enhanced project outcomes, reduce rework & ensure the model integrates seamlessly across all disciplines, all thanks to our rigorous QA/QC checks.`,
+          image:'/images/service/a3dm.png'
+        },
+        {
+          id:2,
+          title:'Structure 3D Modeling',
+          content:`At Techture, first we review the structural drawings & design inputs and then, with the detailed analysis, our team develops precise 3D structural models using Autodesk Revit, advanced steel & Tekla. We not only ensure accuracy of our model we also ensure our model covers all major structural components (beams, columns, slabs, trusses, & foundations) for RCC, steel &  timber structures.
+
+By defining project standards, we maintain discipline coordination and ensure that every element aligns with the overall architectural and MEP design throughout the modelling process. Each model is developed to the required Level of Development (LOD 200–400), ensuring the right balance of geometry and information for each project stage.
+
+The resulting structural models serve as a reliable base for design validation, quantity estimation, clash detection, and construction planning. With our Quality assurance and quality control process (QA/QC), our model seamlessly integrates across all project disciplines & delivers accurate constructability at every stage of the project.
+`,
+          image:'/images/service/s3dm.png'
+        },
+        {
+          id:3,
+          title:'façade 3D Modeling',
+          content:` At Techture, we specialize in delivering precise Façade Modelling Services. Accurate 3D models developed by our experts comprise every façade element, right from curtain walls, glazing systems, & cladding panels to louvers, mullions & support structures.
+
+With advanced tools like Autodesk, Revit, and Inventor, we ensure our façade models are fully coordinated with other systems and then developed to the required Level of Development (LOD 200-400). Which then undergoes our in-house QA & QC, to ensure the model is aligned with fabrication standards, eliminating the risk of onsite reworks.
+
+We aim to serve clients with the façade models that have a reliable foundation for design validation, shop drawings, quantity estimation & fabrication. Ultimately helping our clients with accuracy, efficiency, & design excellence in every stage of the project
+`,
+          image:'/images/service/f3dm.png'
+        },
+        {
+          id:4,
+          title:'Landscape 3D Modeling',
+          content:`We serve intelligent Landscape BIM models through our landscape 3D modeling service that precisely captures natural site elements (e.g., trees, water bodies, & vegetation), terrain, & topography. We ensure precise & realistic site representation by integrating survey and GIS data for effective planning & coordination.
+
+Our services include terrain modelling, grading, drainage design, hardscape detailing, planting layouts, irrigation systems, and exterior lighting integration. Each model is created in Revit or Civil 3D up to LOD 200–400, depending on the demand, ensuring constructability, coordination, and design accuracy.
+
+Our landscape 3D model service supports excellent visualization, sustainability analysis, &  precise on-site execution. Enabling clients with efficient land use and the creation of functional, well-designed outdoor environments.
+`,
+          image:'/images/service/l3dm.png'
+        },
+        {
+          id:5,
+          title:'As-Built-Modeling',
+          content:`With our high-precision As-Built Modeling Services, we capture real-life conditions of existing infrastructures/buildings/projects for owners, construction teams, architects, engineers, and facility managers. Our highly qualified team uses advanced point cloud data & laser scans to develop digital models that reflect (mirror) the on-site conditions.
+
+With our Scan-to-BIM process, we enable our clients with accurate documentation of renovations, retrofits, & facility management. We make sure these models serve as a dependable foundation for design validation, clash detection, performance analysis, & future project planning.
+
+With our service, we aim to help all the stakeholders gain a clear understanding of existing conditions, so that they can be empowered with smarter decisions and seamless integration between existing structures and new design interventions.`,
+          image:'/images/service/abm.jpg'
+        },
+       
+       ]
       },
       {
         id: 2,
