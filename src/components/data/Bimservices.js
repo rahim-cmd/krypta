@@ -167,7 +167,45 @@ tabs:[
 
 Our experts use leading software such as Autodesk Revit, AutoCAD, Navisworks, and BIM 360 to edge you with seamless coordination and model integrity. Depending on the project clients' demand and requirements, we deliver drawings from LOD 300 to LOD 450. We collaborate closely with different stakeholders such as contractors, consultants, & fabricators, to ensure the timely delivery of accurate model and shop drawings so that they minimize rework, avoid clashes, and streamline construction execution.
 
-With a strong portfolio of 1000+ completed projects, we have helped 300+ clients to find their specific BIM needs. Since 2014, we have delivered to our clients a precise and detailed model that turns complex data into a reliable and efficient workflow.`
+With a strong portfolio of 1000+ completed projects, we have helped 300+ clients to find their specific BIM needs. Since 2014, we have delivered to our clients a precise and detailed model that turns complex data into a reliable and efficient workflow.`,
+tabs:[
+  {
+    id:1,
+    title:'Architectural Shop Drawings',
+    content:`Our architectural shop drawings precisely cover wall sections, door & window schedules, ceiling layouts, interior elevations, joinery, & finishing details, transforming design intent into an actionable document. Our highly qualified experts use Autodesk Revit, AutoCAD, and BIM 360 platforms to deliver accurate 2D and 3D outputs across LOD 300 to 450. Also, we make sure our drawings maintain alignment with proper project specifications, BEP, and quality standards. Our streamlined BIM-driven workflow minimizes RFIs, enhances multi-discipline coordination, and ensures that every detail is buildable, compliant, and ready for execution on site, helping clients achieve precision, efficiency, and confidence throughout the construction process.`,
+    image:'/images/service/architectural-shop-drawing.png'
+
+  },
+  {
+    id:2,
+    title:'Structural Shop Drawing',
+    content:`Our comprehensive structural shop drawing services ensure accuracy, constructability, and full coordination across all project disciplines. Our experienced team uses platforms such as Autodesk Revit, AutoCAD, Advance Steel, and BIM 360, delivering drawings that are fabrication-ready and cover steel structures, reinforced concrete, precast components, & other load-bearing systems. Our workflow includes rebar detailing, connection detailing, anchor bolt layouts, assembly drawings, and erection plans, which are perfectly coordinated with other disciplines (architectural and MEP). We produce 2D & 3D structural shop drawings across LOD 300 - 450, ensuring compliance with project specifications, international codes, and QA/QC requirements. This helps our clients gain precise, clash-free documentation for error-free installation.`,
+    image:'/images/service/structural-shop-drawing.png'
+
+  },
+  {
+    id:3,
+    title:'MEP Shop Drawing',
+    content:`Our MEP Shop Drawing Services ensure precise coordination & constructability across mechanical, electrical, and plumbing systems. We start by creating an LOD 300 model, focusing on the spatial coordination of HVAC, electrical, plumbing, and fire protection systems using Revit and Navisworks, empowering the site team with a hassle-free, easy installation plan. We make sure our model covers all critical aspects like equipment layouts, duct and pipe routing, supports, and clearances.
+We deliver accurate 2D & 3D MEP drawings across LOD 300 - 450, with perfect project standards, BEP, and QA/QC protocols. Our scope includes coordinated modeling, clash detection & resolution, sleeve and hanger layouts, equipment detailing, and spool drawing creation for fabrication and site installation. For faster field assembly, these spool drawings are generated directly from the BIM model to ensure precise segmentation, labeling, and connectivity.`,
+    image:'/images/service/MEP-shop-drawing.png'
+
+  },
+  {
+    id:4,
+    title:' Façade Shop Drawing',
+    content:`Our precise Façade Shop Drawing Service ensures smooth integration with architectural and structural systems. Our experts use Autodesk Revit, AutoCAD, Rhino, and BIM 360 to produce fabrication-ready façade drawings that incorporate all the essential elements like curtain walls, glazing, cladding, louvers, and unitized panel systems. Also, our coordinated 2D & 3D façade documentation across LOD 300–450, including setting-out plans, bracket details, connection layouts, and panel assembly drawings.`,
+    image:'/images/service/facade-shop-drawing.png'
+
+  },
+  {
+    id:5,
+    title:'Stone Shop Drawing',
+    content:`Our fabrication-ready stone shop drawing service boosts your installation journey with a flawless and accurate stone cladding system. Our skilled professionals use tools like Autodesk Inventor and Revit to develop 3D models and produce detailed stone layout and fixing drawings for wall cladding, flooring, staircases, countertops, and façade applications. We deliver 2D & 3D stone shop drawings across LOD 300–450, fully integrated with architectural and structural models.`,
+    image:'/images/service/stone-shop-drawing.png'
+
+  },
+]
       },
       {
         id:5,
