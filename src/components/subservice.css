@@ -1,0 +1,11 @@
+button{
+    word-wrap: break-word;
+}
+
+@media only screen and (max-width:768px){
+
+    button{
+        width:90vw;
+        background-color: orange;
+    }
+}

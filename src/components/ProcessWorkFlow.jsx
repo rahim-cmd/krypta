@@ -4,6 +4,10 @@ const ProcessWorkFlow = () => {
   return (
     <>
       <div className="row p-5">
+        <div className="container text-center mb-5">
+
+        <h3>Process Flow</h3>
+        </div>
         <div className="col-lg-6 col-md-6 col-sm-6">
             <img className="img-fluid" src="/images/projectflow/img-1.png" alt="project-flow" />
         </div>

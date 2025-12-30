@@ -14,11 +14,11 @@ export default function ServiceDetail() {
     <>
     <Breadcrumb/>
     <div className="container mb-5 text-center bg-gray p-3">
-    <div className="service-detail shadow p-3">
+    <div className="service-detail p-3">
       <h3>{item.title}</h3>
-      <p className="font-italic">{item.desc}</p>
+      <p className="text-muted">{item.desc}</p>
     </div>
-    <div className="container shadow p-3">
+    <div className="container p-3">
 {item.details && (
   typeof item.details === "string" ? (
     <p>{item.details}</p>
@@ -26,10 +26,10 @@ export default function ServiceDetail() {
     <div className="row">
       {item.details.map(result => (
         <div
-          className="col-lg-4 col-md-4 col-sm-12 text-center"
+          className="col-lg-4 col-md-4 col-sm-12 text-justify"
           key={result.id}
         >
-          <div className="card text-center h-100" style={{ width: "18rem" }}>
+          <div className="card text-justify h-100" style={{ width: "18rem" }}>
             <img
               src={result.image}
               className="card-img-top"

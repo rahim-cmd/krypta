@@ -16,7 +16,7 @@ consulting: {
         {
           id:1,
           title:'Architectural 3D Modeling',
-          content:`At Techture, we start the projects by analyzing clients' drawings & design inputs. We then develop precise and information-rich 3D architectural models with Autodesk Revit, incorporating key building components (walls, floors, roofs, doors, windows, and ceilings).
+          content:`At Krypta Tech, we start the projects by analyzing clients' drawings & design inputs. We then develop precise and information-rich 3D architectural models with Autodesk Revit, incorporating key building components (walls, floors, roofs, doors, windows, and ceilings).
 
 Throughout the BIM modelling process, we try to maintain consistency and accuracy at every stage by establishing standardized project settings & ensuring seamless coordination with other disciplines.
 
@@ -26,7 +26,7 @@ Our architectural 3D modeling service not only offers a realistic & detailed vis
         {
           id:2,
           title:'Structure 3D Modeling',
-          content:`At Techture, first we review the structural drawings & design inputs and then, with the detailed analysis, our team develops precise 3D structural models using Autodesk Revit, advanced steel & Tekla. We not only ensure accuracy of our model we also ensure our model covers all major structural components (beams, columns, slabs, trusses, & foundations) for RCC, steel &  timber structures.
+          content:`At Krypta Tech, first we review the structural drawings & design inputs and then, with the detailed analysis, our team develops precise 3D structural models using Autodesk Revit, advanced steel & Tekla. We not only ensure accuracy of our model we also ensure our model covers all major structural components (beams, columns, slabs, trusses, & foundations) for RCC, steel &  timber structures.
 
 By defining project standards, we maintain discipline coordination and ensure that every element aligns with the overall architectural and MEP design throughout the modelling process. Each model is developed to the required Level of Development (LOD 200–400), ensuring the right balance of geometry and information for each project stage.
 
@@ -37,7 +37,7 @@ The resulting structural models serve as a reliable base for design validation, 
         {
           id:3,
           title:'façade 3D Modeling',
-          content:` At Techture, we specialize in delivering precise Façade Modelling Services. Accurate 3D models developed by our experts comprise every façade element, right from curtain walls, glazing systems, & cladding panels to louvers, mullions & support structures.
+          content:` At Krypta Tech, we specialize in delivering precise Façade Modelling Services. Accurate 3D models developed by our experts comprise every façade element, right from curtain walls, glazing systems, & cladding panels to louvers, mullions & support structures.
 
 With advanced tools like Autodesk, Revit, and Inventor, we ensure our façade models are fully coordinated with other systems and then developed to the required Level of Development (LOD 200-400). Which then undergoes our in-house QA & QC, to ensure the model is aligned with fabrication standards, eliminating the risk of onsite reworks.
 
@@ -127,7 +127,7 @@ tabs:[
 	{
 		id:2,
 		title:'Training & Implementation',
-		content:`Techture delivers customized BIM training programs tailored to your team's skill level and project needs. Our Training and Implementation service serves from infrastructure setup to software selection, guiding your organization through successful BIM adoption. We also assist in deploying the right tools for on-site model management, 3D Coordination, & quality control, to make sure teams are equipped to resolve challenges in real time and maintain high productivity on the construction site.`,
+		content:`Krypta Tech delivers customized BIM training programs tailored to your team's skill level and project needs. Our Training and Implementation service serves from infrastructure setup to software selection, guiding your organization through successful BIM adoption. We also assist in deploying the right tools for on-site model management, 3D Coordination, & quality control, to make sure teams are equipped to resolve challenges in real time and maintain high productivity on the construction site.`,
 		image:'/images/service/training-and-documentation.jpg'
 	},
 	{
@@ -151,7 +151,7 @@ tabs:[
 	{
 		id:6,
 		title:'Cupix',
-		content:`Techture leverages Cupix to capture as‑built conditions quickly and accurately, uploading panoramas to the cloud. Clients can remotely inspect site conditions, measure clearances, and verify installations against design data, reducing travel costs and project delays. We also customize dashboards & reporting tools to highlight progress, resolve issues, and track changes over time, and also train your staff on Cupix best practices. We make sure all stakeholders have access to up‑to‑date site information and deliver enhanced site visibility and faster decision‑making.`,
+		content:`Krypta Tech leverages Cupix to capture as‑built conditions quickly and accurately, uploading panoramas to the cloud. Clients can remotely inspect site conditions, measure clearances, and verify installations against design data, reducing travel costs and project delays. We also customize dashboards & reporting tools to highlight progress, resolve issues, and track changes over time, and also train your staff on Cupix best practices. We make sure all stakeholders have access to up‑to‑date site information and deliver enhanced site visibility and faster decision‑making.`,
 		image:'/images/service/cupix.jpg'
 	},
 		
@@ -256,7 +256,7 @@ tabs:[
   }
 ]
       },
-      {
+  {
         id:6,
         title:"BIM Model Auditing",
         desc:"Krypta Tech provides expert BIM Model Auditing services that ensure your models are accurate, compliant, and fully coordinated. ",
@@ -265,7 +265,37 @@ tabs:[
 
 Our team of experts meticulously review each model to identify inconsistencies, missing data, and deviations from the project using tools such as Solibri, Navisworks, Revizto, Procore, and Revit. Our detailed audits highlight modeling errors, standard violations, and reliability issues. The detailed report is then drafted by our experts with clear issue logs and corrective recommendations for the clients, and helps them by hosting a collaborative meeting for all stakeholders to resolve the clashes. This approach not only minimises rework but also ensures faster project delivery.
 
-Since 2014, Krypta Tech has been a trusted partner in BIM Model Auditing services worldwide. With a growing network of satisfied clients, we help project teams detect clashes and coordinate effectively throughout the project cycle. With a strong portfolio of 1,000+ completed projects, we not only help you with smart solutions we also turn design intent into precision-built reality.`
+Since 2014, Krypta Tech has been a trusted partner in BIM Model Auditing services worldwide. With a growing network of satisfied clients, we help project teams detect clashes and coordinate effectively throughout the project cycle. With a strong portfolio of 1,000+ completed projects, we not only help you with smart solutions we also turn design intent into precision-built reality.`,
+tabs:[
+  {
+    id:1,
+    title:'Model Compliance and Quality Check',
+    content:`At Techture, our Model Compliance and Quality Check process ensures every BIM model meets the highest standards of accuracy and consistency. We follow a two-step QC process to ensure discipline-specific checks using our in-house QC checklist. And make sure every element is validated against drawings, specifications, & international BIM standards. Each model then undergoes a second review by our QC Manager, who makes sure the model is ready to be forwarded before final delivery. This structured approach guarantees that all models are audit-ready, reliable, and fully aligned with project requirements. `,
+    image:'/images/service/mcqc.png'
+  },
+  {
+    id:2,
+    title:'Clash Coordination',
+    content:`Our Clash Coordination audit service comprises detailed clash detection across all disciplines to identify and resolve hard & soft clashes. Our experts use tools like Navisworks, Solibri, Revit, and Autodesk Construction Cloud (ACC) to identify clashes. Helps them to resolve clashes according to the type, location, and severity before the actual construction begins.
+
+Our team hosts a coordination meeting with all the stakeholders to assign responsibility and discuss the necessary steps to be taken. If required techture also provides RFIs with images and detailed logs to ensure enhanced communication. Once the clashes are resolved, we again run the clash detection to ensure all the clashes are cleared, which ultimately results in onsite errors and costly reworks, and  empowering general contractors with clash-free design for construction`,
+    image:'/images/service/cc.png'
+  },
+  {
+    id:3,
+    title:'Coordination Review And Reporting',
+    content:`Our coordination review service maintains smooth coordination by ensuring consistency across all disciplines. Our experts not only automate the checks but also conduct manual visual reviews for architectural, structural & MEPF to ensure the BIM models represent the intended design.
+
+After this, we provide a detailed report comprising model misalignment & overlaps. To enhance the communication, we also provide RFIs with images and detailed logs if required. We also host a thorough feedback session with all the stakeholders to assign and discuss actionables to be taken. And once everything is corrected, we proceed with creating fully coordinated drawings. This structured process not only helps om minimize design-related delays but also helps general contractors to reduce costly reworks`,
+    image:'/images/service/crar.png'
+  },
+  {
+    id:4,
+    title:'Constructability & Pre-Construction Audits',
+    content:`In this Constructability & Pre-Construction Audits service begins with a multidisciplinary audit across all disciplines, such as architecture, structural, and MEPF. Ensuring the design is practical & executable. This helps us validate the efficient construction and sequencing with the on-site conditions. Resulting in fewer rework and delays.`,
+    image:'/images/service/cpca.png'
+  },
+]
       },
       {
         id:7,
