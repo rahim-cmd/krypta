@@ -216,7 +216,45 @@ We deliver accurate 2D & 3D MEP drawings across LOD 300 - 450, with perfect proj
 
 Our expert team uses popular estimation and takeoff platforms such as BIM 360 & Navisworks to help our clients reduce rework and enhance collaboration across teams. We ensure our service complies with different industry standards such as NRM, CSI MasterFormat, RICS & ISO BIM protocols, by our multilevel QA & QC checks.
 
-Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Krypta Tech, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. At Krypta Tech, we don’t just build models; we help our clients bring their ideas to life more clearly and efficiently with intelligent, data-driven 3D BIM models.`,
+tabs:[
+  {
+    id:1,
+    title:'Architectural Quantity Takeoff',
+    content:`Our architectural quantity take-off service helps you generate accurate material & quantity estimates. We develop a detailed architectural model that comprises every element, right from walls & finishes to openings & roof, with the help of project drawings. We only proceed with the model that is approved by our in-house QA & QC for extracting quantities; this process ensures the data is accurate & precise. This data-driven approach supports cost planning & procurement by providing clients with reliable BOQs & visual quantity breakdowns.`,
+    image:'/images/service/aqto.jpg'
+  },
+  {
+    id:2,
+    title:'Structural Steel Quantity Takeoff',
+    content:`Our structural steel quantity takeoff service provides an estimation for the member count & detailed tonnage analysis. We first develop a 3D structural model with all elements (columns, foundations, beams, slabs, and reinforcements). Then, once we accurately develop this model, we extract material quantities directly from the BIM environment. Resulting in precision and consistency across all structural components and a traceable BOQ that supports cost estimation, planning, and procurement without any errors.`,
+    image:'/images/service/ssqt.png'
+  },
+  {
+    id:3,
+    title:'MEP Quantity Takeoff',
+    content:`In the MEP Quantity Take-off service, we represent the mechanical, electrical, and plumbing systems accurately with coordinated 3D modeling. Our model is created as per design intent with each service, such as ducts, pipes, conduits, etc, to capture every single measurable element. We then extract discipline-wise quantities & generate detailed BOQs from the validated model by our in-house QA & QC. This helps our clients plan budgets efficiently and also removes the chances of rework at the site.`,
+    image:'/images/service/mepqto.png'
+  },
+  {
+    id:4,
+    title:'Precast Quantity Takeoff',
+    content:`In our precast quantity takeoff service, we built a 3D Model covering every precast element, such as walls, slabs, beams, columns, and stair units. Once the model is ready, quantities and part schedules are extracted from the BIM model to directly produce accurate BOQs and fabrication lists and eliminating manual guesswork. This helps our clients with precise element-wise calculation, volume-based quantities, and critical embedded items such as lifting hooks and connections.`,
+    image:'/images/service/pqto.png'
+  },
+  {
+    id:5,
+    title:'Facade Quantity Takeoff',
+    content:`With our Façade quantity takeoff service, clients get highly detailed takeoffs, covering every geometry & connection detail. We incorporate every calculation right from simple areas to component-level tracking for panels, mullions, transom, bracket, sealant joint, brackets & anchoring systems. This allows us to extract precise quantities directly from the model & provide teams with reliable, fabrication-ready data backed by our in-house QA & QC.`,
+    image:'/images/service/fqto.png'
+  },
+  {
+    id:6,
+    title:'Rebar Quantity Takeoff',
+    content:`Our Rebar quantity takeoff service provides bar-bending schedule (BBS) generation & reinforcement detailing from the model. We make sure this 3D model is validated by our experts and undergoes a robust QA & QC, ensuring every captured detail is accurate and precise to eliminate the chance of rework.`,
+    image:'/images/service/rqto.png'
+  }
+]
       },
       {
         id:6,
