@@ -359,7 +359,43 @@ Augin- we use this typically for infrastructure projects by providing on-site BI
 
 We make sure our content has every specification and follows the standard right from LOD100 to LOD 500, and also COBie-ready to hand over the crucial building info for future operation and maintenance. Our services are aligned with global standards such as AIA and NBS, ensuring seamless integration into collaborative environments. We also use optimized workflows and Dynamo-driven automation for a perfect balance between detail & usability. Perfect for manufacturers needing standardized libraries or a perfect digital twin.
 
-Since 2014, we have been the leading BIM service provider globally, helping our clients achieve their desired results with precise and accurate 3D BIM modeling. With a strong portfolio of 1,000+ completed projects, we have served over 300 clients and make sure their idea comes into reality with precision.`
+Since 2014, we have been the leading BIM service provider globally, helping our clients achieve their desired results with precise and accurate 3D BIM modeling. With a strong portfolio of 1,000+ completed projects, we have served over 300 clients and make sure their idea comes into reality with precision.`,
+tabs:[
+  {
+    id:1,
+    title:'Revit Family Creation',
+    content:`Techture, BIM Component Modelling service, provides customised BIM component modelling and content creation across LOD 100, LOD 200, LOD 400, and LOD 500. Delivering data-rich Revit families, manufacturer-specific objects, and parametric library assets. We balance graphical fidelity with performance, and ensure solutions are designed to enhance design accuracy and coordination throughout the project. All the components are COBie-ready and comply with standard & protocol, so that they can be integrated smoothly into the workflow built to support coordination, 4D/5D modeling, fabrication, and facilities management.`,
+    image:'/images/service/rfcr.png'
+
+  },
+  {
+    id:2,
+    title:'Parametric Families & Customized Geometry',
+    content:`Our Parametric Families & Customized Geometry service helps you customize BIM components, including complex geometries and parametric families in Revit. Our experts parametrically define each family for easy adjustments to maintain high graphical fidelity without overloading the BIM environment, so that your unique project requirements are met.
+
+We ensure our content is developed according to the industry standards, such as ISO 19650 and AIA LOD definitions. Techture Parametric Families & Customized Geometry service is perfect for design coordination, quantity take-offs, fabrication, or facilities management. Also, facilitates you with families that are data-rich, COBie-ready.`,
+    image:'/images/service/pfcg.jpg'
+
+  },
+  {
+    id:3,
+    title:'Standardization & Library Setup',
+    content:`With a decade of experience in the BIM industry, we specialize in embedding detailed and structured information in the BIM components. We start off by providing all information needed by the client to understand the project, which includes details on material specification, dimensions, and performance attributes. Our process aligns with industry standards, including ISO 19650 and LOD definitions. Allowing seamless integration into downstream applications, including design coordination, cost estimation, and facility management.
+
+By combining data-rich modeling and  LOD compliance, and optimized performance, we deliver BIM content that is highly accurate for every stage of the project lifecycle. This ensures designers and contractors can easily interpret the model and streamline workflows.`,
+    image:'/images/service/sls.jpg'
+
+  },
+  {
+    id:4,
+    title:'Template & Shared Parameter',
+    content:`In addition to our BIM creation services, we also offer Template & Shared Parameter setup. This service we develop custom Revit templates with industry-standard shared parameters to give your project consistency, coordination, and data accuracy.
+
+We create standardized templates and shared parameter sets that streamline project setups and provide a foundation for effective collaboration. This enhances data integration across different teams and ensures that all relevant information is accessible, allowing teams to work more efficiently and with fewer errors.`,
+    image:'/images/service/rtc.png'
+
+  },
+]
 
       },
       {
