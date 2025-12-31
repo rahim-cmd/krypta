@@ -557,7 +557,27 @@ Whereas for completed projects, our As-Built Documentation service accurately re
         title: "BIM for Prefabrication",
         desc: "BIM for Prefabrication helps general contractors, Structural engineers, and fabricators create high-quality, clash-free assemblies that reduce errors, save costs, and accelerate installation timelines.",
         slug: "bim-for-prefabrication",
-        details: `Our state-of-the-art BIM fabrication modeling is integrated into a smart digital workflow – allowing teams to efficiently design, coordinate, and construct modular building systems. Whether you need fabrication-ready 3D models or clear installation and assembly drawings, our services make off-site construction practical, accurate, and repeatable. Our prefab experts make it easy to get your prefabrication all the way from coordination of design to final installation on site.`
+        details: `Our state-of-the-art BIM fabrication modeling is integrated into a smart digital workflow – allowing teams to efficiently design, coordinate, and construct modular building systems. Whether you need fabrication-ready 3D models or clear installation and assembly drawings, our services make off-site construction practical, accurate, and repeatable. Our prefab experts make it easy to get your prefabrication all the way from coordination of design to final installation on site.`,
+        tabs:[
+          {
+            id:1,
+            title:'Fabrication Modeling',
+            content:`We create accurate, clash-free BIM models for prefabricated items such as structural panels, modular frames, piping assemblies, and mechanical units. Each model BIM we create is matched with fabrication requirements and tolerances. This guarantees that all components are fabrication-ready. Clients no longer need to rely on guesswork or manual tweaks because we provide precise dimensions, materials, and fabrication details. This minimizes expensive errors in the course of manufacturing and installation. With our fabrication modeling, coordination with vendors, fabricators, and contractors is simplified so that the all the parties work with the same accurate model.`,
+            image:'/images/service/fm.jpg'
+          },
+          {
+            id:2,
+            title:'Equipment Modeling',
+            content:`Our team assists Structural consultants and engineers in creating BIM-friendly models for complex equipment such as struts, trapeze beams and embed rods and other structural components. Each model is rich in technical parameters and installation requirements, so that they align seamlessly with other building systems. We focus on creating parametric families and product libraries that can be reused across multiple projects. This improves efficiency and reduces design time in future projects. Detailed equipment models also help with clash detection and make maintenance planning easier once installed.`,
+            image:'/images/service/em.png'
+          },
+          {
+            id:3,
+            title:'Assembly Drawings',
+            content:`Installation and assembly drawings simplify complex BIM models into pragmatic instructions for shop floor crews and installers. As part of the detailed drawings, we illustrate the step-by-step assembly of the prefabricated components, detailing their integration and installation processes for the site. We provide detailed joint views, fastening details, connection points, and illustrative sequence diagrams. This clarity prevents costly mistakes and eliminates delays during installation. Precise assembly drawings streamline inspections and quality checks, increasing their reliability and efficiency.`,
+            image:'/images/service/ad.png'
+          },
+        ]
       },
     ]
   },
