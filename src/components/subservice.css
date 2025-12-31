@@ -1,11 +1,15 @@
-button{
+#serviceButton{
     word-wrap: break-word;
 }
 
 @media only screen and (max-width:768px){
 
-    button{
+    #serviceButton{
         width:90vw;
-        background-color: orange;
+        background-color: orange !important;
+    }
+    #serviceButton:hover{
+        background-color: black !important;
+        color:white !important;
     }
 }

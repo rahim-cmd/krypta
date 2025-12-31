@@ -16,7 +16,7 @@ const SubServiceTabs = ({tabs}) => {
         {tabs.map(tab => (
         <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
           <div key={tab.id} className="btn-group mr-2 ">
-            <button
+            <button id="serviceButton"
               className={`btn btn-warning mb-2 ${activeTab === tab.id ? "active" : ""}`}
               onClick={() => setActiveTab(tab.id)}
             >
