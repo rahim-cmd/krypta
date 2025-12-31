@@ -516,7 +516,41 @@ These services help digitize legacy documentation for design, BIM integration, a
 
 Our highly expert team uses BIM platforms like Revit, AutoCAD, and Navisworks, integrated with Autodesk Construction Cloud (ACC), and converts models from LOD300 to LOD400 construction-ready documents. Every model undergoes an in-house clash detection test, which is documented and discussed in a clash coordination meeting. Once all the clashes are resolved, we update the necessary changes in the document and hand over the Construction Drawings, shop drawings, IFC packages, estimation data, and as-built documentation to the contractors.
 
-With a strong portfolio of over 1100+ completed projects and 300+ satisfied clients, we have been serving as the leading BIM service provider since 2014. We aim to build a model that serves our clients by providing a sustainable and cost-effective solution to bring their vision to reality.`
+With a strong portfolio of over 1100+ completed projects and 300+ satisfied clients, we have been serving as the leading BIM service provider since 2014. We aim to build a model that serves our clients by providing a sustainable and cost-effective solution to bring their vision to reality.`,
+tabs:[
+  {
+    id:1,
+    title:'Architectural Construction Drawings',
+    content:`Our architectural construction drawing services help architects, builders, and developers transform design concepts into precise, build-ready drawings. Our drawings and BIM documentation ensure accuracy, coordination, and compliance throughout construction.
+
+Our team prepares complete drawing sets, including floor plans, elevations, sections, details, and schedules, developed to LOD 300–400 standards using industry-leading tools like Revit and AutoCAD. We ensure that every sheet follows the correct documentation style, layer standards, and local building codes. Also, we closely collaborate with structural and MEP teams to coordinate models and minimize errors, delivering perfect execution. Our service serves residential, retail, and commercial projects worldwide.`,
+    image:'/images/service/acd.png'
+  },
+  {
+    id:2,
+    title:'Structural Construction Documentation',
+    content:`We serve our structural construction documentation service in different markets, such as residential, commercial, & industrial, while ensuring our drawings translate designs into clear construction documents. With a focus on precision and accuracy, our structural drawings and reinforcement detailing also ensure safety & compliance with different industry standards. 
+
+Our team uses advanced tools like Revit Structure, AutoCAD, Advance Steel, and Tekla to deliver high-quality structural drafting & BIM documentation, which includes foundation plans, framing layouts, column and beam schedules, and reinforcement details. We also make sure our drawings are coordinated with other disciplines (architectural &MEP)  to eliminate design errors.`,
+    image:'/images/service/scd.png'
+  },
+  {
+    id:3,
+    title:'Shop Drawing & Fabrication Documentation',
+    content:`Our shop drawing & fabrication drawing services accurately represented every element for manufacturing & installation. These highly detailed and coordinated drawings help our contractors, fabricators, and engineers execute projects with precision & efficiency. Our expertise covers architectural shop drawings, structural shop drawings, & MEP shop drawings, including rebar drawings, steel detailing, HVAC ducting layouts, piping and plumbing shop drawings, electrical layouts, and millwork/joinery fabrication drawings and more. Using advanced software such as AutoCAD, Revit, Tekla, and Navisworks, our experts make sure each drawing is developed with project specifications, fabrication standards, and details required to deliver smooth and seamless execution on site.
+
+`,
+    image:'/images/service/ifcd.png'
+  },
+  {
+    id:4,
+    title:'IFC Drawings and As-Built Documentation',
+    content:`Our IFC (Issued for Construction) drawings service provides sets that are fully coordinated across architectural, structural, & MEP disciplines, enabling smooth construction workflows.
+
+Whereas for completed projects, our As-Built Documentation service accurately represents the final built conditions.Capturing all field changes, installations, and modifications made during construction, which are developed up to LOD 500 standards. This provides clients with a verified record for facility management, maintenance, and renovation work.`,
+    image:'/images/service/sdfd.png'
+  },
+]
       },
       {
         id: 11,
