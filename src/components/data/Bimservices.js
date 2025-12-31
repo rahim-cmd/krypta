@@ -306,9 +306,51 @@ After this, we provide a detailed report comprising model misalignment & overlap
 
 This experience enables us to enhance capabilities like clash detection, construction sequencing (4D), and cost integration (5D), helping project teams with better planning and budgeting. VR/AR environments with BIM enable clients to explore material options, layouts, and freeze their preferred design choices, all with unmatched accuracy. Also, reality capture workflows such as scan-to-BIM allow as-built conditions to be integrated seamlessly into digital models for renovation. This not only helps clients but also helps alongside architects and contractors, identify issues, validate decisions, and align expectations without ambiguity, resulting in fewer reworks and enhanced communication.
 
-Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. We’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. We don’t just build models; we help our clients bring vision into intelligent, data-driven 3D BIM models.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. We’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. We don’t just build models; we help our clients bring vision into intelligent, data-driven 3D BIM models.`,
+tabs:[
+  {
+    id:1,
+    title:'Walkthroughs and Render',
+    content:`Our Walkthroughs and Renders service enhances communication between stakeholders through high-quality 3D walkthroughs. This photo-realistic render and BIM-based visuals produce immersive flythroughs & panoramic views, making designs true-to-life. Unlike traditional static drawings, these visualizations allow owners, clients, and decision-makers to evaluate design intent before actuall construction begins and make complex details easy to understand. Ensuring combination of BIM with visualization tools leads to faster approvals & greater coordination.`,
+    image:'/images/service/wtnr.jpg'
+  },
+  {
+    id:2,
+    title:'BIM & Virtual Reality',
+    content:`Our BIM & Virtual Reality service delivers BIM & CAD models into immersive virtual experiences. Allowing clients to explore architectural designs, interiors, commercial operations, and works of visual art.
+Our experts use platforms like Unreal Engine & Twinmotion to produce high-resolution imagery, photorealistic panoramas, & 360° VR walkthroughs. Helping clients understand spatial relationships and validate design decisions. Our BIM & Virtual Reality Services are not only visually appealing but technically accurate, serving as powerful tools for stakeholder engagement, marketing, and project approvals.`,
+    image:'/images/service/bnvr.jpg'
+  },
+  {
+    id:3,
+    title:'BIM & Augmented Reality',
+    content:`Our BIM & Augmented Reality service delivers BIM data into immersive virtual experiences with tools like Unity Reflect. Helping stakeholders to place, visualize, and interact with design models. accelerates decision-making, early clash detection to enhance workflow. Our experts ensure LOD-based models and AR workflows ensure both visual richness and technical accuracy. Our BIM & Virtual Reality service fosters clear, real-time collaboration for unmatched detailing.
+
+Whether overlaying proposed structures on site or exploring detailed material finishes and spatial layouts, our AR visualizations foster clear, real-time collaboration. With fidelity at industry-grade levels (LOD-based models), our AR workflows ensure both visual richness and technical accuracy across all stages from concept through construction and beyond.`,
+    image:'/images/service/bnar.jpg'
+  },
+  {
+    id:4,
+    title:'VR & AR Capabilities',
+    content:`Techture offers advanced VR and AR solutions to help clients visualize their projects in real-time. We use a variety of software expertise for our clients with VR & AR requirements.
+‍
+
+VR Tools that we use in our BIM projects-
+
+Resolve- we use this tool for construction coordination, clash detection, and issue resolution directly within BIM models.
+IrisVR- We use this to offer immersive VR experiences for design review, client presentations, and coordination directly from BIM models.
+Vrex- we utilize this tool for BIM model review, issue tracking, and immersive walkthroughs for AEC teams.
+AR Tools that we use in our BIM projects-
+
+GammaAR- This tool helps our clients by allowing users to overlay BIM models on-site for visualization and issue management.
+Augin- we use this typically for infrastructure projects by providing on-site BIM visualization
+`,
+    image:'/images/service/vrnar.png'
+  },
+]
       },
-      {
+
+  {
         id:8,
         title:"BIM Content Creation",
         desc:"Krypta Tech, specialize in delivering high-quality BIM content for AEC professionals, covering everything from Revit families and parametric objects to templates and libraries.",
