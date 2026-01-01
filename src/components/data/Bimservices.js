@@ -730,7 +730,46 @@ Our experts use Revit-based workflows to ensure every element is aligned with de
 
 Our documentation service includes ACP panel layouts, skylight shop drawings, shading system details, fabrication sheets, panelization plans, installation sequencing, section cuts, material schedules, and connection details; all developed using Revit, AutoCAD, and façade design tools. With a strong focus on precision, buildability, and coordination, our façade BIM services reduce rework, accelerate installation, and deliver a fully coordinated digital blueprint that supports smooth and error-free façade construction.
 
-Since 2014, Krypta Tech has been providing advanced BIM services globally. Helping architects, engineers, consultants & owners gain clarity and control of their projects at every stage of their project. We offer a precise BIM solution for different sectors, including educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural.`
+Since 2014, Krypta Tech has been providing advanced BIM services globally. Helping architects, engineers, consultants & owners gain clarity and control of their projects at every stage of their project. We offer a precise BIM solution for different sectors, including educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural.`,
+tabs:[
+  {
+    id:1,
+    title:'Curtain Wall & Profile Detailing',
+    content:`Our curtain wall & profile detailing includes development of exterior enclosure systems that combine performance, aesthetics & constructability. This includes designing and detailing mullions, transoms, brackets, pressure plates, gaskets, glazing interfaces, and all supporting profiles required to achieve structural stability. This extensive process makes sure the façade meets thermal, waterproofing, and wind-load standards while ensuring the original architectural intent is not disturbed. We also coordinate structural & service elements to avoid clashes and to ensure seamless integration across the building envelope.This service also facilitates detailed shop drawings, assembly diagrams, and installation sequences for standard & custom façade systems. The precise detailing ensures absolute compliance with strict manufacturer standards and specific project specifications, irrespective of whether the design incorporates materials like aluminium, glass, composite panels, fins, or more complex hybrid façade types. Helping fabricators, contractors, and site teams understand the system's specific requirements, which subsequently minimizes costly rework and guarantees optimal, high-quality performance of the installed façade.
+
+`,
+    image:'/images/service/facade-bim-services/img-1.png'
+  },
+  {
+    id:2,
+    title:'Facade 2D Drafting',
+    content:`Our facade 2D drafting service creates 2D drawings illustrating the exterior envelope of a building. These accurate & detailed drawings include elevations, sectional views, and component details that represent panel layouts, joint locations, material transitions, glazing lines, and structural connections. Our highly qualified experts convert the architectural façade concept into precise technical documentation that helps fabrication and construction teams to proceed with confidence.
+
+This service ensures full clarity on dimensions, fixing mechanisms, tolerances, and alignment details required for smooth installation. Whether the façade consists of glass, aluminium, ACP, stone, metal cladding, or mixed materials, the 2D drafts communicate exact specifications, performance requirements, and design intent. These drawings serve as the foundation for façade engineering, estimation, and site execution, reducing ambiguity and ensuring a coordinated, buildable façade system.
+
+`,
+    image:'/images/service/facade-bim-services/img-2.png'
+  },
+  {
+    id:3,
+    title:'Facade 3D BIM Modeling',
+    content:`Our facade 3D BIM modeling service develops data-rich digital models of a building’s external envelope, including curtain walls, cladding systems, glazing assemblies, ACP panels, louvers, skylights, and shading systems. Using Revit and advanced BIM workflows, our experts create façade models from LOD 100 (concept) to LOD 400 (construction-ready), ensuring accurate geometry, parametric behaviour, and system-level coordination. The model captures every façade component like mullions, transoms, gaskets, brackets, fixings, insulation, and weatherproofing layers, resulting in clear visualization and clash-free integration with architectural & structural elements.
+This extensive BIM model supports façade engineering, quantity take-offs, accurate quantity take-offs, detailed fabrication planning, and precise installation sequencing. It helps identify coordination issues, reduces rework & improves overall constructibility at every stage of the project. Our precise façade assemblies with embedded metadata enhance communication between stakeholders (designers, consultants, manufacturers, and on-site teams). This results in a well-coordinated façade model that streamlines project execution and ensures a high-quality performance for the building envelope.
+
+`,
+    image:'/images/service/facade-bim-services/img-3.png'
+  },
+  {
+    id:4,
+    title:'Facade Shop Drawings & Front Elevation Drawings',
+    content:`Our facade shop drawings & front elevation drawings service provides detailed, construction-ready documentation for precise fabrication & installation. These drawings include precise dimensions, fixing details, panel layouts, glazing specifications, mullion–transom arrangements, joint details, sealant locations, bracketry, anchoring systems, and waterproofing layers. Our highly qualified team ensures every element is coordinated with the discipline models (architectural, structural, and MEP), resulting in reduced clashes and alignment with manufacturer standards.
+
+Our front elevation drawings offer a clear visual representation of the building’s exterior envelope, showcasing façade patterns, material finishes, panel grids, shading elements & overall design intent of the project. When combined with our shop drawings, it helps contractors, fabricators, and installers understand the configuration & supports smooth approvals, accurate fabrication, optimized installation process for high-quality on-site execution.`,
+    image:'/images/service/facade-bim-services/img-4.png'
+  },
+ 
+  
+]
       },
       {
         id: 5,

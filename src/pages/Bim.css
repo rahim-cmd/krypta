@@ -45,6 +45,8 @@
   text-align: center;
   cursor: pointer;
   color:white;
+  font-weight: bolder;
+  
 }
 .service-tab.active {
   background: orange;
