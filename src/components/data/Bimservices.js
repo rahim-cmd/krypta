@@ -694,7 +694,32 @@ By delivering precise, well-organised as-built drawings, we provide stakeholders
 
 Our interior documentation packages incorporate detailed plans, RCPs, flooring layouts, wall elevations, millwork shop drawings, schedules, material specifications, and installation details. Our experts use Revit and BIM-centric workflows to prepare drawings that are properly dimensioned, clearly annotated, and technically coordinated for smooth execution on site. 
 
-With a strong focus on accuracy, quality, and coordination, Krypta Tech has delivered over 1100 completed projects globally since 2014. With our advanced BIM service, we aim to help our clients reduce design conflicts, shorten approval cycles, support fabrication, and ensure efficient construction delivery. This gives architects, engineers, and consultants a streamlined process from design development (DD) to project handover for bringing their vision into reality.`
+With a strong focus on accuracy, quality, and coordination, Krypta Tech has delivered over 1100 completed projects globally since 2014. With our advanced BIM service, we aim to help our clients reduce design conflicts, shorten approval cycles, support fabrication, and ensure efficient construction delivery. This gives architects, engineers, and consultants a streamlined process from design development (DD) to project handover for bringing their vision into reality.`,
+tabs:[
+  {
+    id:1,
+    title:'Millwork & Joinery',
+    content:`Our Millwork & Joinery BIM Modeling Services provide precise, fabrication-ready 3D models for custom interior elements such as cabinetry, wardrobes, wall paneling, reception desks & kitchen units. Each section is modeled with accurate geometry, practical joinery methods, hardware integration, material definitions, and the necessary clearances, all coordinated with architectural and MEP layouts. This approach helps us to detect clashes early, reducing the risk of costly rework and ensuring a smoother shift from design to fabrication.We also prepare complete millwork documentation that incorporates shop drawings, assembly diagrams, exploded views, section cuts, cut sheets, hardware schedules, and material specifications. Each set is developed according to the fabrication standards, which include verified dimensions and installation notes for contractors. Using leading BIM software like Revit and AutoCAD, our experts make sure each element is technically accurate across the set and is ready for efficient manufacturing & seamless on-site installation.`,
+    image:'/images/service/interior-bim-modeling/img-1.jpg'
+  },
+  {
+    id:2,
+    title:'Revit Family Creation',
+    content:`Our Interior Revit Family Creation Services focus on building detailed, parametric, and fully customizable families that actually suit interior design and fit-out requirements. We develop furniture pieces, fixtures, millwork items, lighting elements, appliances, décor objects, and a range of custom-built features with accurate geometry, proper material definitions, and practical parameters that support design variations without having to rebuild anything.
+
+Each family is set up to perform smoothly, follow the project’s standards, and work cleanly within regular BIM workflows, which enables space planning, schedules, quantity take-offs, and even the visual side of the project. And whether it's a residential, commercial, hospitality, or retail interiors project, these families make coordination easier, speed up modelling, and keep the overall documentation consistent and reliable.`,
+    image:'/images/service/interior-bim-modeling/img-2.jpg'
+  },
+  {
+    id:3,
+    title:'CAD to BIM Conversion',
+    content:`Our CAD to BIM Conversion Services for interiors transform 2D drawings, sketches, and PDFs into accurate, data-rich 3D BIM models tailored for detailed design, coordination, and documentation. We recreate interior layouts, partitions, millwork, furniture, finishes, ceiling systems, lighting, and MEP elements with precise geometry and LOD-specific (LOD 100- LOD 400) detailing.
+
+Our experts use Revit-based workflows to ensure every element is aligned with design intent, dimensional accuracy & project standards. Resulting in early clash detection, accurate quantity take-offs, fabrication-ready shop drawings, and seamless coordination among all disciplines (architectural, structural & MEP) for interior design and construction.`,
+    image:'/images/service/interior-bim-modeling/img-3.jpg'
+  },
+  
+]
       },
       {
         id: 4,
