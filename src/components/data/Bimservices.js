@@ -594,7 +594,44 @@ Whereas for completed projects, our As-Built Documentation service accurately re
 
 With our architectural 3D modeling solutions, we assist architects, designers, and contractors with a commitment to quality and timely delivery. Offering coordinated, clash-free, and production-ready 3D models for different sectors such as retail, residences (single & multi-family), healthcare, industrial, etc.
 
-Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. Our advanced 3D modeling and other BIM services don’t just help build models; we help our clients bring their ideas to life more clearly and efficiently.`
+Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. Our advanced 3D modeling and other BIM services don’t just help build models; we help our clients bring their ideas to life more clearly and efficiently.`,
+tabs:[
+  {
+    id:1,
+    title:'3D Architectural Model (LOD 100 - LOD 400)',
+    content:`We offer 3D architectural modeling services for every stage of the construction process, right from conceptual design (LOD 100) to a construction-ready model (LOD 400).  These intelligent BIM models accurately represent all architectural elements, such as walls, doors, windows, floors, roofs, ceilings, staircases, furniture, and façade systems.
+
+
+Each model is precisely created to reflect true design intent, material specifications, and spatial coordination. Our BIM experts use leading software like Revit, Tekla, and AutoCAD to deliver data-rich models that enhance visualization, streamline coordination, and ensure efficiency at every stage of the project.`,
+    image:'/images/service/architectural-3d-modeling-services/img-1.png'
+  },
+  {
+    id:2,
+    title:'Landscape Modeling',
+    content:`Our landscape modeling services turn outdoor spaces into vivid, detailed, data-rich 3D and BIM models that accurately represent terrain, hardscape, softscape, planting layouts, site furniture, paths, water features, and lighting. Ensuring the landscape model aligns perfectly with architectural and civil plans. 
+
+Using advanced tools like Revit, SketchUp, and AutoCAD, our experts build landscape models that aren’t just accurate and visually engaging but also support documentation and site coordination. Helping architects, planners, and contractors to better understand spatial relationships, the overall project efficiency and ensure smooth execution of landscape works on site.`,
+    image:'/images/service/architectural-3d-modeling-services/img-2.jpg'
+  },
+  {
+    id:3,
+    title:'Revit Family Creation',
+    content:`Standardize your designs with our custom Revit families service that accurately represents furniture, fixtures, casework, doors, windows, and more that integrate seamlessly into your BIM projects, improving efficiency and consistency across drawings and models. Our team ensures families meet your specific requirements for geometry, parameters, and level of detail. High-quality BIM content reduces repetitive modeling work and supports better collaboration with consultants and contractors. Whether you need a new library developed or existing families optimized, our service ensures your BIM assets are reliable, scalable, and easy to maintain.`,
+    image:'/images/service/architectural-3d-modeling-services/img-3.jpg'
+  },
+  {
+    id:4,
+    title:'CAD to BIM Conversion',
+    content:`Convert legacy 2D CAD plans or hand sketches to live intelligent BIM models and take your old drawings into the next century. Here, we read your 2D layouts, elevations and sections and convert them into information-rich Revit models with intricate geometry and detailed data. You will benefit from this service by enjoying better design coordination, clash detection, and future changes without needing to redo all over again. We make sure that once your models are converted they end up industry standard and dimensionally correct with out team. Our 2D to 3D service takes your project data and updates it for use in modern digital workflows — from residential buildings, to large commercial developments.`,
+    image:'/images/service/architectural-3d-modeling-services/img-4.png'
+  },
+  {
+    id:5,
+    title:'Scan to BIM',
+    content:`Our Scan To BIM (point cloud to BIM) services convert the detail-rich point cloud from the laser scanning data into highly detailed 3D Revit models. This is important for renovation, refit, or restoration works where existing conditions need to be picked up correctly. We import point cloud data from your service provider, align it according to your specifications, and model architectural elements, structural components, or MEP systems to a level of detail that is tailored to each project. This reduces the guesswork & site visits and verifies that your design fits real-world dimensions. We provide high-accuracy output so that when as-built models are ready, they can be used to base the trust for any design intervention.`,
+    image:'/images/service/architectural-3d-modeling-services/img-5.jpg'
+  },
+]
       },
       {
         id: 2,
@@ -605,7 +642,48 @@ Since 2014, Krypta Tech has been delivering precise and practical BIM modeling s
 
 Using advanced platforms such as Revit, AutoCAD, and BIM-driven workflows, we produce documentation that is geometrically precise, clash-free, and aligned with international quality standards. Our team follows a rigorous QA/QC process to eliminate inconsistencies, reduce RFIs, streamline coordination, and provide contractors with dependable, build-ready information.
 
-With proven expertise over a decade, Krypta Tech has delivered 1100 completed projects with a strong focus on clarity, technical accuracy, and execution efficiency. With our advanced BIM services, we help project teams minimise errors, accelerate approvals, enhance construction planning, and deliver high-quality outcomes with confidence.`
+With proven expertise over a decade, Krypta Tech has delivered 1100 completed projects with a strong focus on clarity, technical accuracy, and execution efficiency. With our advanced BIM services, we help project teams minimise errors, accelerate approvals, enhance construction planning, and deliver high-quality outcomes with confidence.`,
+tabs:[
+  {
+    id:1,
+    title:'Schematic Design (SD)',
+    content:`Our Schematic Design (SD) Documentation Services help architects, planners, and owners to establish clear, structured, and technically informed design concepts. We prepare early-stage layouts, massing studies, circulation diagrams, zoning and site evaluations, and spatial planning strategies that define the project’s vision, functionality, and core architectural parameters.
+‍
+Each SD includes conceptual floor plans, sections & elevations, key area programs, adjacency diagrams, and initial material/finish directions. Our experts analyse all the site constraints, codes & functional requirements precisely, and take inputs from other disciplines (structural & MEP) experts to ensure seamless coordination throughout the stages. These well-organised drawings, conceptual sketches, and early performance considerations help us support informed decision-making and a seamless transition from the Schematic Design (SD) to the Design Development (DD) phase.`,
+    image:'/images/service/acd/img-1.png'
+  },
+  {
+    id:2,
+    title:'Design Development',
+    content:`Our design development (DD) documentation services take your early design concepts & turn them into a set of coordinated architectural drawings that align with structural and MEP requirements. At this stage, we refine and tighten floor plans, elevations, and sections with practical dimensions, clearer wall assemblies, and the kind of spatial clarity needed before anything moves forward.The DD package incorporates all the important details, right from room layouts, door and window schedules, material specifications, ceiling plans, and façade development to the initial construction details. Each component is documented with the intent of making the design understandable, buildable, and easier for downstream teams to work with.Our experts closely coordinate with structural & MEP consultants to resolve spatial clashes and validate design feasibility. By bringing these technical details, coordination inputs, and material considerations into one place, our DD documentation sets the project on a steady path toward the construction-ready phase.`,
+    image:'/images/service/acd/img-2.png'
+  },
+  {
+    id:3,
+    title:'Construction Documentation (CD)',
+    content:`Our construction documentation (CD) services deliver the detailed, work-ready drawings needed for fabrication, procurement & precise on-site execution. At this stage, we prepare fully dimensioned plans, sections, elevations, enlarged details, and room-by-room drawings, along with wall, door, and window schedules, RCPs, and the accompanying annotations that guide the team on site.The CD package also carries the construction-level detailing that contractors rely on; it includes junctions, connections, waterproofing treatments, fire-stopping details, assemblies, and the various code-required notes that shape how the work must be carried out. Throughout this process, we maintain close coordination with structural and MEP drawings to avoid clashes and remove uncertainty in the construction sequence.Every drawing set undergoes a strict QA/QC review to check accuracy, internal consistency, and code compliance. This gives contractors and fabricators a dependable set of technical instructions that help reduce RFIs, prevent delays & reduce costly rework during the construction.`,
+    image:'/images/service/acd/img-3.png'
+  },
+  {
+    id:4,
+    title:'Building Permit Drawings',
+    content:`Our building permit drawing services deliver documentation that is fully code-compliant and required for quick municipal approval. In this service, we prepare zoning-compliant site plans, fire and life-safety diagrams, egress layouts, occupancy calculations, accessibility (ADA) details, and building code annotations.
+
+Our permit sets are drafted to pass the submission standards of local authorities, incorporating daylight studies, FAR/FSI calculations, fire separation requirements, stair & corridor compliance, and essential safety signage. By aligning design documentation with safety regulations & multi-disciplinary coordination, we help clients reduce review cycles (inspections) and secure faster approvals from the local authorities.`,
+    image:'/images/service/acd/'
+  },
+  {
+    id:5,
+    title:'As-Built Documentation',
+    content:`We capture all the real-world conditions accurately after construction completion with our as-built documentation services. We integrate all site revisions, RFIs, markups, & installation changes into the final drawing set, and we update plans, elevations, sections, service layouts & equipment placements to replicate the actual built environment. 
+
+Our as-built packages include dimensions, final routing of the MEP systems, updated structural modifications, revised material specifications & any changes done to the original design concept during the construction stage. These records are essential for handover, facility management, compliance documentation, and future renovation or expansion planning.
+
+By delivering precise, well-organised as-built drawings, we provide stakeholders with complete lifecycle documentation for long-term operations and asset management.`,
+    image:'/images/service/acd/'
+  },
+  
+]
       },
       {
         id: 3,
