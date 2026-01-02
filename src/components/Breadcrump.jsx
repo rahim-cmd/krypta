@@ -22,9 +22,7 @@ export default function Breadcrumb() {
             <li className="breadcrumb-item">
               <Link to="/">Home</Link>
             </li>
-            <li className="breadcrumb-item">
-              <Link to="#">pages</Link>
-            </li>
+           
             <li className="active text-secondary">{path}</li>
           </ol>
         </div>
@@ -47,9 +45,7 @@ export default function Breadcrumb() {
             <li className="breadcrumb-item">
               <Link to="/">Home</Link>
             </li>
-            <li className="breadcrumb-item">
-              <Link to="#">pages</Link>
-            </li>
+           
 
             <li className="active text-secondary">{path}</li>
           </ol>
@@ -75,7 +71,7 @@ export default function Breadcrumb() {
             <li className="breadcrumb-item">
               <Link to="/">Home</Link>
             </li>
-            <li className="breadcrumb-item">pages</li>
+           
             <li className="active text-secondary">{path}</li>
           </ol>
         </div>
