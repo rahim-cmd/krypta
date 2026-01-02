@@ -829,13 +829,13 @@ tabs:[
   {
     id:2,
     title:'3d Walkthroughs & Animation Videos',
-    content:`Techture develops immersive 3D walkthroughs and animation videos that present your project with both cinematic clarity and dynamic movement. These animations are engineered to illustrate key design elements, including the flow of spaces, material transitions, lighting behavior, and the overall design experience, allowing clients to explore the project virtually before actual construction begins. We precisely highlight features such as smooth interior walkthroughs, dynamic exterior flythroughs, key architectural features, landscapes, and functional layouts. By utilizing advanced tools like Unreal Engine, Twinmotion, Lumion, and Enscape, we produce high-quality videos that are perfectly suited for client presentations, marketing campaigns, investor pitches, and general promotional content. These animations ultimately enhances the engagement & understanding of your design for all stakeholders.`,
+    content:`Krypta Tech develops immersive 3D walkthroughs and animation videos that present your project with both cinematic clarity and dynamic movement. These animations are engineered to illustrate key design elements, including the flow of spaces, material transitions, lighting behavior, and the overall design experience, allowing clients to explore the project virtually before actual construction begins. We precisely highlight features such as smooth interior walkthroughs, dynamic exterior flythroughs, key architectural features, landscapes, and functional layouts. By utilizing advanced tools like Unreal Engine, Twinmotion, Lumion, and Enscape, we produce high-quality videos that are perfectly suited for client presentations, marketing campaigns, investor pitches, and general promotional content. These animations ultimately enhances the engagement & understanding of your design for all stakeholders.`,
     image:'/images/service/visualization-rendering/img-2.png'
   },
   {
     id:3,
     title:'AR / VR Experiences',
-    content:`Techture provides advanced AR/ VR experiences for clients to explore projects with true immersion and interactivity. With powerful platforms like Unreal Engine, Unity, Twinmotion, Enscape, and Meta VR systems, our experts convert BIM models into navigable, true-to-life virtual setups. Helping clients to walk through spaces at real scale, review layouts, experience lighting and materials, and understand the design even before actual construction begins. Our VR simulations provide a lifelike, room-to-room experience, while AR overlays enable users to view design elements directly within real-world settings using mobile devices or headsets. These interactive solutions enhance decision-making and offer a unified tool for design reviews, marketing, and presentations.`,
+    content:`Krypta Tech provides advanced AR/ VR experiences for clients to explore projects with true immersion and interactivity. With powerful platforms like Unreal Engine, Unity, Twinmotion, Enscape, and Meta VR systems, our experts convert BIM models into navigable, true-to-life virtual setups. Helping clients to walk through spaces at real scale, review layouts, experience lighting and materials, and understand the design even before actual construction begins. Our VR simulations provide a lifelike, room-to-room experience, while AR overlays enable users to view design elements directly within real-world settings using mobile devices or headsets. These interactive solutions enhance decision-making and offer a unified tool for design reviews, marketing, and presentations.`,
     image:'/images/service/visualization-rendering/img-3.jpeg'
   },
   
@@ -857,7 +857,26 @@ tabs:[
 
 Every structural model is created in Autodesk Revit, Tekla, or Advance Steel, for the required Level of Development (LOD 200–400). These models then undergo extensive QA/QC checks to ensure alignment with design drawings and supporting clash detection, construction sequencing, quantity take-offs, and design validation, helping engineers and contractors to make informed decisions and eliminate rework.
 
-With hands-on experience in the BIM industry, Krypta Tech has been a reliable BIM service provider for different sectors for over a decade. Our experts have delivered more than 1,100 projects to 350+ clients across the globe. We make sure every model reflects design intent and can be converted into reality with real-world construction logic, enabling our clients with smoother coordination, faster approvals, and fewer on-site reworks.`
+With hands-on experience in the BIM industry, Krypta Tech has been a reliable BIM service provider for different sectors for over a decade. Our experts have delivered more than 1,100 projects to 350+ clients across the globe. We make sure every model reflects design intent and can be converted into reality with real-world construction logic, enabling our clients with smoother coordination, faster approvals, and fewer on-site reworks.`,
+tabs:[
+  {
+    id:1,
+    title:'Steel Structure Modeling',
+    content:`Our steel structure modeling service gives a well-coordinated model representing the real intent of the project based on design drawings & point clouds. The scope includes the creation of all primary and secondary steel framing components, such as columns, beams, girders, rafters, joists, trusses, purlins, girts, and bracing systems. Every element is drafted with accurate profiles, member sizes, and elevation details to maintain engineering accuracy. We also incorporate all complex structural configurations such as mezzanines, catwalks, platforms, and industrial steel assemblies, reflecting the complete design intent.
+
+We capture all important steel components, such as connection plates, base plates, gussets, cleats, stiffeners, splice plates, bolts, welds, ladders, handrails, and gratings as per the level of detail (LOD 100 - LOD 400) requirements. Our team ensures seamless coordination with architectural and MEP requirements by accurately modelling openings, embed plates, anchor bolts, and penetrations. This results in a clash-free, fabrication-ready steel model that supports downstream deliverables such as shop drawings, GA drawings, and BOQs`,
+    image:'/images/service/sms/img-1.jpg'
+  },
+  {
+    id:2,
+    title:'Wood Modeling Services',
+    content:`ur wood modeling service accurately represents timber structures with the precision needed for fabrication and installation. Our experts develop 3D models for all essential wood components like beams, joists, columns, studs, trusses, rafters, floor systems, roof assemblies, shear walls, braced frames, CLT panels, glulam elements, and modular timber components, based on design drawings, structural specifications, or point-cloud data. Each element is modelled with correct dimensions, material grades, orientation, slopes, and connection logic to ensure complete constructability.
+
+We also incorporate essential details such as notches, cuts, openings, penetrations, blocking, bracing, hangers, plates, anchor bolts, and specialty connectors. Our models are created to the required LOD (200–400) in Autodesk Revit, Tekla, and Advance Steel, enabling clash detection, material quantification, fabrication coordination, and shop-drawing generation. With our precise and coordinated wood models, teams can reduce fabrication errors, improve site planning, and achieve seamless alignment between timber, steel, concrete, and MEP systems.`,
+    image:'/images/service/sms/img-2.jpg'
+  },
+  
+]
       },
       {
         id: 2,
