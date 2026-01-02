@@ -818,7 +818,28 @@ Our experts use advanced tools such as Lumion, Twinmotion, Enscape, V-Ray, Unrea
 
 Using industry-leading tools like Lumion, Twinmotion, Enscape, V-Ray, and Unreal Engine, our highly skilled professionals produce visuals that support presentation & client approval, but also facilitate support marketing content & coordination among stakeholders. Our expertise enables every image to communicate the true essence of the design in cooperating exterior façade renders to detailed interior spaces, landscape views, lighting studies, and material options. With our rendering service, we aim to remove uncertainty regarding design, validate concepts early, and make confident decisions.
 
-With over a decade of experience in the AEC & BIM industry, Krypta Tech has established itself as one of the leading BIM service providers globally. Helping architects, engineers, consultants, and owners with our advanced BIM solutions. Our strong portfolio consists of 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors, helping clients gain clarity and control.`
+With over a decade of experience in the AEC & BIM industry, Krypta Tech has established itself as one of the leading BIM service providers globally. Helping architects, engineers, consultants, and owners with our advanced BIM solutions. Our strong portfolio consists of 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors, helping clients gain clarity and control.`,
+tabs:[
+  {
+    id:1,
+    title:'Interior & Exterior Renders',
+    content:`We provide high-quality interior and exterior renderings designed to offer a photorealistic visualization of architectural designs before construction begins. Our rendering services prioritize accuracy & incorporate precise materials, lighting, textures, furniture, landscape elements, and real-world environmental context, giving clients a clear preview of the final architectural outcome. Whether the requirement is for interiors detailing refined finishes & ambiance or exteriors highlighting façade treatments & site surroundings, we produce precise and impactful visuals that are not only essential for design reviews, client approvals, but also help in marketing presentations. To ensure render communicates the true intent and quality of your project, our experts use industry-leading tools such as V-Ray, Lumion, Enscape, and Twinmotion.`,
+    image:'/images/service/visualization-rendering/img-1.jpg'
+  },
+  {
+    id:2,
+    title:'3d Walkthroughs & Animation Videos',
+    content:`Techture develops immersive 3D walkthroughs and animation videos that present your project with both cinematic clarity and dynamic movement. These animations are engineered to illustrate key design elements, including the flow of spaces, material transitions, lighting behavior, and the overall design experience, allowing clients to explore the project virtually before actual construction begins. We precisely highlight features such as smooth interior walkthroughs, dynamic exterior flythroughs, key architectural features, landscapes, and functional layouts. By utilizing advanced tools like Unreal Engine, Twinmotion, Lumion, and Enscape, we produce high-quality videos that are perfectly suited for client presentations, marketing campaigns, investor pitches, and general promotional content. These animations ultimately enhances the engagement & understanding of your design for all stakeholders.`,
+    image:'/images/service/visualization-rendering/img-2.png'
+  },
+  {
+    id:3,
+    title:'AR / VR Experiences',
+    content:`Techture provides advanced AR/ VR experiences for clients to explore projects with true immersion and interactivity. With powerful platforms like Unreal Engine, Unity, Twinmotion, Enscape, and Meta VR systems, our experts convert BIM models into navigable, true-to-life virtual setups. Helping clients to walk through spaces at real scale, review layouts, experience lighting and materials, and understand the design even before actual construction begins. Our VR simulations provide a lifelike, room-to-room experience, while AR overlays enable users to view design elements directly within real-world settings using mobile devices or headsets. These interactive solutions enhance decision-making and offer a unified tool for design reviews, marketing, and presentations.`,
+    image:'/images/service/visualization-rendering/img-3.jpeg'
+  },
+  
+]
       },
 
     ]
