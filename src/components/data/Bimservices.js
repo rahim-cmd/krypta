@@ -780,7 +780,34 @@ Our front elevation drawings offer a clear visual representation of the building
 
 Our documentation packages include grading plans, hardscape layouts, planting plans, irrigation drawings, construction details, material schedules, and installation diagrams.  With Revit, Civil 3D, and BIM workflows, our experts ensure every sheet is technically accurate, well-annotated, & can be used for on-site execution. With a commitment to clarity, constructability, and coordination, our landscape BIM solutions reduce rework and enhance collaboration for efficient delivery of exterior works.
 
-With our expertise, we stand out with our strong portfolio of 1100+ projects and 300+ satisfied clients globally, and have been serving as a leading BIM service provider for over a decade. We aim to serve our clients with precise BIM solutions and help them elevate their design, from concept to reality.`
+With our expertise, we stand out with our strong portfolio of 1100+ projects and 300+ satisfied clients globally, and have been serving as a leading BIM service provider for over a decade. We aim to serve our clients with precise BIM solutions and help them elevate their design, from concept to reality.`,
+tabs:[
+  {
+    id:1,
+    title:'Softscape Modeling',
+    content:`Our softscape modeling service provides information-rich BIM representations of all landscape planting elements (trees, shrubs, ground covers, lawns, planter beds, and green areas). We develop a detailed plant model that represents botanical information, placement patterns, root-zone requirements &  growth parameters for realistic visualization and enhance site planning.
+
+Our experts make sure the models are fully coordinated with grading, irrigation, hardscape, and site utilities, ensuring proper spacing, soil depths, drainage compatibility, and maintenance access. This integrated approach helps landscape architects and contractors optimize plant selection, streamline installation, improve long-term sustainability, and ensure the softscape design performs effectively throughout the project lifecycle.`,
+    image:'/images/service/lbmd/img-1.png'
+  },
+  {
+    id:2,
+    title:'Site Analysis & Terrain Modeling',
+    content:`Our site analysis & terrain modelling service accurately provides digital representations of existing site conditions, which enable informed planning and precise landscape & architectural design. We analyze topography, site slopes, grading patterns, drainage flow, soil conditions, access points, and environmental constraints to create a clear understanding of site opportunities and limitations. This analysis supports better decision-making for layout planning, stormwater management, cut–fill optimization, and infrastructure coordination.
+
+Our experts create highly accurate terrain models using BIM & Civil 3D workflows, with survey data, contour maps, GIS information, and site measurements. Resulting 3D model with hardscape, softscape, utilities, and structural elements detailing, ensuring seamless coordination at every stage of the construction process. This detailed approach helps clients and teams reduce grading conflicts and improve overall efficiency and constructability.`,
+    image:'/images/service/lbmd/img-2.png'
+  },
+  {
+    id:3,
+    title:'Photo-Realistic Visualization for Landscape',
+    content:`Our photo-realistic visualization service for landscape design provides you with immersive, true-to-life renders that precisely showcase vegetation, hardscape materials, lighting, textures, water features, and overall site ambiance. We bring outdoor environments to life with realistic plant species, seasonal variations, shadows, reflections, and material behavior, helping clients clearly visualize how the landscape will appear before it is built.
+
+Our experts use advanced tools such as Lumion, Twinmotion, Enscape, V-Ray, Unreal Engine, and 3DS MAX to create top-quality still renders, animated walkthroughs, and flythroughs.  Helping you in presentation & client approval, but also facilitating support marketing content & coordination among stakeholders`,
+    image:'/images/service/lbmd/img-3.png'
+  },
+  
+]
       },
       {
         id: 6,
