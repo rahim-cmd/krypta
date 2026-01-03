@@ -908,7 +908,7 @@ Every sheet is aligned to project standards and undergoes rigorous QA/QC to ensu
   {
     id:3,
     title:'CAD 2D Structural Drafting Services',
-    content:`Techture offers CAD-based 2D drafting services specifically for structural engineering needs, we convert sketches, PDFs, markups, and BIM models into detailed structural plans, framing drawings, foundation layouts, schedules, and typical details using AutoCAD with precise standards and clean layering.
+    content:`Krypta Tech offers CAD-based 2D drafting services specifically for structural engineering needs, we convert sketches, PDFs, markups, and BIM models into detailed structural plans, framing drawings, foundation layouts, schedules, and typical details using AutoCAD with precise standards and clean layering.
 
 These drawings are ideal for tender documents, design revisions, permit submissions, or construction reference. Our experts ensures proper notation and structural drafting consistency for ready-to-use CAD files.`,
     image:'/images/service/construction-drawings/img-3.png'
@@ -986,7 +986,7 @@ These as-built packages are important for facility management, future renovation
   {
     id:6,
     title:'Structural Steel Documentation Support',
-    content:`Techture supports steel contractors throughout the project lifecycle by managing RFIs, incorporating markups, and handling design revisions efficiently with our structural steel documentation support service. We ensure that all documentation stays updated and represents the latest approved design.
+    content:`Krypta Tech supports steel contractors throughout the project lifecycle by managing RFIs, incorporating markups, and handling design revisions efficiently with our structural steel documentation support service. We ensure that all documentation stays updated and represents the latest approved design.
 
 Our team also coordinates directly with engineers, architects, and fabricators to resolve issues quickly and maintain drawing schedules, resulting in reducing bottlenecks & errors, and smooth project execution at every stage of the project (from modeling to installation).`,
     image:'/images/service/blank.png'
