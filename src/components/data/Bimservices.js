@@ -887,7 +887,52 @@ We also incorporate essential details such as notches, cuts, openings, penetrati
 
 We make sure each package surpasses our QA/QC checks to verify dimensions, annotations, standards, and constructability. We support contractors with revisions, markups, clash-resolved updates, and RFI responses throughout the project lifecycle, helping them gain reliable, coordination-focused drawing sets that minimize rework, enhance site efficiency.
 
-With over a decade of experience in the AEC & BIM industry, Krypta Tech is serving as a leading BIM service provider globally. Helping architects, engineers, consultants, and owners gain clarity and control over their projects. Our strong portfolio stands out with 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors.`
+With over a decade of experience in the AEC & BIM industry, Krypta Tech is serving as a leading BIM service provider globally. Helping architects, engineers, consultants, and owners gain clarity and control over their projects. Our strong portfolio stands out with 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors.`,
+tabs:[
+  {
+    id:1,
+    title:'Structural Design Development (DD) Documentation',
+    content:`We provide detailed structural DD packages refining the engineering design beyond schematic concepts. Our team develops coordinated structural plans, framing layouts, preliminary member sizing, load paths, foundation concepts, and typical structural details based on engineering inputs. These drawings excellently provide clarity for structural systems (RCC, steel, or timber), and help consultants finalize design decisions in this particular stage before moving forward.
+Our DD documentation make sure early coordination with architectural and MEP disciplines, resolving issues like slab edges, beam depths, equipment loads, opening locations, and structural clearances. These details compile together to support accurate budgeting, feasibility checks, and design validation.
+Every sheet is aligned to project standards and undergoes rigorous QA/QC to ensure dimensional accuracy, clarity, and constructability. Our structural CD sets help contractors execute work smoothly, reduce site conflicts, and ensure alignment with architectural and MEP coordination requirements.`,
+    image:'/images/service/construction-drawings/img-1.jpg'
+  },
+  {
+    id:2,
+    title:'Structural Construction Documentation ',
+    content:`Our structural construction documentation (CD) sets convert the structural models into accurate construction-ready drawings. These sets include foundation plans, framing plans, rebar placeholder details, shear wall elevations, column schedules, beam schedules, slab details, and connection diagrams created by our expert using top software such as Revit, Advance Steel, AutoCAD, or Tekla.
+
+Every sheet is aligned to project standards and undergoes rigorous QA/QC to ensure dimensional accuracy, clarity, and constructability. Our structural CD sets help contractors execute work smoothly, reduce site conflicts, and ensure alignment with architectural and MEP coordination requirements.`,
+    image:'/images/service/construction-drawings/img-2.jpg'
+  },
+  {
+    id:3,
+    title:'CAD 2D Structural Drafting Services',
+    content:`Techture offers CAD-based 2D drafting services specifically for structural engineering needs, we convert sketches, PDFs, markups, and BIM models into detailed structural plans, framing drawings, foundation layouts, schedules, and typical details using AutoCAD with precise standards and clean layering.
+
+These drawings are ideal for tender documents, design revisions, permit submissions, or construction reference. Our experts ensures proper notation and structural drafting consistency for ready-to-use CAD files.`,
+    image:'/images/service/construction-drawings/img-3.png'
+  },
+  {
+    id:4,
+    title:'Structural Permit Drawings',
+    content:`Our code-compliant structural permit drawing service is designed for fast municipal approval. These accurate and detailed drawings include structural plans, load calculations (if provided), typical details, foundation layouts, and important safety–related structural elements like fire-rated assemblies and stability components.
+
+We ensure all drawings follow local building codes, seismic requirements, wind load standards, and safety regulations, supporting faster authority approvals and minimizing resubmissions.
+
+`,
+    image:'/images/service/construction-drawings/blank.png'
+  },
+  {
+    id:5,
+    title:'Structural AS-Built Drawings',
+    content:`Our highly accurate structural as-built drawing service reflects the final constructed conditions of all structural systems. Built from field markups, site measurements, and point-cloud scans, these drawings update changes in slab levels, beam sizes, reinforcement zones, opening locations, structural supports, and construction deviations.
+
+Our As-Built packages support handover, facility management, renovation planning, and long-term maintenance. Each drawing clearly records the true structural configuration, giving clients reliable documentation for the building lifecycle.`,
+    image:'/images/service/construction-drawings/blank.png'
+  },
+  
+]
       },
       {
         id: 3,
@@ -898,7 +943,56 @@ With over a decade of experience in the AEC & BIM industry, Krypta Tech is servi
 
 We also run clash detection, conduct coordination reviews, and resolve interface issues before they reach the site to streamline fabrication & on-site execution. Our robust QA/QC checks minimize errors in drawings, maintain consistency, and enable fabricators to produce steel components with confidence. With our steel detailing expertise, we benefit clients by eliminating fabrication delays, reducing rework, and ensuring smoother erection sequencing right from modelling and coordination to final delivery.
 
-Krypta Tech has provided accurate BIM modeling services since 2014, and has completed more than 1,100 projects for 350+ clients. Our goal is to help our clients translate design ideas into clear, coordinated digital models that support improved decision-making, save time, and money.`
+Krypta Tech has provided accurate BIM modeling services since 2014, and has completed more than 1,100 projects for 350+ clients. Our goal is to help our clients translate design ideas into clear, coordinated digital models that support improved decision-making, save time, and money.`,
+tabs:[
+  {
+    id:1,
+    title:'3D Steel Modeling',
+    content:`Our steel modeling service provides highly accurate 3D steel models that represent every component accordance to fabrication & installation needs. Using Tekla Structures, Revit, and Advance Steel, we model columns, beams, trusses, bracings, stairs, ladders, platforms, and architectural steel elements with precision. Each element is built with correct profiles, grades, camber, slopes, and trims, ensuring the model serves as a reliable road map for smooth fabrication and coordination.
+
+To eliminate conflicts early, we make sure our model integrates structural design, architectural constraints & MEP interfaces. With advanced parametric modelling and automated checks, we ensure that all connections, tolerances, and interaction points are represented accurately, supporting seamless coordination and error-free downstream documentation.`,
+    image:'/images/service/sde/img-1.png'
+  },
+  {
+    id:2,
+    title:'Connection Design & Detailing',
+    content:`Our connection design & detailing service creates full connection detailing for moment, shear, braced, and Specialty connections, including base plates, clip angles, end plates, and gusset plates. Our team closely work with structural engineers to finalize connection design and incorporate all relevant load data, weld specifications, bolt requirements, and stiffener configurations.
+
+Each connection is modelled with full geometry, welds, bolts, and hole placements to ensure fabrication-level clarity. The final connection details are optimized for constructability, ease of assembly, and fabrication efficiency, reducing delays and ensuring smooth execution on the shop floor and site.`,
+    image:'/images/service/sde/img-2.jpg'
+  },
+  {
+    id:3,
+    title:'Shop Drawings & Fabrication Deliverables',
+    content:`Our shop drawings service delivers top-quality shop drawings extracted directly from coordinated steel models incorporating assembly drawings, single-part drawings, weld maps, bolt schedules, and hole charts, each prepared with precise annotations and fabrication-ready details. Our drawings ensure fabricators have all the information needed for cutting, welding, drilling, and assembly.  To reduce reworks, errors, and maintain consistency, every shop drawing undergoes a strict QA/QC check to verify alignment with engineering intent, connection details, and fabrication standards.
+
+We also prepare reliable fabrication deliverables, including NC/CNC files, DSTV files, DXF files, cutting lists, bending lists, and MTO/BOQ. Ensuring seamless machine processing, optimizing material usage, and helping fabricators streamline production needs. All these data are ensured by extracting the data directly from the coordinated 3D model, ensuring zero inconsistency between drawings & machine inputs.`,
+    image:'/images/service/sde/img-3.jpg'
+  },
+  {
+    id:4,
+    title:'Erection Sequencing & Planning',
+    content:`We create clear & detailed erection drawings & sequencing plans, guiding field teams with step-by-step installation procedures. These deliverables include member numbering, bolt locations, lifting points, and temporary support requirements so that teams can follow a safe assembly process on-site. In addition, we develop coordinated phasing plans and interface drawings that help contractors organize crane movement, site logistics, and overall installation strategy. This reduces construction delays, ensures safety, and improves installation accuracy for complex steel structures.`,
+    image:'/images/service/sde/img-4.jpg'
+  },
+  {
+    id:5,
+    title:'As-Built Steel Detailing',
+    content:`Our as-built steel detailing service creates accurate as-built steel models & drawings based on precise field changes, site measurements, and redline adjustments. This documentation represents the actual onsite conditions, including revised connections, member locations, and modifications made during construction to resolve minor/major inconveniences.
+
+These as-built packages are important for facility management, future renovation plans, and handover documentation as they provide clients with a complete, accurate record of structural steel elements as constructed.`,
+    image:'/images/service/sde/img-5.jpg'
+  },
+  {
+    id:6,
+    title:'Structural Steel Documentation Support',
+    content:`Techture supports steel contractors throughout the project lifecycle by managing RFIs, incorporating markups, and handling design revisions efficiently with our structural steel documentation support service. We ensure that all documentation stays updated and represents the latest approved design.
+
+Our team also coordinates directly with engineers, architects, and fabricators to resolve issues quickly and maintain drawing schedules, resulting in reducing bottlenecks & errors, and smooth project execution at every stage of the project (from modeling to installation).`,
+    image:'/images/service/blank.png'
+  },
+  
+]
       },
       {
         id: 4,
