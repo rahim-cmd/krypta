@@ -9,7 +9,7 @@ const ProcessWorkFlow = () => {
         <h3>Process Flow</h3>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6">
-            <img className="img-fluid" src="/images/projectflow/img-1.png" alt="project-flow" />
+            <img className="img-fluid" src="/images/projectflow/process-flow.png" alt="project-flow" />
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 text-left">
             <p>At Krypta Tech, we follow a standard process and workflow for every BIM-related task which is then monitored by our in-house Technical Team of expert Coordinators. Our BIM coordination & Clash detection services have various benefits for you to include in your upcoming project like Coordinated 3D models, clash-free models, reduced rework, Improved planning and executions, enhanced Constructability & cost savings.</p>
