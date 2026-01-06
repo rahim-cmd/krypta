@@ -1001,7 +1001,63 @@ Our team also coordinates directly with engineers, architects, and fabricators t
         slug: "structural-engineering",
         details: `Our structural engineering services deliver efficient engineering solutions for sectors such as residential, commercial, industrial infrastructure, and more. Our service combines deep technical expertise with advanced engineering tools to make sure the structure is optimized for performance, durability, and cost-efficiency. Our engineers & designers work closely to emphasize understanding the project vision, anticipating engineering challenges, and designing structural systems that meet safety standards while supporting architectural intent.
 
-Our experts analyze multiple structural systems, evaluating site conditions, and apply global design codes to create reliable and buildable structures. With a commitment to coordination and quality, we make sure design intent can be easily translated into construction. Whether the project involves concrete structures, steel framing, timber systems, RCC structure, facade structure, or modular structure, we provide comprehensive engineering solutions tailored to the project's demands. Our precise calculations, detailed models, and code-compliant documentation are delivered using advanced software such as RISA, ETABS, SAFE, SAP, Enercalc, and STAAD.Pro, Robot Structural Analysis RAM, Revit, Tekla, and. Our engineering workflows are built around efficiency, transparency, and collaboration, ensuring the timely delivery of high-quality outputs.`
+Our experts analyze multiple structural systems, evaluating site conditions, and apply global design codes to create reliable and buildable structures. With a commitment to coordination and quality, we make sure design intent can be easily translated into construction. Whether the project involves concrete structures, steel framing, timber systems, RCC structure, facade structure, or modular structure, we provide comprehensive engineering solutions tailored to the project's demands. Our precise calculations, detailed models, and code-compliant documentation are delivered using advanced software such as RISA, ETABS, SAFE, SAP, Enercalc, and STAAD.Pro, Robot Structural Analysis RAM, Revit, Tekla, and. Our engineering workflows are built around efficiency, transparency, and collaboration, ensuring the timely delivery of high-quality outputs.`,
+tabs:[
+  {
+    id:1,
+    title:"Structural Analysis & System Design",
+    content:`Our team carries out detailed structural analysis to verify the stability, strength,  and performance of the proposed structural systems under all relevant loading conditions. By using advanced tools such as ETABS, STAAD.Pro, SAFE, SAP2000, and Robot Structural Analysis, our experts analyze gravity loads, lateral loads, dynamic forces, wind actions, seismic behavior, and vibration sensitivity. We evaluated multiple design schemes & determined their technical feasibility, material efficiency, and constructability. This ensures the system meets the safety code compliance and is aligned with architectural requirements &  is in line with the budget sanctioned for the project.
+
+We also develop clear system-level design strategies incorporating essential information like framing layouts, load path strategies, lateral-force resisting systems, and floor/roof structural arrangements. Each design is optimized for durability, performance, and ease of construction. By coordinating closely with architects, MEP teams, and project consultants, we create integrated solutions that minimize conflicts, improve efficiency, and ensure smooth execution during the later stages of construction.`,
+    image:'/images/service/structural-engineering/img-1.jpg'
+  },
+  {
+    id:2,
+    title:"Concrete Structure Design",
+    content:`Our concrete design service encompasses all reinforced concrete components, including foundations, slabs, beams, columns, shear walls, and retaining structures. Our precise service includes detailed load calculations, reinforcement design, deflection checks, crack control verification, and durability assessments, all complied with international standards (ACI, BS, IS, and more). Our experts make sure each element serves long-term performance, serviceability, and strength, while optimizing quantities to reduce unnecessary material usage.
+
+We convert all the complex outputs into clear and easy-to-understand construction drawings, schedules, and specifications. We integrate analysis with BIM-based design to provide our clients with enhanced coordination and minimize RFIs during construction, resulting in faster, safer, and more cost-effective concrete structure delivery.`,
+    image:'/images/service/structural-engineering/img-2.png'
+  },
+  {
+    id:3,
+    title:"Steel Structure Design",
+    content:`We specialize in engineering steel structures for commercial, industrial, residential, and special-use facilities, our steel structure design service incorporates all framing systems, connections, trusses, bracing systems, purlins, girts, composite decks, and long-span structures. These designs provide strength, stability, buckling, fatigue, and fire resistance, ensuring performance under seismic and wind loads. Each structural component is created using software such as RAM Steel, RISA, Enercalc, STAAD.Pro, and Tekla Structural Designer.
+
+These deliverables include detailed connection design reports, shop-ready calculations & coordinated framing plans. To help our clients better, our experts work closely with fabricators and contractors to ensure constructability, efficient sequencing, and material optimization. This results in structures that are not only technically accurate but also cost-efficient to fabricate & erect.`,
+    image:'/images/service/structural-engineering/img-3.png'
+  },
+  {
+    id:4,
+    title:"Wood Structure Design",
+    content:`In our wood structure design service, we provide safe, efficient & code-compliant structural systems using timber. We design wood framing layouts for floors, walls & roofs, including joists, rafters, studs, trusses, beams, posts, shear walls, and diaphragms. We make sure each component is created with accurate on-load paths, span requirements, material grades, environmental conditions, and internal codes (NDS or region-specific). We also consider factors such as moisture movement, fire resistance, insulation requirements, and long-term performance to ensure durability and structural stability.
+Our experts use tools like Revit, Tekla, and structural analysis software to develop 3D models and detailed drawings that align perfectly with other disciplines (architecture & structure). Techture's design process includes connection detailing, hold-down and anchorage design, CLT/Glulam system detailing, and seismic/wind performance checks. The final output ensures constructability, reduced material waste, and smooth on-site installation. With precise engineering and coordinated documentation, our wood structure designs support residential, commercial, and hybrid timber projects with efficiency, safety, and sustainability.
+
+`,
+    image:'/images/service/blank.png'
+  },
+  {
+    id:5,
+    title:"Preliminary Structural Design",
+    content:`Our preliminary structural drawings service provides an early level of graphical representation of the structural design intent. These help architects, clients & consultants with a clear understanding of the structural system before we finalize and detail it. These detail drawings incorporate every important component, such as column layouts, grid plans, preliminary beam/slab arrangements, foundation concepts, shear wall/brace locations, and initial load-bearing strategies. At this level, we establish framing logic, feasibility, and align the structural components with other disciplines (architecture & MEP) requirements and site constraints.
+
+We draft accurate & coordinated drawings precisely using leading platforms such as Revit, AutoCAD, and structural analysis tools. This resulting output enables seamless communication with stakeholders, early detection of design conflicts, and efficient value engineering. By creating a strong structural framework early, we help clients reduce redesigns, avoid coordination issues, and streamline the transition into detailed design (DD) and construction documentation (CD).
+
+`,
+    image:'/images/service/blank.png'
+  },
+  {
+    id:6,
+    title:"Detailed Structural Design",
+    content:`Our detailed structural drawing service delivers a construction-ready set representing structural elements all coordinated across disciplines. These drawings incorporate detailed plans, sections, and schedules for foundations, slabs, beams, columns, walls, steel framing, reinforcement layouts, and connection details. They incorporate code-compliant reinforcement design, bar bending schedules, embed locations, construction joints, member sizes, connection specifications, service openings, and critical construction notes, ensuring that contractors have all the information needed for accurate execution on site.
+
+These highly precise drawings are created using Revit, Tekla, AutoCAD, and structural analysis tools, ensuring overall accuracy, clarity, and constructability. Our drawing sets then go through the QA/QC process to eliminate the chances of inconsistencies and ensure alignment with Other discipline requirements. Ultimately, helping minimize RFIs, reduce construction delays, elevate coordination, and provide contractors with a blueprint for code-compliant, error-free fabrication and on-site execution. Techture's detailed structural drawing serves as the backbone of an accurate structural delivery and ensures actual construction reflects the design intent.
+
+`,
+    image:'/images/service/blank.png'
+  },
+  
+]
       },
       {
         id: 5,
