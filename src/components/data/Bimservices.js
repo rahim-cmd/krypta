@@ -1031,7 +1031,7 @@ These deliverables include detailed connection design reports, shop-ready calcul
     id:4,
     title:"Wood Structure Design",
     content:`In our wood structure design service, we provide safe, efficient & code-compliant structural systems using timber. We design wood framing layouts for floors, walls & roofs, including joists, rafters, studs, trusses, beams, posts, shear walls, and diaphragms. We make sure each component is created with accurate on-load paths, span requirements, material grades, environmental conditions, and internal codes (NDS or region-specific). We also consider factors such as moisture movement, fire resistance, insulation requirements, and long-term performance to ensure durability and structural stability.
-Our experts use tools like Revit, Tekla, and structural analysis software to develop 3D models and detailed drawings that align perfectly with other disciplines (architecture & structure). Techture's design process includes connection detailing, hold-down and anchorage design, CLT/Glulam system detailing, and seismic/wind performance checks. The final output ensures constructability, reduced material waste, and smooth on-site installation. With precise engineering and coordinated documentation, our wood structure designs support residential, commercial, and hybrid timber projects with efficiency, safety, and sustainability.
+Our experts use tools like Revit, Tekla, and structural analysis software to develop 3D models and detailed drawings that align perfectly with other disciplines (architecture & structure). Krypta Tech's design process includes connection detailing, hold-down and anchorage design, CLT/Glulam system detailing, and seismic/wind performance checks. The final output ensures constructability, reduced material waste, and smooth on-site installation. With precise engineering and coordinated documentation, our wood structure designs support residential, commercial, and hybrid timber projects with efficiency, safety, and sustainability.
 
 `,
     image:'/images/service/blank.png'
@@ -1051,7 +1051,7 @@ We draft accurate & coordinated drawings precisely using leading platforms such 
     title:"Detailed Structural Design",
     content:`Our detailed structural drawing service delivers a construction-ready set representing structural elements all coordinated across disciplines. These drawings incorporate detailed plans, sections, and schedules for foundations, slabs, beams, columns, walls, steel framing, reinforcement layouts, and connection details. They incorporate code-compliant reinforcement design, bar bending schedules, embed locations, construction joints, member sizes, connection specifications, service openings, and critical construction notes, ensuring that contractors have all the information needed for accurate execution on site.
 
-These highly precise drawings are created using Revit, Tekla, AutoCAD, and structural analysis tools, ensuring overall accuracy, clarity, and constructability. Our drawing sets then go through the QA/QC process to eliminate the chances of inconsistencies and ensure alignment with Other discipline requirements. Ultimately, helping minimize RFIs, reduce construction delays, elevate coordination, and provide contractors with a blueprint for code-compliant, error-free fabrication and on-site execution. Techture's detailed structural drawing serves as the backbone of an accurate structural delivery and ensures actual construction reflects the design intent.
+These highly precise drawings are created using Revit, Tekla, AutoCAD, and structural analysis tools, ensuring overall accuracy, clarity, and constructability. Our drawing sets then go through the QA/QC process to eliminate the chances of inconsistencies and ensure alignment with Other discipline requirements. Ultimately, helping minimize RFIs, reduce construction delays, elevate coordination, and provide contractors with a blueprint for code-compliant, error-free fabrication and on-site execution. Krypta Tech's detailed structural drawing serves as the backbone of an accurate structural delivery and ensures actual construction reflects the design intent.
 
 `,
     image:'/images/service/blank.png'
@@ -1068,7 +1068,59 @@ These highly precise drawings are created using Revit, Tekla, AutoCAD, and struc
 
 We prepare reinforcement layouts right from foundations to superstructure elements, addressing load paths, structural behavior, congestion zones, seismic requirements, and code compliance. Our drawings are developed with a strong commitment to constructability, ensuring that the detailing supports smooth on-site execution. We also closely work with engineers, contractors & fabricators in order to understand project requirements and provide solutions accordingly that enhance safety, durability, and elevate their overall efficiency.
 
-Using industry-leading software such as Autodesk Revit, Tekla Structures, AutoCAD, and specialized rebar tools, we deliver fully coordinated 3D rebar models, shop drawings, and comprehensive Bar Bending Schedules (BBS). Our workflow enables early clash detection, improved coordination with embedded items and MEP penetrations, and seamless integration with concrete formwork drawings. With our robust QA/QC checks, we make sure each project receives detailing that is reliable & optimized for construction and complies with global industry standards (ACI, BS, IS, and more).`
+Using industry-leading software such as Autodesk Revit, Tekla Structures, AutoCAD, and specialized rebar tools, we deliver fully coordinated 3D rebar models, shop drawings, and comprehensive Bar Bending Schedules (BBS). Our workflow enables early clash detection, improved coordination with embedded items and MEP penetrations, and seamless integration with concrete formwork drawings. With our robust QA/QC checks, we make sure each project receives detailing that is reliable & optimized for construction and complies with global industry standards (ACI, BS, IS, and more).`,
+tabs:[
+  {
+        id:1,
+        title:"3D Rebar Modeling",
+        content:`Our 3D Rebar Modeling service provides a highly accurate and coordinated digital representation of reinforcement for all concrete elements. Using tools like Revit, Tekla Structures, and  Advance steel, we model every bar, including hooks, bends, laps, splice locations, distribution bars, stirrups, and anchorage, according to structural drawings and design codes. These 3D models help project teams visualize placement before the actual construction begins, helping you reduce uncertainties and rework during installation.
+
+We integrate the rebar model with architectural, structural, and MEP models to identify clashes early & establish smooth coordination with embedded items, openings, sleeves, and post-tension elements. The model also supports precise quantity take-offs, sequencing, and shop drawing generation, giving contractors a clear blueprint that enhances site efficiency and material planning.`,
+        image:"/images/service/rebar-modeling/img-1.png"
+  },
+{
+        id:2,
+        title:"Precast Shop Drawings",
+        content:`Our precast shop drawings service guides factory production with high accuracy. These detailed drawings incorporate important information such as element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
+
+With our multi-level QA/QC checks, our drawings ensure accuracy, clarity, and compliance with codes such as PCI, NPCA, ACI, BS, and IS. This reduces fabrication discrepancies and ensures that every precast component is cast, cured, and handled correctly, minimizing delays, optimizing material use, and ensuring safe, high-quality production.`,
+        image:"/images/service/rebar-modeling/img-2.jpg"
+  },
+{
+        id:3,
+        title:"Embed & Connection Detailing",
+        content:`Our specialized embed & connection detailing service serves an essential role for the performance and constructability of different precast structures. We detail embedded plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. Ensuring seamless assembly between precast elements and cast-in-place structures.
+
+We coordinate every embed and connection detail within the BIM environment to avoid clashes with rebar, openings, MEP penetrations, and formwork. The result is a fully buildable connection system that supports structural stability, quick erection, and long-term durability, reducing risks during lifting, transport, and installation.`,
+        image:"/images/service/rebar-modeling/img-3.jpg"
+  },
+{
+        id:4,
+        title:"Precast Reinforcement Detailing",
+        content:`We offer precast reinforcement detailing for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. And also detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
+
+By integrating 3D models, we make sure we give correct spacing, bar bending shapes, conflict-free placement, and alignment with embeds and lifting systems. Such detailing supports factory efficiency, improves quality control, and helps site teams install precast components without rework.`,
+        image:"/images/service/rebar-modeling/img-4.jpg"
+  },
+{
+        id:5,
+        title:"Erection Drawings & Sequencing Plans",
+        content:`We offer erection drawings & sequencing plans service for detailed erection drawings that guide contractors through the safe and efficient installation of precast components. These drawing sets represent lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
+
+Our sequencing plans are developed in coordination with structural stability requirements, site logistics, and safety standards. We then integrate model-based planning tools like 4D scheduling and enable contractors to foresee challenges, optimize erection timelines, and execute installation phases with confidence.`,
+        image:"/images/service/rebar-modeling/img-5.jpg"
+  },
+{
+        id:6,
+        title:"Bill of Materials (BOM) & Quantity Take-offs",
+        content:`We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
+
+This automation enables manufacturers to streamline procurement, enhance resource planning, and help owners maintain budgets from overspending. These detailed outputs support fabrication, logistics, and inventory management at every stage of the project.`,
+        image:"/images/service/blank.png"
+  },
+
+
+]
       },
       {
         id: 6,
