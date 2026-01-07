@@ -1132,57 +1132,57 @@ This automation enables manufacturers to streamline procurement, enhance resourc
 Our team works closely with precast manufacturers, structural engineers, and contractors to develop element-wise models and drawings for walls, slabs, beams, columns, stairs, hollow-core units, double tees, façade panels, and special precast assemblies. Each element is created & detailed with accurate reinforcement, embed plates, lifters, lifting anchors, inserts, corbels, ducts, and connection systems. We integrate factory production constraints, formwork limitations, transportation requirements, and erection sequences to deliver detailing that is both practical and applicable to real-world conditions.
 
 Our rebar experts create these well-coordinated 3D models, precast shop drawings, cast unit plans, reinforcement layouts, and installation diagrams, using top software such as Tekla Structures, Autodesk Revit, Advance Steel, and AutoCAD. After the drawing is completed, it undergoes a strict QA/QC process to ensure dimensional accuracy, rebar clarity, constructability, and compliance with global standards (PCI, NPCA, BS, ACI, IS). With our detailed rebar outputs, we aim to help teams by reducing fabrication errors, minimizing on-site adjustments, and speeding up their construction cycles.`,
-tabs:[
-  {
-        id:1,
-        title:"Precast 3D Modeling",
-        content:`Our precast 3D modeling service delivers data-rich BIM models for all precast components, providing accuracy right from designing to fabrication & erection. We create these LOD-specific models with accurate details like walls, slabs, columns, beams, stairs, double tees, hollow-core units, façade panels, and complex custom elements with complete geometry, reinforcement zones, embeds, and connection provisions. Using Tekla Structures and Revit, we create production-ready digital twins that support clash detection, sequencing, and quantity analysis.
+        tabs: [
+          {
+            id: 1,
+            title: "Precast 3D Modeling",
+            content: `Our precast 3D modeling service delivers data-rich BIM models for all precast components, providing accuracy right from designing to fabrication & erection. We create these LOD-specific models with accurate details like walls, slabs, columns, beams, stairs, double tees, hollow-core units, façade panels, and complex custom elements with complete geometry, reinforcement zones, embeds, and connection provisions. Using Tekla Structures and Revit, we create production-ready digital twins that support clash detection, sequencing, and quantity analysis.
 
 We coordinate our precast model with other systems (architectural, structural, and MEP) and site models to eliminate chances of any conflicts, reducing costly design revisions and field fixes. The 3D model becomes a centralized source for manufacturers, contractors, and engineers and enables clear visualization, reliable take-offs, and smoother communication across disciplines.`,
-        image:"/images/service/precast-detailing/img-1.png"
-  },
-     {
-        id:2,
-        title:"Precast Shop Drawings",
-        content:`We offer a detailed precast shop drawing service that guides factory production with precision. These drawings consist of element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
+            image: "/images/service/precast-detailing/img-1.png"
+          },
+          {
+            id: 2,
+            title: "Precast Shop Drawings",
+            content: `We offer a detailed precast shop drawing service that guides factory production with precision. These drawings consist of element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
 
 With our multi-level QA/QC checks, these drawings ensure accuracy, clarity, and compliance with industry codes (PCI, NPCA, ACI, BS, and IS). This reduces fabrication discrepancies and ensures that every precast component is cast, cured, and handled correctly, minimizing delays, optimizing material use, and ensuring safe, high-quality production.`,
-        image:"/images/service/precast-detailing/img-2.jpg"
-  },
-     {
-        id:3,
-        title:"Embed & Connection Detailing",
-        content:`We specialize in precise embed & connection detailing, important for the performance and constructability of precast structures. We detail embed plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. This ensures seamless assembly between precast elements and cast-in-place structures.
+            image: "/images/service/precast-detailing/img-2.jpg"
+          },
+          {
+            id: 3,
+            title: "Embed & Connection Detailing",
+            content: `We specialize in precise embed & connection detailing, important for the performance and constructability of precast structures. We detail embed plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. This ensures seamless assembly between precast elements and cast-in-place structures.
 
 We coordinate every embed and connection detail within the BIM environment to reduce clashes with other systems like rebar, openings, MEP penetrations, and formwork. The result is a fully buildable connection system that supports structural stability, quick erection, and long-term durability, reducing risks during lifting, transport, and installation.`,
-        image:"/images/service/precast-detailing/img-3.jpg"
-  },
-     {
-        id:4,
-        title:"Precast Reinforcement Detailing",
-        content:`Our team provides complete reinforcement detailing service for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. We detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
+            image: "/images/service/precast-detailing/img-3.jpg"
+          },
+          {
+            id: 4,
+            title: "Precast Reinforcement Detailing",
+            content: `Our team provides complete reinforcement detailing service for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. We detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
 
 By integrating reinforcement into 3D models, we ensure correct spacing, bar bending shapes, conflict-free placement, and alignment with embeds and lifting systems. This sort of detailing supports factory efficiency, improves quality control, and helps the team install precast components with ease.`,
-        image:"/images/service/precast-detailing/img-4.jpg"
-  },
-     {
-        id:5,
-        title:"Erection Drawings & Sequencing Plans",
-        content:`Our detailed erection drawing service guides contractors & serves as the blueprint for safe and efficient installation of different precast components. These drawings illustrate lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
+            image: "/images/service/precast-detailing/img-4.jpg"
+          },
+          {
+            id: 5,
+            title: "Erection Drawings & Sequencing Plans",
+            content: `Our detailed erection drawing service guides contractors & serves as the blueprint for safe and efficient installation of different precast components. These drawings illustrate lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
 
 Our sequencing plans are developed in coordination with structural stability requirements, site logistics, and safety standards. By incorporating a 4D scheduling tool, our experts enable contractors to foresee challenges, optimize erection timelines, and execute installation phases with confidence.`,
-        image:"/images/service/precast-detailing/img-5.jpg"
-  },
-     {
-        id:6,
-        title:"Bill of Materials (BOM) & Quantity Take-offs",
-        content:`We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
+            image: "/images/service/precast-detailing/img-5.jpg"
+          },
+          {
+            id: 6,
+            title: "Bill of Materials (BOM) & Quantity Take-offs",
+            content: `We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
 
 This automation helps manufacturers streamline procurement, resource planning & exceeding of budget. These detailed outputs support fabrication, logistics, and inventory management throughout the project lifecycle.`,
-        image:"/images/service/blank.png"
-  },
-      
-    ]
+            image: "/images/service/blank.png"
+          },
+
+        ]
 
       },
     ]
@@ -1201,40 +1201,40 @@ This automation helps manufacturers streamline procurement, resource planning & 
 We combine every detail, such as client drawings, survey data, and point clouds, to create a comprehensive 3D model & accurate technical document. These deliverables incorporate plans, sections, elevations, and 3D visualizations, highlighting critical parameters like slopes, cut-and-fill areas, drainage patterns & surface details. Helping to validate designs, optimize workflows, detect clashes, and support accurate quantity take-offs. Once the models are completely developed, we make sure they undergo a QA/QC process to check dimensions, alignments, and tolerances. With our well-coordinated surface models and drawings, we help clients make informed decisions, reduce errors, and streamline construction to ensure overall consistency throughout the project life cycle.
 
 Since 2014, Krypta Tech has been a top BIM services provider across various regions. Helping project teams move from concept to execution with clarity. We have delivered over 1,100+ projects around the world, and built models that convey design intent accurately and provide the level of detail required for efficient on-site implementation.`,
-tabs:[
-  {
-    id:1,
-    title:"Site Modeling Service",
-    content:`Our excellent site modeling service provides clients with 3D models that translate existing and proposed site conditions. This model is created by integrating survey data, topography & GIS information to ensure accurate constitutionality, and incorporates all the important elements such as terrain features, roads, pathways, utilities, and more to create a perfect digital twin of the project.
+        tabs: [
+          {
+            id: 1,
+            title: "Site Modeling Service",
+            content: `Our excellent site modeling service provides clients with 3D models that translate existing and proposed site conditions. This model is created by integrating survey data, topography & GIS information to ensure accurate constitutionality, and incorporates all the important elements such as terrain features, roads, pathways, utilities, and more to create a perfect digital twin of the project.
 
 These precisely developed models support design coordination, clash detection, and constructability reviews. By visualizing the site in 3D, project teams not only get the real idea of the on site conditions but also help them optimize layouts and construction sequences to eliminate any chances of errors and rework.`,
-    image:"/images/service/surface-modeling/img-1.png"
-  },
-  {
-    id:2,
-    title:"Civil Surface BIM Modeling",
-    content:`Our civil surface BIM modeling service provides precise 3D surface models for grading, earthworks, drainage, and landscape integration. Our experts create these 3D models using Autodesk Civil 3D, Revit, and AutoCAD, capturing all important information such as slopes, contours, cut-and-fill areas, and terrain undulations to support project design and execution.
+            image: "/images/service/surface-modeling/img-1.png"
+          },
+          {
+            id: 2,
+            title: "Civil Surface BIM Modeling",
+            content: `Our civil surface BIM modeling service provides precise 3D surface models for grading, earthworks, drainage, and landscape integration. Our experts create these 3D models using Autodesk Civil 3D, Revit, and AutoCAD, capturing all important information such as slopes, contours, cut-and-fill areas, and terrain undulations to support project design and execution.
 
 These fully developed civil surface BIM models are completely coordinated with other disciplines (architectural, structural & MEP), enabling clash detection and accurate quantity take-offs. These models provide a digital platform for better planning, coordination, and construction management.`,
-    image:"/images/service/surface-modeling/img-2.png"
-  },
-  {
-    id:3,
-    title:"Civil Surface 2D Modelings",
-    content:`Our expert team converts detailed 3D surface models into information-rich 2D civil drawings. In civil surface 2D drawings service, we not only incorporate plans, sections, elevations, and contour mapsbut also highlight grading, drainage layouts, cut-and-fill areas, and site features for smooth construction execution.
+            image: "/images/service/surface-modeling/img-2.png"
+          },
+          {
+            id: 3,
+            title: "Civil Surface 2D Modelings",
+            content: `Our expert team converts detailed 3D surface models into information-rich 2D civil drawings. In civil surface 2D drawings service, we not only incorporate plans, sections, elevations, and contour mapsbut also highlight grading, drainage layouts, cut-and-fill areas, and site features for smooth construction execution.
 
 Our accurate 2D deliverables are standardized, dimensionally accurate, and ready for approval, tender, or construction use. They help contractors and engineers translate design intent into actionable on-site execution plans.`,
-    image:"/images/service/surface-modeling/img-3.png"
-  },
-  {
-    id:4,
-    title:"Report Generation",
-    content:`Our report generation services help clients with structured documentation & analysis derived from surface and site models. These reports include cut-and-fill calculations, grading reports, drainage analysis, and quantity take-offs for materials & earthwork.
+            image: "/images/service/surface-modeling/img-3.png"
+          },
+          {
+            id: 4,
+            title: "Report Generation",
+            content: `Our report generation services help clients with structured documentation & analysis derived from surface and site models. These reports include cut-and-fill calculations, grading reports, drainage analysis, and quantity take-offs for materials & earthwork.
 
 We make sure these reports are properly formatted to ensure easy interpretation by project stakeholders, enabling informed decision-making, project approvals, and cost estimation. By integrating reports with BIM models, teams gain a reliable, data-driven overview of site conditions and construction requirements.`,
-    image:"/images/service/surface-modeling/img-4.jpg"
-  }
-]
+            image: "/images/service/surface-modeling/img-4.jpg"
+          }
+        ]
       },
       {
         id: 2,
@@ -1245,7 +1245,34 @@ We make sure these reports are properly formatted to ensure easy interpretation 
 
 These services utilize state-of-the-art BIM and CAD workflows to integrate precise geometry, ground survey data, and alignment information. This enables project teams to assess design options, evaluate multidisciplinary coordination, and implement cost-effective construction techniques. We also provide drawings & data-rich reports that support decision-making, regulatory compliance, and efficient project execution, helping clients to eliminate chances of costly rework. Once the model is made, it undergoes a strict QA/QC process to ensure dimensional accuracy, correct alignments, and compliance with the project standard. With our corridor modeling expertise, project teams benefit from optimized service routing, enhanced constructability, reduced on-site conflicts, and reliable outputs that are ready for fabrication, prefabrication planning.
 
-Krypta Tech has been supporting global projects with BIM modeling services since 2014. We have delivered over 1,100 projects for more than 350 clients across different sectors. We emphasize developing models that make communication easier, capture design intent properly, and keep workflows running efficiently.`
+Krypta Tech has been supporting global projects with BIM modeling services since 2014. We have delivered over 1,100 projects for more than 350 clients across different sectors. We emphasize developing models that make communication easier, capture design intent properly, and keep workflows running efficiently.`,
+        tabs: [
+          {
+            id: 1,
+            title: "Corridor Modeling",
+            content: `In our corridor modeling service, we develop precise 3D corridor models that incorporate alignments, profiles, sections, surfaces, and grading. From single roads to multi-lane highways and railways, our models accurately show real terrain, design criteria, and connected utilities. Each element, structural, MEP, or civil, is modeled with exact dimensions, routing, and clearances to support clash-free layouts and informed construction planning.
+
+These models enable coordination, design validation, and construction simulation. By incorporating real-world geometry and alignment data, we provide project teams evaluate alternatives, optimize routes, and implement cost-effective techniques while reducing on-site conflicts and rework.`,
+            image: "/images/service/corridor-modeling/img-1.png"
+          },
+          {
+            id: 2,
+            title: "Corridor Shop & Installation Drawings",
+            content: `Our corridor shop & installation drawing service produces detailed shop and installation drawings made directly from corridor models, which incorporate plans, sections, elevations, and isometric views. These drawings highlight grading, alignments, structural elements, utilities, hangers, supports, and coordination points between trades.
+
+These deliverables support fabrication, prefabrication, and on-site execution. To help our clients better our drawing undergoes QA/QC checks to ensure accuracy, constructability, and compliance with project standards, enabling faster, safer, and more predictable construction.`,
+            image: "/images/service/corridor-modeling/img-2.jpg"
+          },
+          {
+            id: 3,
+            title: "Corridor Report Generation",
+            content: `Our precise corridor report generation service provides structured, data-driven documentation derived from 3D corridor models. We produce detailed reports that include alignment summaries, grading details, cut-and-fill calculations, surface areas, utility coordination, slope analysis, and construction sequencing insights. These reports give project teams a clear understanding of the corridor’s design, terrain interactions, and potential challenges prior.
+
+We combine real-time BIM data, survey inputs, and design standards in our reports to support informed decision-making, regulatory compliance, cost estimation, and project approvals. Each report is associated with a corridor model, making it easy to track changes, see updated calculations, and maintain accurate records throughout the project lifecycle. This helps clients gain actionable insights, reduce errors, and ensure efficient, clash-free construction execution.`,
+            image: "/images/service/corridor-modeling/img-3.png"
+          },
+
+        ]
       },
       {
         id: 3,
@@ -1256,7 +1283,45 @@ Krypta Tech has been supporting global projects with BIM modeling services since
 
 We develop elaborate 3D utility models by integrating survey data, design criteria, and real-world site constraints, capturing every pipe, conduit, duct, cable, valve, and support. These models give a clear visualization of underground and overhead systems, helping stakeholders identify potential conflicts, optimize routing, plan accurate excavations, and reduce construction risks. Our calculated approach ensures that all utility assets are installed perfectly and minimizes the interference with other infrastructure elements. Once the utility model is completed, we make sure it undergoes a strict QA/QC process to check dimensions, alignments, and compliance with standards. We combine our 3D modeling with high-quality documentation to enable project teams to make informed decisions, improve coordination, and reduce errors.
 
-For more than a decade, Krypta Tech has been providing BIM modeling services to clients across the globe. With 1,100+ completed projects in different sectors, we aim to create models that simplify discussions between teams, accurately represent the design, and support smooth progress throughout the project timeline.`
+For more than a decade, Krypta Tech has been providing BIM modeling services to clients across the globe. With 1,100+ completed projects in different sectors, we aim to create models that simplify discussions between teams, accurately represent the design, and support smooth progress throughout the project timeline.`,
+        tabs: [
+          {
+            id: 1,
+            title: "Underground Dry Utilities",
+            content: `Our underground dry utilities modeling service gives an accurate representation of different telecom, power, fiber optic & other systems in a 3D environment. Using survey data, design criteria, and site constraints, we model conduits, ducts, cable trays, manholes, junctions, and access points to ensure precise routing and conflict-free integration with other disciplines.
+
+These well-coordinated & precise models enable clash detection, constructability checks, and route optimization. By visualizing dry utilities in 3D, stakeholders can make informed decisions about installation sequencing, excavation planning, and site access, reducing delays, rework, and costs on site.
+
+`,
+            image: "/images/service/utilities-network/img-1.png"
+          },
+          {
+            id: 2,
+            title: "Underground Wet Utilities",
+            content: `Our underground wet utilities modeling covers water supply, stormwater drainage, and sewer systems, providing a detailed & accurate 3D representation of pipes, valves, inlets, manholes, pumps, and related components. We make sure each model is created with accurate slopes, invert levels, and connections to support hydraulic functionality & regulatory compliance.
+
+These models support clash detection, excavation planning, and integration with other site utilities. Our experts simulate actual world conditions to help project teams optimize layouts, reduce miscommunication, and ensure safe, efficient installation of wet utility networks.`,
+            image: "/images/service/utilities-network/img-2.png"
+          },
+          {
+            id: 3,
+            title: "Pressure Pipe Systems",
+            content: `Our models pressurized networks, including water distribution, fire suppression, and industrial fluid systems, with accurate routing, connection points, fittings, valves, and supports. These 3D models incorporate hydraulic analysis, pressure ratings, and system parameters to ensure operational efficiency and code compliance.
+
+By combining these systems with other site utilities and infrastructure, we help stakeholders with accurate plan fabrication, prefabrication, and installation sequences. The models reduce clashes, minimize material wastage & improve overall project delivery efficiency.`,
+            image: "/images/service/utilities-network/img-3.png"
+          },
+          {
+            id: 4,
+            title: "Overhead Utilities",
+            content: `Krypta Tech's overhead utilities modeling covers electrical lines, telecom cables, and other aerial services, including poles, towers, supports, crossarms, and clearance zones. We create accurate 3D models that incorporate all important information, such as alignment, span lengths, height clearances, and structural supports.
+
+These models support clash detection with ground-level utilities and surrounding structures, helping project teams optimize routes, improve safety, and plan installation logistics. By visualizing overhead systems in 3D, we provide stakeholders with a clear understanding of spatial coordination and construction feasibility.`,
+            image: "/images/service/utilities-network/img-4.png"
+          },
+
+
+        ]
       }
     ]
   },
@@ -1273,7 +1338,49 @@ For more than a decade, Krypta Tech has been providing BIM modeling services to 
 
 Our 3D scanning services align with global standards, from supporting your plant digitization process to documenting heritage buildings and monuments, we equip clients with precise, actionable information that aligns with their goals.
 
-Our meticulous and detailed point cloud data serves as the foundation for modeling, renovation planning, and construction validation. We process this dataset with precision and accuracy, which are fully optimized for integration into BIM, CAD, and asset management workflows -  assisting in planning and design, conducting quality control, and performing thorough analysis.`
+Our meticulous and detailed point cloud data serves as the foundation for modeling, renovation planning, and construction validation. We process this dataset with precision and accuracy, which are fully optimized for integration into BIM, CAD, and asset management workflows -  assisting in planning and design, conducting quality control, and performing thorough analysis.`,
+tabs:[
+  {
+    id:1,
+    title:"High Definition 3D Laser Scanning",
+    content:`Our top quality 3D Laser Scanning service includes precise as-built documentation, scan-to-BIM modeling (LOD 100–500), point cloud processing, and façade/interior scanning for projects of any scale. Using latest LiDAR equipment, we capture every important and minute existing conditions of buildings, industrial plants, heritage structures, and infrastructure assets with high accuracy. This data is processed into point clouds & then converted into detailed models (architectural, structural, and MEP ) that support design, coordination, and renovation workflows.
+
+We also provide different scanning solutions, including floor flatness analysis, deviation and verification checks, clash detection, digital twin creation, and 360° panoramic walkthroughs. These sub-services help project teams assess site conditions, identify discrepancies, make informed decisions, and minimize rework during construction. Whether for restoration, industrial upgrades, or facility management, our high-definition scan outputs ensure clarity, accuracy, and confidence throughout the project lifecycle.`,
+    image:"/images/service/laser-scanning/img-1.jpg"
+  },
+  {
+    id:2,
+    title:"Point Cloud Processing & Registration",
+    content:`Krypta Tech converts laser scan data into accurate registered point clouds using Autodesk ReCap 360. Our team performs noise removal, alignment, and merges multiple scans to create a single & precise point cloud dataset. This processed data supports seamless integration into Revit, AutoCAD, Navisworks, and other BIM platforms, ensuring a smooth workflow for design, modeling, and coordination.
+
+Using ReCap 360’s advanced tools, our team enhances clarity, optimizes file sizes & applies accurate geo-referencing to provide accuracy. Whether it’s as-built documentation, Scan-to-BIM, verification, or renovation planning, Krypta Tech's point cloud processing provides excellent visualization and reliable outputs for every stage of the project.  With the particular requirements of our client, we also provide processed point clouds in RCS/RCP, E57, LAS, and PTS formats along with structured scan folders and viewing files.`,
+    image:"/images/service/laser-scanning/img-2.jpg"
+  },
+  {
+    id:3,
+    title:"As-Built Documentation",
+    content:`Our as-built documentation service delivers a reliable replica of existing on-site conditions using high-quality 3D laser scanning. With the help of this raw scan data, we create accurate architectural, structural, and MEP as-built information, providing perfect dimensions, details, and layout that represent the actual built environment. These outputs help architects, engineers, and contractors understand existing conditions clearly, reducing the risk of on-site surprises during renovation, retrofitting, or construction planning.
+
+We provide 2D & 3D deliverables that incorporate floor plans, sections, and elevations generated from point clouds, as well as 3D surface meshes & models. We make sure these as-built data integrates with top BIM tools such as AutoCAD & Revit, and also provide the final deliverables in DWG, PDF, Revit (LOD 100–500), RCP/RCS, E57, and other standard formats to support seamless integration into your workflow.`,
+    image:"/images/service/laser-scanning/img-3.png"
+  },
+  {
+    id:4,
+    title:"Industrial & Plant Scanning",
+    content:`We provide top-quality 3D laser scanning for complex facilities such as manufacturing plants, refineries, oil and gas sites, power stations, and process lines in our industrial & plant scanning service. Our experts capture all the existing conditions in detail, including piping networks, valves, structures, equipment, and overall layouts, so teams have a clear and reliable picture of what’s on site.
+This precisely captures site data, is used to plan upgrades, retrofits, maintenance work, and plant expansions with less error. By understanding existing conditions upfront, teams can improve safety, reduce downtime, and avoid unexpected clashes during execution. Scan data is processed into clean, well-registered point clouds and further developed into practical 2D and 3D outputs for engineering and construction use. Deliverables typically include plans, sections, elevations, 3D models, clash reviews, deviation studies, and BIM-ready models compatible with AutoCAD, Revit, Navisworks, and other common industry tools. These outputs give project teams dependable information to coordinate better and work more efficiently throughout the project lifecycle.`,
+    image:"/images/service/laser-scanning/img-4.jpg"
+  },
+  {
+    id:5,
+    title:"Heritage & Monument Documentation",
+    content:`With the help of our heritage and monument documentation service, Krypta Tech provides high-definition 3D laser scanning that excellently captures all historic structures, cultural landmarks, and heritage monuments. We record intricate architectural details, textures, carvings, and structural conditions with millimetre-level precision, ensuring that every element of the site is preserved digitally. This precise data supports restoration planning, conservation studies, structural assessments, and long-term archival of heritage assets without causing any physical disturbance to the site.
+
+This captured data is then transformed into precise 2D and 3D outputs, which incorporate plans, sections, elevations, and textured models. These deliverables not only help architects, conservation experts, engineers, and researchers to understand the monument’s existing condition, but also in tracking deterioration & plan interventions confidently. `,
+    image:"/images/service/laser-scanning/img-5.jpg"
+  },
+  
+]
       },
       {
         id: 2,
