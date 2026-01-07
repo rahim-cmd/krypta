@@ -517,40 +517,40 @@ These services help digitize legacy documentation for design, BIM integration, a
 Our highly expert team uses BIM platforms like Revit, AutoCAD, and Navisworks, integrated with Autodesk Construction Cloud (ACC), and converts models from LOD300 to LOD400 construction-ready documents. Every model undergoes an in-house clash detection test, which is documented and discussed in a clash coordination meeting. Once all the clashes are resolved, we update the necessary changes in the document and hand over the Construction Drawings, shop drawings, IFC packages, estimation data, and as-built documentation to the contractors.
 
 With a strong portfolio of over 1100+ completed projects and 300+ satisfied clients, we have been serving as the leading BIM service provider since 2014. We aim to build a model that serves our clients by providing a sustainable and cost-effective solution to bring their vision to reality.`,
-tabs:[
-  {
-    id:1,
-    title:'Architectural Construction Drawings',
-    content:`Our architectural construction drawing services help architects, builders, and developers transform design concepts into precise, build-ready drawings. Our drawings and BIM documentation ensure accuracy, coordination, and compliance throughout construction.
+        tabs: [
+          {
+            id: 1,
+            title: 'Architectural Construction Drawings',
+            content: `Our architectural construction drawing services help architects, builders, and developers transform design concepts into precise, build-ready drawings. Our drawings and BIM documentation ensure accuracy, coordination, and compliance throughout construction.
 
 Our team prepares complete drawing sets, including floor plans, elevations, sections, details, and schedules, developed to LOD 300–400 standards using industry-leading tools like Revit and AutoCAD. We ensure that every sheet follows the correct documentation style, layer standards, and local building codes. Also, we closely collaborate with structural and MEP teams to coordinate models and minimize errors, delivering perfect execution. Our service serves residential, retail, and commercial projects worldwide.`,
-    image:'/images/service/acd.png'
-  },
-  {
-    id:2,
-    title:'Structural Construction Documentation',
-    content:`We serve our structural construction documentation service in different markets, such as residential, commercial, & industrial, while ensuring our drawings translate designs into clear construction documents. With a focus on precision and accuracy, our structural drawings and reinforcement detailing also ensure safety & compliance with different industry standards. 
+            image: '/images/service/acd.png'
+          },
+          {
+            id: 2,
+            title: 'Structural Construction Documentation',
+            content: `We serve our structural construction documentation service in different markets, such as residential, commercial, & industrial, while ensuring our drawings translate designs into clear construction documents. With a focus on precision and accuracy, our structural drawings and reinforcement detailing also ensure safety & compliance with different industry standards. 
 
 Our team uses advanced tools like Revit Structure, AutoCAD, Advance Steel, and Tekla to deliver high-quality structural drafting & BIM documentation, which includes foundation plans, framing layouts, column and beam schedules, and reinforcement details. We also make sure our drawings are coordinated with other disciplines (architectural &MEP)  to eliminate design errors.`,
-    image:'/images/service/scd.png'
-  },
-  {
-    id:3,
-    title:'Shop Drawing & Fabrication Documentation',
-    content:`Our shop drawing & fabrication drawing services accurately represented every element for manufacturing & installation. These highly detailed and coordinated drawings help our contractors, fabricators, and engineers execute projects with precision & efficiency. Our expertise covers architectural shop drawings, structural shop drawings, & MEP shop drawings, including rebar drawings, steel detailing, HVAC ducting layouts, piping and plumbing shop drawings, electrical layouts, and millwork/joinery fabrication drawings and more. Using advanced software such as AutoCAD, Revit, Tekla, and Navisworks, our experts make sure each drawing is developed with project specifications, fabrication standards, and details required to deliver smooth and seamless execution on site.
+            image: '/images/service/scd.png'
+          },
+          {
+            id: 3,
+            title: 'Shop Drawing & Fabrication Documentation',
+            content: `Our shop drawing & fabrication drawing services accurately represented every element for manufacturing & installation. These highly detailed and coordinated drawings help our contractors, fabricators, and engineers execute projects with precision & efficiency. Our expertise covers architectural shop drawings, structural shop drawings, & MEP shop drawings, including rebar drawings, steel detailing, HVAC ducting layouts, piping and plumbing shop drawings, electrical layouts, and millwork/joinery fabrication drawings and more. Using advanced software such as AutoCAD, Revit, Tekla, and Navisworks, our experts make sure each drawing is developed with project specifications, fabrication standards, and details required to deliver smooth and seamless execution on site.
 
 `,
-    image:'/images/service/ifcd.png'
-  },
-  {
-    id:4,
-    title:'IFC Drawings and As-Built Documentation',
-    content:`Our IFC (Issued for Construction) drawings service provides sets that are fully coordinated across architectural, structural, & MEP disciplines, enabling smooth construction workflows.
+            image: '/images/service/ifcd.png'
+          },
+          {
+            id: 4,
+            title: 'IFC Drawings and As-Built Documentation',
+            content: `Our IFC (Issued for Construction) drawings service provides sets that are fully coordinated across architectural, structural, & MEP disciplines, enabling smooth construction workflows.
 
 Whereas for completed projects, our As-Built Documentation service accurately represents the final built conditions.Capturing all field changes, installations, and modifications made during construction, which are developed up to LOD 500 standards. This provides clients with a verified record for facility management, maintenance, and renovation work.`,
-    image:'/images/service/sdfd.png'
-  },
-]
+            image: '/images/service/sdfd.png'
+          },
+        ]
       },
       {
         id: 11,
@@ -558,24 +558,24 @@ Whereas for completed projects, our As-Built Documentation service accurately re
         desc: "BIM for Prefabrication helps general contractors, Structural engineers, and fabricators create high-quality, clash-free assemblies that reduce errors, save costs, and accelerate installation timelines.",
         slug: "bim-for-prefabrication",
         details: `Our state-of-the-art BIM fabrication modeling is integrated into a smart digital workflow – allowing teams to efficiently design, coordinate, and construct modular building systems. Whether you need fabrication-ready 3D models or clear installation and assembly drawings, our services make off-site construction practical, accurate, and repeatable. Our prefab experts make it easy to get your prefabrication all the way from coordination of design to final installation on site.`,
-        tabs:[
+        tabs: [
           {
-            id:1,
-            title:'Fabrication Modeling',
-            content:`We create accurate, clash-free BIM models for prefabricated items such as structural panels, modular frames, piping assemblies, and mechanical units. Each model BIM we create is matched with fabrication requirements and tolerances. This guarantees that all components are fabrication-ready. Clients no longer need to rely on guesswork or manual tweaks because we provide precise dimensions, materials, and fabrication details. This minimizes expensive errors in the course of manufacturing and installation. With our fabrication modeling, coordination with vendors, fabricators, and contractors is simplified so that the all the parties work with the same accurate model.`,
-            image:'/images/service/fm.jpg'
+            id: 1,
+            title: 'Fabrication Modeling',
+            content: `We create accurate, clash-free BIM models for prefabricated items such as structural panels, modular frames, piping assemblies, and mechanical units. Each model BIM we create is matched with fabrication requirements and tolerances. This guarantees that all components are fabrication-ready. Clients no longer need to rely on guesswork or manual tweaks because we provide precise dimensions, materials, and fabrication details. This minimizes expensive errors in the course of manufacturing and installation. With our fabrication modeling, coordination with vendors, fabricators, and contractors is simplified so that the all the parties work with the same accurate model.`,
+            image: '/images/service/fm.jpg'
           },
           {
-            id:2,
-            title:'Equipment Modeling',
-            content:`Our team assists Structural consultants and engineers in creating BIM-friendly models for complex equipment such as struts, trapeze beams and embed rods and other structural components. Each model is rich in technical parameters and installation requirements, so that they align seamlessly with other building systems. We focus on creating parametric families and product libraries that can be reused across multiple projects. This improves efficiency and reduces design time in future projects. Detailed equipment models also help with clash detection and make maintenance planning easier once installed.`,
-            image:'/images/service/em.png'
+            id: 2,
+            title: 'Equipment Modeling',
+            content: `Our team assists Structural consultants and engineers in creating BIM-friendly models for complex equipment such as struts, trapeze beams and embed rods and other structural components. Each model is rich in technical parameters and installation requirements, so that they align seamlessly with other building systems. We focus on creating parametric families and product libraries that can be reused across multiple projects. This improves efficiency and reduces design time in future projects. Detailed equipment models also help with clash detection and make maintenance planning easier once installed.`,
+            image: '/images/service/em.png'
           },
           {
-            id:3,
-            title:'Assembly Drawings',
-            content:`Installation and assembly drawings simplify complex BIM models into pragmatic instructions for shop floor crews and installers. As part of the detailed drawings, we illustrate the step-by-step assembly of the prefabricated components, detailing their integration and installation processes for the site. We provide detailed joint views, fastening details, connection points, and illustrative sequence diagrams. This clarity prevents costly mistakes and eliminates delays during installation. Precise assembly drawings streamline inspections and quality checks, increasing their reliability and efficiency.`,
-            image:'/images/service/ad.png'
+            id: 3,
+            title: 'Assembly Drawings',
+            content: `Installation and assembly drawings simplify complex BIM models into pragmatic instructions for shop floor crews and installers. As part of the detailed drawings, we illustrate the step-by-step assembly of the prefabricated components, detailing their integration and installation processes for the site. We provide detailed joint views, fastening details, connection points, and illustrative sequence diagrams. This clarity prevents costly mistakes and eliminates delays during installation. Precise assembly drawings streamline inspections and quality checks, increasing their reliability and efficiency.`,
+            image: '/images/service/ad.png'
           },
         ]
       },
@@ -595,43 +595,43 @@ Whereas for completed projects, our As-Built Documentation service accurately re
 With our architectural 3D modeling solutions, we assist architects, designers, and contractors with a commitment to quality and timely delivery. Offering coordinated, clash-free, and production-ready 3D models for different sectors such as retail, residences (single & multi-family), healthcare, industrial, etc.
 
 Since 2014, Krypta Tech has been delivering precise and practical BIM modeling services. Over the past decade, we’ve delivered more than 1,100 projects for and 300+ satisfied clients across the globe. Our advanced 3D modeling and other BIM services don’t just help build models; we help our clients bring their ideas to life more clearly and efficiently.`,
-tabs:[
-  {
-    id:1,
-    title:'3D Architectural Model (LOD 100 - LOD 400)',
-    content:`We offer 3D architectural modeling services for every stage of the construction process, right from conceptual design (LOD 100) to a construction-ready model (LOD 400).  These intelligent BIM models accurately represent all architectural elements, such as walls, doors, windows, floors, roofs, ceilings, staircases, furniture, and façade systems.
+        tabs: [
+          {
+            id: 1,
+            title: '3D Architectural Model (LOD 100 - LOD 400)',
+            content: `We offer 3D architectural modeling services for every stage of the construction process, right from conceptual design (LOD 100) to a construction-ready model (LOD 400).  These intelligent BIM models accurately represent all architectural elements, such as walls, doors, windows, floors, roofs, ceilings, staircases, furniture, and façade systems.
 
 
 Each model is precisely created to reflect true design intent, material specifications, and spatial coordination. Our BIM experts use leading software like Revit, Tekla, and AutoCAD to deliver data-rich models that enhance visualization, streamline coordination, and ensure efficiency at every stage of the project.`,
-    image:'/images/service/architectural-3d-modeling-services/img-1.png'
-  },
-  {
-    id:2,
-    title:'Landscape Modeling',
-    content:`Our landscape modeling services turn outdoor spaces into vivid, detailed, data-rich 3D and BIM models that accurately represent terrain, hardscape, softscape, planting layouts, site furniture, paths, water features, and lighting. Ensuring the landscape model aligns perfectly with architectural and civil plans. 
+            image: '/images/service/architectural-3d-modeling-services/img-1.png'
+          },
+          {
+            id: 2,
+            title: 'Landscape Modeling',
+            content: `Our landscape modeling services turn outdoor spaces into vivid, detailed, data-rich 3D and BIM models that accurately represent terrain, hardscape, softscape, planting layouts, site furniture, paths, water features, and lighting. Ensuring the landscape model aligns perfectly with architectural and civil plans. 
 
 Using advanced tools like Revit, SketchUp, and AutoCAD, our experts build landscape models that aren’t just accurate and visually engaging but also support documentation and site coordination. Helping architects, planners, and contractors to better understand spatial relationships, the overall project efficiency and ensure smooth execution of landscape works on site.`,
-    image:'/images/service/architectural-3d-modeling-services/img-2.jpg'
-  },
-  {
-    id:3,
-    title:'Revit Family Creation',
-    content:`Standardize your designs with our custom Revit families service that accurately represents furniture, fixtures, casework, doors, windows, and more that integrate seamlessly into your BIM projects, improving efficiency and consistency across drawings and models. Our team ensures families meet your specific requirements for geometry, parameters, and level of detail. High-quality BIM content reduces repetitive modeling work and supports better collaboration with consultants and contractors. Whether you need a new library developed or existing families optimized, our service ensures your BIM assets are reliable, scalable, and easy to maintain.`,
-    image:'/images/service/architectural-3d-modeling-services/img-3.jpg'
-  },
-  {
-    id:4,
-    title:'CAD to BIM Conversion',
-    content:`Convert legacy 2D CAD plans or hand sketches to live intelligent BIM models and take your old drawings into the next century. Here, we read your 2D layouts, elevations and sections and convert them into information-rich Revit models with intricate geometry and detailed data. You will benefit from this service by enjoying better design coordination, clash detection, and future changes without needing to redo all over again. We make sure that once your models are converted they end up industry standard and dimensionally correct with out team. Our 2D to 3D service takes your project data and updates it for use in modern digital workflows — from residential buildings, to large commercial developments.`,
-    image:'/images/service/architectural-3d-modeling-services/img-4.png'
-  },
-  {
-    id:5,
-    title:'Scan to BIM',
-    content:`Our Scan To BIM (point cloud to BIM) services convert the detail-rich point cloud from the laser scanning data into highly detailed 3D Revit models. This is important for renovation, refit, or restoration works where existing conditions need to be picked up correctly. We import point cloud data from your service provider, align it according to your specifications, and model architectural elements, structural components, or MEP systems to a level of detail that is tailored to each project. This reduces the guesswork & site visits and verifies that your design fits real-world dimensions. We provide high-accuracy output so that when as-built models are ready, they can be used to base the trust for any design intervention.`,
-    image:'/images/service/architectural-3d-modeling-services/img-5.jpg'
-  },
-]
+            image: '/images/service/architectural-3d-modeling-services/img-2.jpg'
+          },
+          {
+            id: 3,
+            title: 'Revit Family Creation',
+            content: `Standardize your designs with our custom Revit families service that accurately represents furniture, fixtures, casework, doors, windows, and more that integrate seamlessly into your BIM projects, improving efficiency and consistency across drawings and models. Our team ensures families meet your specific requirements for geometry, parameters, and level of detail. High-quality BIM content reduces repetitive modeling work and supports better collaboration with consultants and contractors. Whether you need a new library developed or existing families optimized, our service ensures your BIM assets are reliable, scalable, and easy to maintain.`,
+            image: '/images/service/architectural-3d-modeling-services/img-3.jpg'
+          },
+          {
+            id: 4,
+            title: 'CAD to BIM Conversion',
+            content: `Convert legacy 2D CAD plans or hand sketches to live intelligent BIM models and take your old drawings into the next century. Here, we read your 2D layouts, elevations and sections and convert them into information-rich Revit models with intricate geometry and detailed data. You will benefit from this service by enjoying better design coordination, clash detection, and future changes without needing to redo all over again. We make sure that once your models are converted they end up industry standard and dimensionally correct with out team. Our 2D to 3D service takes your project data and updates it for use in modern digital workflows — from residential buildings, to large commercial developments.`,
+            image: '/images/service/architectural-3d-modeling-services/img-4.png'
+          },
+          {
+            id: 5,
+            title: 'Scan to BIM',
+            content: `Our Scan To BIM (point cloud to BIM) services convert the detail-rich point cloud from the laser scanning data into highly detailed 3D Revit models. This is important for renovation, refit, or restoration works where existing conditions need to be picked up correctly. We import point cloud data from your service provider, align it according to your specifications, and model architectural elements, structural components, or MEP systems to a level of detail that is tailored to each project. This reduces the guesswork & site visits and verifies that your design fits real-world dimensions. We provide high-accuracy output so that when as-built models are ready, they can be used to base the trust for any design intervention.`,
+            image: '/images/service/architectural-3d-modeling-services/img-5.jpg'
+          },
+        ]
       },
       {
         id: 2,
@@ -643,47 +643,47 @@ Using advanced tools like Revit, SketchUp, and AutoCAD, our experts build landsc
 Using advanced platforms such as Revit, AutoCAD, and BIM-driven workflows, we produce documentation that is geometrically precise, clash-free, and aligned with international quality standards. Our team follows a rigorous QA/QC process to eliminate inconsistencies, reduce RFIs, streamline coordination, and provide contractors with dependable, build-ready information.
 
 With proven expertise over a decade, Krypta Tech has delivered 1100 completed projects with a strong focus on clarity, technical accuracy, and execution efficiency. With our advanced BIM services, we help project teams minimise errors, accelerate approvals, enhance construction planning, and deliver high-quality outcomes with confidence.`,
-tabs:[
-  {
-    id:1,
-    title:'Schematic Design (SD)',
-    content:`Our Schematic Design (SD) Documentation Services help architects, planners, and owners to establish clear, structured, and technically informed design concepts. We prepare early-stage layouts, massing studies, circulation diagrams, zoning and site evaluations, and spatial planning strategies that define the project’s vision, functionality, and core architectural parameters.
+        tabs: [
+          {
+            id: 1,
+            title: 'Schematic Design (SD)',
+            content: `Our Schematic Design (SD) Documentation Services help architects, planners, and owners to establish clear, structured, and technically informed design concepts. We prepare early-stage layouts, massing studies, circulation diagrams, zoning and site evaluations, and spatial planning strategies that define the project’s vision, functionality, and core architectural parameters.
 ‍
 Each SD includes conceptual floor plans, sections & elevations, key area programs, adjacency diagrams, and initial material/finish directions. Our experts analyse all the site constraints, codes & functional requirements precisely, and take inputs from other disciplines (structural & MEP) experts to ensure seamless coordination throughout the stages. These well-organised drawings, conceptual sketches, and early performance considerations help us support informed decision-making and a seamless transition from the Schematic Design (SD) to the Design Development (DD) phase.`,
-    image:'/images/service/acd/img-1.png'
-  },
-  {
-    id:2,
-    title:'Design Development',
-    content:`Our design development (DD) documentation services take your early design concepts & turn them into a set of coordinated architectural drawings that align with structural and MEP requirements. At this stage, we refine and tighten floor plans, elevations, and sections with practical dimensions, clearer wall assemblies, and the kind of spatial clarity needed before anything moves forward.The DD package incorporates all the important details, right from room layouts, door and window schedules, material specifications, ceiling plans, and façade development to the initial construction details. Each component is documented with the intent of making the design understandable, buildable, and easier for downstream teams to work with.Our experts closely coordinate with structural & MEP consultants to resolve spatial clashes and validate design feasibility. By bringing these technical details, coordination inputs, and material considerations into one place, our DD documentation sets the project on a steady path toward the construction-ready phase.`,
-    image:'/images/service/acd/img-2.png'
-  },
-  {
-    id:3,
-    title:'Construction Documentation (CD)',
-    content:`Our construction documentation (CD) services deliver the detailed, work-ready drawings needed for fabrication, procurement & precise on-site execution. At this stage, we prepare fully dimensioned plans, sections, elevations, enlarged details, and room-by-room drawings, along with wall, door, and window schedules, RCPs, and the accompanying annotations that guide the team on site.The CD package also carries the construction-level detailing that contractors rely on; it includes junctions, connections, waterproofing treatments, fire-stopping details, assemblies, and the various code-required notes that shape how the work must be carried out. Throughout this process, we maintain close coordination with structural and MEP drawings to avoid clashes and remove uncertainty in the construction sequence.Every drawing set undergoes a strict QA/QC review to check accuracy, internal consistency, and code compliance. This gives contractors and fabricators a dependable set of technical instructions that help reduce RFIs, prevent delays & reduce costly rework during the construction.`,
-    image:'/images/service/acd/img-3.png'
-  },
-  {
-    id:4,
-    title:'Building Permit Drawings',
-    content:`Our building permit drawing services deliver documentation that is fully code-compliant and required for quick municipal approval. In this service, we prepare zoning-compliant site plans, fire and life-safety diagrams, egress layouts, occupancy calculations, accessibility (ADA) details, and building code annotations.
+            image: '/images/service/acd/img-1.png'
+          },
+          {
+            id: 2,
+            title: 'Design Development',
+            content: `Our design development (DD) documentation services take your early design concepts & turn them into a set of coordinated architectural drawings that align with structural and MEP requirements. At this stage, we refine and tighten floor plans, elevations, and sections with practical dimensions, clearer wall assemblies, and the kind of spatial clarity needed before anything moves forward.The DD package incorporates all the important details, right from room layouts, door and window schedules, material specifications, ceiling plans, and façade development to the initial construction details. Each component is documented with the intent of making the design understandable, buildable, and easier for downstream teams to work with.Our experts closely coordinate with structural & MEP consultants to resolve spatial clashes and validate design feasibility. By bringing these technical details, coordination inputs, and material considerations into one place, our DD documentation sets the project on a steady path toward the construction-ready phase.`,
+            image: '/images/service/acd/img-2.png'
+          },
+          {
+            id: 3,
+            title: 'Construction Documentation (CD)',
+            content: `Our construction documentation (CD) services deliver the detailed, work-ready drawings needed for fabrication, procurement & precise on-site execution. At this stage, we prepare fully dimensioned plans, sections, elevations, enlarged details, and room-by-room drawings, along with wall, door, and window schedules, RCPs, and the accompanying annotations that guide the team on site.The CD package also carries the construction-level detailing that contractors rely on; it includes junctions, connections, waterproofing treatments, fire-stopping details, assemblies, and the various code-required notes that shape how the work must be carried out. Throughout this process, we maintain close coordination with structural and MEP drawings to avoid clashes and remove uncertainty in the construction sequence.Every drawing set undergoes a strict QA/QC review to check accuracy, internal consistency, and code compliance. This gives contractors and fabricators a dependable set of technical instructions that help reduce RFIs, prevent delays & reduce costly rework during the construction.`,
+            image: '/images/service/acd/img-3.png'
+          },
+          {
+            id: 4,
+            title: 'Building Permit Drawings',
+            content: `Our building permit drawing services deliver documentation that is fully code-compliant and required for quick municipal approval. In this service, we prepare zoning-compliant site plans, fire and life-safety diagrams, egress layouts, occupancy calculations, accessibility (ADA) details, and building code annotations.
 
 Our permit sets are drafted to pass the submission standards of local authorities, incorporating daylight studies, FAR/FSI calculations, fire separation requirements, stair & corridor compliance, and essential safety signage. By aligning design documentation with safety regulations & multi-disciplinary coordination, we help clients reduce review cycles (inspections) and secure faster approvals from the local authorities.`,
-    image:'/images/service/acd/'
-  },
-  {
-    id:5,
-    title:'As-Built Documentation',
-    content:`We capture all the real-world conditions accurately after construction completion with our as-built documentation services. We integrate all site revisions, RFIs, markups, & installation changes into the final drawing set, and we update plans, elevations, sections, service layouts & equipment placements to replicate the actual built environment. 
+            image: '/images/service/acd/'
+          },
+          {
+            id: 5,
+            title: 'As-Built Documentation',
+            content: `We capture all the real-world conditions accurately after construction completion with our as-built documentation services. We integrate all site revisions, RFIs, markups, & installation changes into the final drawing set, and we update plans, elevations, sections, service layouts & equipment placements to replicate the actual built environment. 
 
 Our as-built packages include dimensions, final routing of the MEP systems, updated structural modifications, revised material specifications & any changes done to the original design concept during the construction stage. These records are essential for handover, facility management, compliance documentation, and future renovation or expansion planning.
 
 By delivering precise, well-organised as-built drawings, we provide stakeholders with complete lifecycle documentation for long-term operations and asset management.`,
-    image:'/images/service/acd/'
-  },
-  
-]
+            image: '/images/service/acd/'
+          },
+
+        ]
       },
       {
         id: 3,
@@ -695,31 +695,31 @@ By delivering precise, well-organised as-built drawings, we provide stakeholders
 Our interior documentation packages incorporate detailed plans, RCPs, flooring layouts, wall elevations, millwork shop drawings, schedules, material specifications, and installation details. Our experts use Revit and BIM-centric workflows to prepare drawings that are properly dimensioned, clearly annotated, and technically coordinated for smooth execution on site. 
 
 With a strong focus on accuracy, quality, and coordination, Krypta Tech has delivered over 1100 completed projects globally since 2014. With our advanced BIM service, we aim to help our clients reduce design conflicts, shorten approval cycles, support fabrication, and ensure efficient construction delivery. This gives architects, engineers, and consultants a streamlined process from design development (DD) to project handover for bringing their vision into reality.`,
-tabs:[
-  {
-    id:1,
-    title:'Millwork & Joinery',
-    content:`Our Millwork & Joinery BIM Modeling Services provide precise, fabrication-ready 3D models for custom interior elements such as cabinetry, wardrobes, wall paneling, reception desks & kitchen units. Each section is modeled with accurate geometry, practical joinery methods, hardware integration, material definitions, and the necessary clearances, all coordinated with architectural and MEP layouts. This approach helps us to detect clashes early, reducing the risk of costly rework and ensuring a smoother shift from design to fabrication.We also prepare complete millwork documentation that incorporates shop drawings, assembly diagrams, exploded views, section cuts, cut sheets, hardware schedules, and material specifications. Each set is developed according to the fabrication standards, which include verified dimensions and installation notes for contractors. Using leading BIM software like Revit and AutoCAD, our experts make sure each element is technically accurate across the set and is ready for efficient manufacturing & seamless on-site installation.`,
-    image:'/images/service/interior-bim-modeling/img-1.jpg'
-  },
-  {
-    id:2,
-    title:'Revit Family Creation',
-    content:`Our Interior Revit Family Creation Services focus on building detailed, parametric, and fully customizable families that actually suit interior design and fit-out requirements. We develop furniture pieces, fixtures, millwork items, lighting elements, appliances, décor objects, and a range of custom-built features with accurate geometry, proper material definitions, and practical parameters that support design variations without having to rebuild anything.
+        tabs: [
+          {
+            id: 1,
+            title: 'Millwork & Joinery',
+            content: `Our Millwork & Joinery BIM Modeling Services provide precise, fabrication-ready 3D models for custom interior elements such as cabinetry, wardrobes, wall paneling, reception desks & kitchen units. Each section is modeled with accurate geometry, practical joinery methods, hardware integration, material definitions, and the necessary clearances, all coordinated with architectural and MEP layouts. This approach helps us to detect clashes early, reducing the risk of costly rework and ensuring a smoother shift from design to fabrication.We also prepare complete millwork documentation that incorporates shop drawings, assembly diagrams, exploded views, section cuts, cut sheets, hardware schedules, and material specifications. Each set is developed according to the fabrication standards, which include verified dimensions and installation notes for contractors. Using leading BIM software like Revit and AutoCAD, our experts make sure each element is technically accurate across the set and is ready for efficient manufacturing & seamless on-site installation.`,
+            image: '/images/service/interior-bim-modeling/img-1.jpg'
+          },
+          {
+            id: 2,
+            title: 'Revit Family Creation',
+            content: `Our Interior Revit Family Creation Services focus on building detailed, parametric, and fully customizable families that actually suit interior design and fit-out requirements. We develop furniture pieces, fixtures, millwork items, lighting elements, appliances, décor objects, and a range of custom-built features with accurate geometry, proper material definitions, and practical parameters that support design variations without having to rebuild anything.
 
 Each family is set up to perform smoothly, follow the project’s standards, and work cleanly within regular BIM workflows, which enables space planning, schedules, quantity take-offs, and even the visual side of the project. And whether it's a residential, commercial, hospitality, or retail interiors project, these families make coordination easier, speed up modelling, and keep the overall documentation consistent and reliable.`,
-    image:'/images/service/interior-bim-modeling/img-2.jpg'
-  },
-  {
-    id:3,
-    title:'CAD to BIM Conversion',
-    content:`Our CAD to BIM Conversion Services for interiors transform 2D drawings, sketches, and PDFs into accurate, data-rich 3D BIM models tailored for detailed design, coordination, and documentation. We recreate interior layouts, partitions, millwork, furniture, finishes, ceiling systems, lighting, and MEP elements with precise geometry and LOD-specific (LOD 100- LOD 400) detailing.
+            image: '/images/service/interior-bim-modeling/img-2.jpg'
+          },
+          {
+            id: 3,
+            title: 'CAD to BIM Conversion',
+            content: `Our CAD to BIM Conversion Services for interiors transform 2D drawings, sketches, and PDFs into accurate, data-rich 3D BIM models tailored for detailed design, coordination, and documentation. We recreate interior layouts, partitions, millwork, furniture, finishes, ceiling systems, lighting, and MEP elements with precise geometry and LOD-specific (LOD 100- LOD 400) detailing.
 
 Our experts use Revit-based workflows to ensure every element is aligned with design intent, dimensional accuracy & project standards. Resulting in early clash detection, accurate quantity take-offs, fabrication-ready shop drawings, and seamless coordination among all disciplines (architectural, structural & MEP) for interior design and construction.`,
-    image:'/images/service/interior-bim-modeling/img-3.jpg'
-  },
-  
-]
+            image: '/images/service/interior-bim-modeling/img-3.jpg'
+          },
+
+        ]
       },
       {
         id: 4,
@@ -731,45 +731,45 @@ Our experts use Revit-based workflows to ensure every element is aligned with de
 Our documentation service includes ACP panel layouts, skylight shop drawings, shading system details, fabrication sheets, panelization plans, installation sequencing, section cuts, material schedules, and connection details; all developed using Revit, AutoCAD, and façade design tools. With a strong focus on precision, buildability, and coordination, our façade BIM services reduce rework, accelerate installation, and deliver a fully coordinated digital blueprint that supports smooth and error-free façade construction.
 
 Since 2014, Krypta Tech has been providing advanced BIM services globally. Helping architects, engineers, consultants & owners gain clarity and control of their projects at every stage of their project. We offer a precise BIM solution for different sectors, including educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural.`,
-tabs:[
-  {
-    id:1,
-    title:'Curtain Wall & Profile Detailing',
-    content:`Our curtain wall & profile detailing includes development of exterior enclosure systems that combine performance, aesthetics & constructability. This includes designing and detailing mullions, transoms, brackets, pressure plates, gaskets, glazing interfaces, and all supporting profiles required to achieve structural stability. This extensive process makes sure the façade meets thermal, waterproofing, and wind-load standards while ensuring the original architectural intent is not disturbed. We also coordinate structural & service elements to avoid clashes and to ensure seamless integration across the building envelope.This service also facilitates detailed shop drawings, assembly diagrams, and installation sequences for standard & custom façade systems. The precise detailing ensures absolute compliance with strict manufacturer standards and specific project specifications, irrespective of whether the design incorporates materials like aluminium, glass, composite panels, fins, or more complex hybrid façade types. Helping fabricators, contractors, and site teams understand the system's specific requirements, which subsequently minimizes costly rework and guarantees optimal, high-quality performance of the installed façade.
+        tabs: [
+          {
+            id: 1,
+            title: 'Curtain Wall & Profile Detailing',
+            content: `Our curtain wall & profile detailing includes development of exterior enclosure systems that combine performance, aesthetics & constructability. This includes designing and detailing mullions, transoms, brackets, pressure plates, gaskets, glazing interfaces, and all supporting profiles required to achieve structural stability. This extensive process makes sure the façade meets thermal, waterproofing, and wind-load standards while ensuring the original architectural intent is not disturbed. We also coordinate structural & service elements to avoid clashes and to ensure seamless integration across the building envelope.This service also facilitates detailed shop drawings, assembly diagrams, and installation sequences for standard & custom façade systems. The precise detailing ensures absolute compliance with strict manufacturer standards and specific project specifications, irrespective of whether the design incorporates materials like aluminium, glass, composite panels, fins, or more complex hybrid façade types. Helping fabricators, contractors, and site teams understand the system's specific requirements, which subsequently minimizes costly rework and guarantees optimal, high-quality performance of the installed façade.
 
 `,
-    image:'/images/service/facade-bim-services/img-1.png'
-  },
-  {
-    id:2,
-    title:'Facade 2D Drafting',
-    content:`Our facade 2D drafting service creates 2D drawings illustrating the exterior envelope of a building. These accurate & detailed drawings include elevations, sectional views, and component details that represent panel layouts, joint locations, material transitions, glazing lines, and structural connections. Our highly qualified experts convert the architectural façade concept into precise technical documentation that helps fabrication and construction teams to proceed with confidence.
+            image: '/images/service/facade-bim-services/img-1.png'
+          },
+          {
+            id: 2,
+            title: 'Facade 2D Drafting',
+            content: `Our facade 2D drafting service creates 2D drawings illustrating the exterior envelope of a building. These accurate & detailed drawings include elevations, sectional views, and component details that represent panel layouts, joint locations, material transitions, glazing lines, and structural connections. Our highly qualified experts convert the architectural façade concept into precise technical documentation that helps fabrication and construction teams to proceed with confidence.
 
 This service ensures full clarity on dimensions, fixing mechanisms, tolerances, and alignment details required for smooth installation. Whether the façade consists of glass, aluminium, ACP, stone, metal cladding, or mixed materials, the 2D drafts communicate exact specifications, performance requirements, and design intent. These drawings serve as the foundation for façade engineering, estimation, and site execution, reducing ambiguity and ensuring a coordinated, buildable façade system.
 
 `,
-    image:'/images/service/facade-bim-services/img-2.png'
-  },
-  {
-    id:3,
-    title:'Facade 3D BIM Modeling',
-    content:`Our facade 3D BIM modeling service develops data-rich digital models of a building’s external envelope, including curtain walls, cladding systems, glazing assemblies, ACP panels, louvers, skylights, and shading systems. Using Revit and advanced BIM workflows, our experts create façade models from LOD 100 (concept) to LOD 400 (construction-ready), ensuring accurate geometry, parametric behaviour, and system-level coordination. The model captures every façade component like mullions, transoms, gaskets, brackets, fixings, insulation, and weatherproofing layers, resulting in clear visualization and clash-free integration with architectural & structural elements.
+            image: '/images/service/facade-bim-services/img-2.png'
+          },
+          {
+            id: 3,
+            title: 'Facade 3D BIM Modeling',
+            content: `Our facade 3D BIM modeling service develops data-rich digital models of a building’s external envelope, including curtain walls, cladding systems, glazing assemblies, ACP panels, louvers, skylights, and shading systems. Using Revit and advanced BIM workflows, our experts create façade models from LOD 100 (concept) to LOD 400 (construction-ready), ensuring accurate geometry, parametric behaviour, and system-level coordination. The model captures every façade component like mullions, transoms, gaskets, brackets, fixings, insulation, and weatherproofing layers, resulting in clear visualization and clash-free integration with architectural & structural elements.
 This extensive BIM model supports façade engineering, quantity take-offs, accurate quantity take-offs, detailed fabrication planning, and precise installation sequencing. It helps identify coordination issues, reduces rework & improves overall constructibility at every stage of the project. Our precise façade assemblies with embedded metadata enhance communication between stakeholders (designers, consultants, manufacturers, and on-site teams). This results in a well-coordinated façade model that streamlines project execution and ensures a high-quality performance for the building envelope.
 
 `,
-    image:'/images/service/facade-bim-services/img-3.png'
-  },
-  {
-    id:4,
-    title:'Facade Shop Drawings & Front Elevation Drawings',
-    content:`Our facade shop drawings & front elevation drawings service provides detailed, construction-ready documentation for precise fabrication & installation. These drawings include precise dimensions, fixing details, panel layouts, glazing specifications, mullion–transom arrangements, joint details, sealant locations, bracketry, anchoring systems, and waterproofing layers. Our highly qualified team ensures every element is coordinated with the discipline models (architectural, structural, and MEP), resulting in reduced clashes and alignment with manufacturer standards.
+            image: '/images/service/facade-bim-services/img-3.png'
+          },
+          {
+            id: 4,
+            title: 'Facade Shop Drawings & Front Elevation Drawings',
+            content: `Our facade shop drawings & front elevation drawings service provides detailed, construction-ready documentation for precise fabrication & installation. These drawings include precise dimensions, fixing details, panel layouts, glazing specifications, mullion–transom arrangements, joint details, sealant locations, bracketry, anchoring systems, and waterproofing layers. Our highly qualified team ensures every element is coordinated with the discipline models (architectural, structural, and MEP), resulting in reduced clashes and alignment with manufacturer standards.
 
 Our front elevation drawings offer a clear visual representation of the building’s exterior envelope, showcasing façade patterns, material finishes, panel grids, shading elements & overall design intent of the project. When combined with our shop drawings, it helps contractors, fabricators, and installers understand the configuration & supports smooth approvals, accurate fabrication, optimized installation process for high-quality on-site execution.`,
-    image:'/images/service/facade-bim-services/img-4.png'
-  },
- 
-  
-]
+            image: '/images/service/facade-bim-services/img-4.png'
+          },
+
+
+        ]
       },
       {
         id: 5,
@@ -781,33 +781,33 @@ Our front elevation drawings offer a clear visual representation of the building
 Our documentation packages include grading plans, hardscape layouts, planting plans, irrigation drawings, construction details, material schedules, and installation diagrams.  With Revit, Civil 3D, and BIM workflows, our experts ensure every sheet is technically accurate, well-annotated, & can be used for on-site execution. With a commitment to clarity, constructability, and coordination, our landscape BIM solutions reduce rework and enhance collaboration for efficient delivery of exterior works.
 
 With our expertise, we stand out with our strong portfolio of 1100+ projects and 300+ satisfied clients globally, and have been serving as a leading BIM service provider for over a decade. We aim to serve our clients with precise BIM solutions and help them elevate their design, from concept to reality.`,
-tabs:[
-  {
-    id:1,
-    title:'Softscape Modeling',
-    content:`Our softscape modeling service provides information-rich BIM representations of all landscape planting elements (trees, shrubs, ground covers, lawns, planter beds, and green areas). We develop a detailed plant model that represents botanical information, placement patterns, root-zone requirements &  growth parameters for realistic visualization and enhance site planning.
+        tabs: [
+          {
+            id: 1,
+            title: 'Softscape Modeling',
+            content: `Our softscape modeling service provides information-rich BIM representations of all landscape planting elements (trees, shrubs, ground covers, lawns, planter beds, and green areas). We develop a detailed plant model that represents botanical information, placement patterns, root-zone requirements &  growth parameters for realistic visualization and enhance site planning.
 
 Our experts make sure the models are fully coordinated with grading, irrigation, hardscape, and site utilities, ensuring proper spacing, soil depths, drainage compatibility, and maintenance access. This integrated approach helps landscape architects and contractors optimize plant selection, streamline installation, improve long-term sustainability, and ensure the softscape design performs effectively throughout the project lifecycle.`,
-    image:'/images/service/lbmd/img-1.png'
-  },
-  {
-    id:2,
-    title:'Site Analysis & Terrain Modeling',
-    content:`Our site analysis & terrain modelling service accurately provides digital representations of existing site conditions, which enable informed planning and precise landscape & architectural design. We analyze topography, site slopes, grading patterns, drainage flow, soil conditions, access points, and environmental constraints to create a clear understanding of site opportunities and limitations. This analysis supports better decision-making for layout planning, stormwater management, cut–fill optimization, and infrastructure coordination.
+            image: '/images/service/lbmd/img-1.png'
+          },
+          {
+            id: 2,
+            title: 'Site Analysis & Terrain Modeling',
+            content: `Our site analysis & terrain modelling service accurately provides digital representations of existing site conditions, which enable informed planning and precise landscape & architectural design. We analyze topography, site slopes, grading patterns, drainage flow, soil conditions, access points, and environmental constraints to create a clear understanding of site opportunities and limitations. This analysis supports better decision-making for layout planning, stormwater management, cut–fill optimization, and infrastructure coordination.
 
 Our experts create highly accurate terrain models using BIM & Civil 3D workflows, with survey data, contour maps, GIS information, and site measurements. Resulting 3D model with hardscape, softscape, utilities, and structural elements detailing, ensuring seamless coordination at every stage of the construction process. This detailed approach helps clients and teams reduce grading conflicts and improve overall efficiency and constructability.`,
-    image:'/images/service/lbmd/img-2.png'
-  },
-  {
-    id:3,
-    title:'Photo-Realistic Visualization for Landscape',
-    content:`Our photo-realistic visualization service for landscape design provides you with immersive, true-to-life renders that precisely showcase vegetation, hardscape materials, lighting, textures, water features, and overall site ambiance. We bring outdoor environments to life with realistic plant species, seasonal variations, shadows, reflections, and material behavior, helping clients clearly visualize how the landscape will appear before it is built.
+            image: '/images/service/lbmd/img-2.png'
+          },
+          {
+            id: 3,
+            title: 'Photo-Realistic Visualization for Landscape',
+            content: `Our photo-realistic visualization service for landscape design provides you with immersive, true-to-life renders that precisely showcase vegetation, hardscape materials, lighting, textures, water features, and overall site ambiance. We bring outdoor environments to life with realistic plant species, seasonal variations, shadows, reflections, and material behavior, helping clients clearly visualize how the landscape will appear before it is built.
 
 Our experts use advanced tools such as Lumion, Twinmotion, Enscape, V-Ray, Unreal Engine, and 3DS MAX to create top-quality still renders, animated walkthroughs, and flythroughs.  Helping you in presentation & client approval, but also facilitating support marketing content & coordination among stakeholders`,
-    image:'/images/service/lbmd/img-3.png'
-  },
-  
-]
+            image: '/images/service/lbmd/img-3.png'
+          },
+
+        ]
       },
       {
         id: 6,
@@ -819,27 +819,27 @@ Our experts use advanced tools such as Lumion, Twinmotion, Enscape, V-Ray, Unrea
 Using industry-leading tools like Lumion, Twinmotion, Enscape, V-Ray, and Unreal Engine, our highly skilled professionals produce visuals that support presentation & client approval, but also facilitate support marketing content & coordination among stakeholders. Our expertise enables every image to communicate the true essence of the design in cooperating exterior façade renders to detailed interior spaces, landscape views, lighting studies, and material options. With our rendering service, we aim to remove uncertainty regarding design, validate concepts early, and make confident decisions.
 
 With over a decade of experience in the AEC & BIM industry, Krypta Tech has established itself as one of the leading BIM service providers globally. Helping architects, engineers, consultants, and owners with our advanced BIM solutions. Our strong portfolio consists of 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors, helping clients gain clarity and control.`,
-tabs:[
-  {
-    id:1,
-    title:'Interior & Exterior Renders',
-    content:`We provide high-quality interior and exterior renderings designed to offer a photorealistic visualization of architectural designs before construction begins. Our rendering services prioritize accuracy & incorporate precise materials, lighting, textures, furniture, landscape elements, and real-world environmental context, giving clients a clear preview of the final architectural outcome. Whether the requirement is for interiors detailing refined finishes & ambiance or exteriors highlighting façade treatments & site surroundings, we produce precise and impactful visuals that are not only essential for design reviews, client approvals, but also help in marketing presentations. To ensure render communicates the true intent and quality of your project, our experts use industry-leading tools such as V-Ray, Lumion, Enscape, and Twinmotion.`,
-    image:'/images/service/visualization-rendering/img-1.jpg'
-  },
-  {
-    id:2,
-    title:'3d Walkthroughs & Animation Videos',
-    content:`Krypta Tech develops immersive 3D walkthroughs and animation videos that present your project with both cinematic clarity and dynamic movement. These animations are engineered to illustrate key design elements, including the flow of spaces, material transitions, lighting behavior, and the overall design experience, allowing clients to explore the project virtually before actual construction begins. We precisely highlight features such as smooth interior walkthroughs, dynamic exterior flythroughs, key architectural features, landscapes, and functional layouts. By utilizing advanced tools like Unreal Engine, Twinmotion, Lumion, and Enscape, we produce high-quality videos that are perfectly suited for client presentations, marketing campaigns, investor pitches, and general promotional content. These animations ultimately enhances the engagement & understanding of your design for all stakeholders.`,
-    image:'/images/service/visualization-rendering/img-2.png'
-  },
-  {
-    id:3,
-    title:'AR / VR Experiences',
-    content:`Krypta Tech provides advanced AR/ VR experiences for clients to explore projects with true immersion and interactivity. With powerful platforms like Unreal Engine, Unity, Twinmotion, Enscape, and Meta VR systems, our experts convert BIM models into navigable, true-to-life virtual setups. Helping clients to walk through spaces at real scale, review layouts, experience lighting and materials, and understand the design even before actual construction begins. Our VR simulations provide a lifelike, room-to-room experience, while AR overlays enable users to view design elements directly within real-world settings using mobile devices or headsets. These interactive solutions enhance decision-making and offer a unified tool for design reviews, marketing, and presentations.`,
-    image:'/images/service/visualization-rendering/img-3.jpeg'
-  },
-  
-]
+        tabs: [
+          {
+            id: 1,
+            title: 'Interior & Exterior Renders',
+            content: `We provide high-quality interior and exterior renderings designed to offer a photorealistic visualization of architectural designs before construction begins. Our rendering services prioritize accuracy & incorporate precise materials, lighting, textures, furniture, landscape elements, and real-world environmental context, giving clients a clear preview of the final architectural outcome. Whether the requirement is for interiors detailing refined finishes & ambiance or exteriors highlighting façade treatments & site surroundings, we produce precise and impactful visuals that are not only essential for design reviews, client approvals, but also help in marketing presentations. To ensure render communicates the true intent and quality of your project, our experts use industry-leading tools such as V-Ray, Lumion, Enscape, and Twinmotion.`,
+            image: '/images/service/visualization-rendering/img-1.jpg'
+          },
+          {
+            id: 2,
+            title: '3d Walkthroughs & Animation Videos',
+            content: `Krypta Tech develops immersive 3D walkthroughs and animation videos that present your project with both cinematic clarity and dynamic movement. These animations are engineered to illustrate key design elements, including the flow of spaces, material transitions, lighting behavior, and the overall design experience, allowing clients to explore the project virtually before actual construction begins. We precisely highlight features such as smooth interior walkthroughs, dynamic exterior flythroughs, key architectural features, landscapes, and functional layouts. By utilizing advanced tools like Unreal Engine, Twinmotion, Lumion, and Enscape, we produce high-quality videos that are perfectly suited for client presentations, marketing campaigns, investor pitches, and general promotional content. These animations ultimately enhances the engagement & understanding of your design for all stakeholders.`,
+            image: '/images/service/visualization-rendering/img-2.png'
+          },
+          {
+            id: 3,
+            title: 'AR / VR Experiences',
+            content: `Krypta Tech provides advanced AR/ VR experiences for clients to explore projects with true immersion and interactivity. With powerful platforms like Unreal Engine, Unity, Twinmotion, Enscape, and Meta VR systems, our experts convert BIM models into navigable, true-to-life virtual setups. Helping clients to walk through spaces at real scale, review layouts, experience lighting and materials, and understand the design even before actual construction begins. Our VR simulations provide a lifelike, room-to-room experience, while AR overlays enable users to view design elements directly within real-world settings using mobile devices or headsets. These interactive solutions enhance decision-making and offer a unified tool for design reviews, marketing, and presentations.`,
+            image: '/images/service/visualization-rendering/img-3.jpeg'
+          },
+
+        ]
       },
 
     ]
@@ -858,25 +858,25 @@ tabs:[
 Every structural model is created in Autodesk Revit, Tekla, or Advance Steel, for the required Level of Development (LOD 200–400). These models then undergo extensive QA/QC checks to ensure alignment with design drawings and supporting clash detection, construction sequencing, quantity take-offs, and design validation, helping engineers and contractors to make informed decisions and eliminate rework.
 
 With hands-on experience in the BIM industry, Krypta Tech has been a reliable BIM service provider for different sectors for over a decade. Our experts have delivered more than 1,100 projects to 350+ clients across the globe. We make sure every model reflects design intent and can be converted into reality with real-world construction logic, enabling our clients with smoother coordination, faster approvals, and fewer on-site reworks.`,
-tabs:[
-  {
-    id:1,
-    title:'Steel Structure Modeling',
-    content:`Our steel structure modeling service gives a well-coordinated model representing the real intent of the project based on design drawings & point clouds. The scope includes the creation of all primary and secondary steel framing components, such as columns, beams, girders, rafters, joists, trusses, purlins, girts, and bracing systems. Every element is drafted with accurate profiles, member sizes, and elevation details to maintain engineering accuracy. We also incorporate all complex structural configurations such as mezzanines, catwalks, platforms, and industrial steel assemblies, reflecting the complete design intent.
+        tabs: [
+          {
+            id: 1,
+            title: 'Steel Structure Modeling',
+            content: `Our steel structure modeling service gives a well-coordinated model representing the real intent of the project based on design drawings & point clouds. The scope includes the creation of all primary and secondary steel framing components, such as columns, beams, girders, rafters, joists, trusses, purlins, girts, and bracing systems. Every element is drafted with accurate profiles, member sizes, and elevation details to maintain engineering accuracy. We also incorporate all complex structural configurations such as mezzanines, catwalks, platforms, and industrial steel assemblies, reflecting the complete design intent.
 
 We capture all important steel components, such as connection plates, base plates, gussets, cleats, stiffeners, splice plates, bolts, welds, ladders, handrails, and gratings as per the level of detail (LOD 100 - LOD 400) requirements. Our team ensures seamless coordination with architectural and MEP requirements by accurately modelling openings, embed plates, anchor bolts, and penetrations. This results in a clash-free, fabrication-ready steel model that supports downstream deliverables such as shop drawings, GA drawings, and BOQs`,
-    image:'/images/service/sms/img-1.jpg'
-  },
-  {
-    id:2,
-    title:'Wood Modeling Services',
-    content:`ur wood modeling service accurately represents timber structures with the precision needed for fabrication and installation. Our experts develop 3D models for all essential wood components like beams, joists, columns, studs, trusses, rafters, floor systems, roof assemblies, shear walls, braced frames, CLT panels, glulam elements, and modular timber components, based on design drawings, structural specifications, or point-cloud data. Each element is modelled with correct dimensions, material grades, orientation, slopes, and connection logic to ensure complete constructability.
+            image: '/images/service/sms/img-1.jpg'
+          },
+          {
+            id: 2,
+            title: 'Wood Modeling Services',
+            content: `ur wood modeling service accurately represents timber structures with the precision needed for fabrication and installation. Our experts develop 3D models for all essential wood components like beams, joists, columns, studs, trusses, rafters, floor systems, roof assemblies, shear walls, braced frames, CLT panels, glulam elements, and modular timber components, based on design drawings, structural specifications, or point-cloud data. Each element is modelled with correct dimensions, material grades, orientation, slopes, and connection logic to ensure complete constructability.
 
 We also incorporate essential details such as notches, cuts, openings, penetrations, blocking, bracing, hangers, plates, anchor bolts, and specialty connectors. Our models are created to the required LOD (200–400) in Autodesk Revit, Tekla, and Advance Steel, enabling clash detection, material quantification, fabrication coordination, and shop-drawing generation. With our precise and coordinated wood models, teams can reduce fabrication errors, improve site planning, and achieve seamless alignment between timber, steel, concrete, and MEP systems.`,
-    image:'/images/service/sms/img-2.jpg'
-  },
-  
-]
+            image: '/images/service/sms/img-2.jpg'
+          },
+
+        ]
       },
       {
         id: 2,
@@ -888,51 +888,51 @@ We also incorporate essential details such as notches, cuts, openings, penetrati
 We make sure each package surpasses our QA/QC checks to verify dimensions, annotations, standards, and constructability. We support contractors with revisions, markups, clash-resolved updates, and RFI responses throughout the project lifecycle, helping them gain reliable, coordination-focused drawing sets that minimize rework, enhance site efficiency.
 
 With over a decade of experience in the AEC & BIM industry, Krypta Tech is serving as a leading BIM service provider globally. Helping architects, engineers, consultants, and owners gain clarity and control over their projects. Our strong portfolio stands out with 1100 + completed projects across educational, residential, healthcare, hospitality, industrial, commercial, and infrastructural sectors.`,
-tabs:[
-  {
-    id:1,
-    title:'Structural Design Development (DD) Documentation',
-    content:`We provide detailed structural DD packages refining the engineering design beyond schematic concepts. Our team develops coordinated structural plans, framing layouts, preliminary member sizing, load paths, foundation concepts, and typical structural details based on engineering inputs. These drawings excellently provide clarity for structural systems (RCC, steel, or timber), and help consultants finalize design decisions in this particular stage before moving forward.
+        tabs: [
+          {
+            id: 1,
+            title: 'Structural Design Development (DD) Documentation',
+            content: `We provide detailed structural DD packages refining the engineering design beyond schematic concepts. Our team develops coordinated structural plans, framing layouts, preliminary member sizing, load paths, foundation concepts, and typical structural details based on engineering inputs. These drawings excellently provide clarity for structural systems (RCC, steel, or timber), and help consultants finalize design decisions in this particular stage before moving forward.
 Our DD documentation make sure early coordination with architectural and MEP disciplines, resolving issues like slab edges, beam depths, equipment loads, opening locations, and structural clearances. These details compile together to support accurate budgeting, feasibility checks, and design validation.
 Every sheet is aligned to project standards and undergoes rigorous QA/QC to ensure dimensional accuracy, clarity, and constructability. Our structural CD sets help contractors execute work smoothly, reduce site conflicts, and ensure alignment with architectural and MEP coordination requirements.`,
-    image:'/images/service/construction-drawings/img-1.jpg'
-  },
-  {
-    id:2,
-    title:'Structural Construction Documentation ',
-    content:`Our structural construction documentation (CD) sets convert the structural models into accurate construction-ready drawings. These sets include foundation plans, framing plans, rebar placeholder details, shear wall elevations, column schedules, beam schedules, slab details, and connection diagrams created by our expert using top software such as Revit, Advance Steel, AutoCAD, or Tekla.
+            image: '/images/service/construction-drawings/img-1.jpg'
+          },
+          {
+            id: 2,
+            title: 'Structural Construction Documentation ',
+            content: `Our structural construction documentation (CD) sets convert the structural models into accurate construction-ready drawings. These sets include foundation plans, framing plans, rebar placeholder details, shear wall elevations, column schedules, beam schedules, slab details, and connection diagrams created by our expert using top software such as Revit, Advance Steel, AutoCAD, or Tekla.
 
 Every sheet is aligned to project standards and undergoes rigorous QA/QC to ensure dimensional accuracy, clarity, and constructability. Our structural CD sets help contractors execute work smoothly, reduce site conflicts, and ensure alignment with architectural and MEP coordination requirements.`,
-    image:'/images/service/construction-drawings/img-2.jpg'
-  },
-  {
-    id:3,
-    title:'CAD 2D Structural Drafting Services',
-    content:`Krypta Tech offers CAD-based 2D drafting services specifically for structural engineering needs, we convert sketches, PDFs, markups, and BIM models into detailed structural plans, framing drawings, foundation layouts, schedules, and typical details using AutoCAD with precise standards and clean layering.
+            image: '/images/service/construction-drawings/img-2.jpg'
+          },
+          {
+            id: 3,
+            title: 'CAD 2D Structural Drafting Services',
+            content: `Krypta Tech offers CAD-based 2D drafting services specifically for structural engineering needs, we convert sketches, PDFs, markups, and BIM models into detailed structural plans, framing drawings, foundation layouts, schedules, and typical details using AutoCAD with precise standards and clean layering.
 
 These drawings are ideal for tender documents, design revisions, permit submissions, or construction reference. Our experts ensures proper notation and structural drafting consistency for ready-to-use CAD files.`,
-    image:'/images/service/construction-drawings/img-3.png'
-  },
-  {
-    id:4,
-    title:'Structural Permit Drawings',
-    content:`Our code-compliant structural permit drawing service is designed for fast municipal approval. These accurate and detailed drawings include structural plans, load calculations (if provided), typical details, foundation layouts, and important safety–related structural elements like fire-rated assemblies and stability components.
+            image: '/images/service/construction-drawings/img-3.png'
+          },
+          {
+            id: 4,
+            title: 'Structural Permit Drawings',
+            content: `Our code-compliant structural permit drawing service is designed for fast municipal approval. These accurate and detailed drawings include structural plans, load calculations (if provided), typical details, foundation layouts, and important safety–related structural elements like fire-rated assemblies and stability components.
 
 We ensure all drawings follow local building codes, seismic requirements, wind load standards, and safety regulations, supporting faster authority approvals and minimizing resubmissions.
 
 `,
-    image:'/images/service/construction-drawings/blank.png'
-  },
-  {
-    id:5,
-    title:'Structural AS-Built Drawings',
-    content:`Our highly accurate structural as-built drawing service reflects the final constructed conditions of all structural systems. Built from field markups, site measurements, and point-cloud scans, these drawings update changes in slab levels, beam sizes, reinforcement zones, opening locations, structural supports, and construction deviations.
+            image: '/images/service/construction-drawings/blank.png'
+          },
+          {
+            id: 5,
+            title: 'Structural AS-Built Drawings',
+            content: `Our highly accurate structural as-built drawing service reflects the final constructed conditions of all structural systems. Built from field markups, site measurements, and point-cloud scans, these drawings update changes in slab levels, beam sizes, reinforcement zones, opening locations, structural supports, and construction deviations.
 
 Our As-Built packages support handover, facility management, renovation planning, and long-term maintenance. Each drawing clearly records the true structural configuration, giving clients reliable documentation for the building lifecycle.`,
-    image:'/images/service/construction-drawings/blank.png'
-  },
-  
-]
+            image: '/images/service/construction-drawings/blank.png'
+          },
+
+        ]
       },
       {
         id: 3,
@@ -944,55 +944,55 @@ Our As-Built packages support handover, facility management, renovation planning
 We also run clash detection, conduct coordination reviews, and resolve interface issues before they reach the site to streamline fabrication & on-site execution. Our robust QA/QC checks minimize errors in drawings, maintain consistency, and enable fabricators to produce steel components with confidence. With our steel detailing expertise, we benefit clients by eliminating fabrication delays, reducing rework, and ensuring smoother erection sequencing right from modelling and coordination to final delivery.
 
 Krypta Tech has provided accurate BIM modeling services since 2014, and has completed more than 1,100 projects for 350+ clients. Our goal is to help our clients translate design ideas into clear, coordinated digital models that support improved decision-making, save time, and money.`,
-tabs:[
-  {
-    id:1,
-    title:'3D Steel Modeling',
-    content:`Our steel modeling service provides highly accurate 3D steel models that represent every component accordance to fabrication & installation needs. Using Tekla Structures, Revit, and Advance Steel, we model columns, beams, trusses, bracings, stairs, ladders, platforms, and architectural steel elements with precision. Each element is built with correct profiles, grades, camber, slopes, and trims, ensuring the model serves as a reliable road map for smooth fabrication and coordination.
+        tabs: [
+          {
+            id: 1,
+            title: '3D Steel Modeling',
+            content: `Our steel modeling service provides highly accurate 3D steel models that represent every component accordance to fabrication & installation needs. Using Tekla Structures, Revit, and Advance Steel, we model columns, beams, trusses, bracings, stairs, ladders, platforms, and architectural steel elements with precision. Each element is built with correct profiles, grades, camber, slopes, and trims, ensuring the model serves as a reliable road map for smooth fabrication and coordination.
 
 To eliminate conflicts early, we make sure our model integrates structural design, architectural constraints & MEP interfaces. With advanced parametric modelling and automated checks, we ensure that all connections, tolerances, and interaction points are represented accurately, supporting seamless coordination and error-free downstream documentation.`,
-    image:'/images/service/sde/img-1.png'
-  },
-  {
-    id:2,
-    title:'Connection Design & Detailing',
-    content:`Our connection design & detailing service creates full connection detailing for moment, shear, braced, and Specialty connections, including base plates, clip angles, end plates, and gusset plates. Our team closely work with structural engineers to finalize connection design and incorporate all relevant load data, weld specifications, bolt requirements, and stiffener configurations.
+            image: '/images/service/sde/img-1.png'
+          },
+          {
+            id: 2,
+            title: 'Connection Design & Detailing',
+            content: `Our connection design & detailing service creates full connection detailing for moment, shear, braced, and Specialty connections, including base plates, clip angles, end plates, and gusset plates. Our team closely work with structural engineers to finalize connection design and incorporate all relevant load data, weld specifications, bolt requirements, and stiffener configurations.
 
 Each connection is modelled with full geometry, welds, bolts, and hole placements to ensure fabrication-level clarity. The final connection details are optimized for constructability, ease of assembly, and fabrication efficiency, reducing delays and ensuring smooth execution on the shop floor and site.`,
-    image:'/images/service/sde/img-2.jpg'
-  },
-  {
-    id:3,
-    title:'Shop Drawings & Fabrication Deliverables',
-    content:`Our shop drawings service delivers top-quality shop drawings extracted directly from coordinated steel models incorporating assembly drawings, single-part drawings, weld maps, bolt schedules, and hole charts, each prepared with precise annotations and fabrication-ready details. Our drawings ensure fabricators have all the information needed for cutting, welding, drilling, and assembly.  To reduce reworks, errors, and maintain consistency, every shop drawing undergoes a strict QA/QC check to verify alignment with engineering intent, connection details, and fabrication standards.
+            image: '/images/service/sde/img-2.jpg'
+          },
+          {
+            id: 3,
+            title: 'Shop Drawings & Fabrication Deliverables',
+            content: `Our shop drawings service delivers top-quality shop drawings extracted directly from coordinated steel models incorporating assembly drawings, single-part drawings, weld maps, bolt schedules, and hole charts, each prepared with precise annotations and fabrication-ready details. Our drawings ensure fabricators have all the information needed for cutting, welding, drilling, and assembly.  To reduce reworks, errors, and maintain consistency, every shop drawing undergoes a strict QA/QC check to verify alignment with engineering intent, connection details, and fabrication standards.
 
 We also prepare reliable fabrication deliverables, including NC/CNC files, DSTV files, DXF files, cutting lists, bending lists, and MTO/BOQ. Ensuring seamless machine processing, optimizing material usage, and helping fabricators streamline production needs. All these data are ensured by extracting the data directly from the coordinated 3D model, ensuring zero inconsistency between drawings & machine inputs.`,
-    image:'/images/service/sde/img-3.jpg'
-  },
-  {
-    id:4,
-    title:'Erection Sequencing & Planning',
-    content:`We create clear & detailed erection drawings & sequencing plans, guiding field teams with step-by-step installation procedures. These deliverables include member numbering, bolt locations, lifting points, and temporary support requirements so that teams can follow a safe assembly process on-site. In addition, we develop coordinated phasing plans and interface drawings that help contractors organize crane movement, site logistics, and overall installation strategy. This reduces construction delays, ensures safety, and improves installation accuracy for complex steel structures.`,
-    image:'/images/service/sde/img-4.jpg'
-  },
-  {
-    id:5,
-    title:'As-Built Steel Detailing',
-    content:`Our as-built steel detailing service creates accurate as-built steel models & drawings based on precise field changes, site measurements, and redline adjustments. This documentation represents the actual onsite conditions, including revised connections, member locations, and modifications made during construction to resolve minor/major inconveniences.
+            image: '/images/service/sde/img-3.jpg'
+          },
+          {
+            id: 4,
+            title: 'Erection Sequencing & Planning',
+            content: `We create clear & detailed erection drawings & sequencing plans, guiding field teams with step-by-step installation procedures. These deliverables include member numbering, bolt locations, lifting points, and temporary support requirements so that teams can follow a safe assembly process on-site. In addition, we develop coordinated phasing plans and interface drawings that help contractors organize crane movement, site logistics, and overall installation strategy. This reduces construction delays, ensures safety, and improves installation accuracy for complex steel structures.`,
+            image: '/images/service/sde/img-4.jpg'
+          },
+          {
+            id: 5,
+            title: 'As-Built Steel Detailing',
+            content: `Our as-built steel detailing service creates accurate as-built steel models & drawings based on precise field changes, site measurements, and redline adjustments. This documentation represents the actual onsite conditions, including revised connections, member locations, and modifications made during construction to resolve minor/major inconveniences.
 
 These as-built packages are important for facility management, future renovation plans, and handover documentation as they provide clients with a complete, accurate record of structural steel elements as constructed.`,
-    image:'/images/service/sde/img-5.jpg'
-  },
-  {
-    id:6,
-    title:'Structural Steel Documentation Support',
-    content:`Krypta Tech supports steel contractors throughout the project lifecycle by managing RFIs, incorporating markups, and handling design revisions efficiently with our structural steel documentation support service. We ensure that all documentation stays updated and represents the latest approved design.
+            image: '/images/service/sde/img-5.jpg'
+          },
+          {
+            id: 6,
+            title: 'Structural Steel Documentation Support',
+            content: `Krypta Tech supports steel contractors throughout the project lifecycle by managing RFIs, incorporating markups, and handling design revisions efficiently with our structural steel documentation support service. We ensure that all documentation stays updated and represents the latest approved design.
 
 Our team also coordinates directly with engineers, architects, and fabricators to resolve issues quickly and maintain drawing schedules, resulting in reducing bottlenecks & errors, and smooth project execution at every stage of the project (from modeling to installation).`,
-    image:'/images/service/blank.png'
-  },
-  
-]
+            image: '/images/service/blank.png'
+          },
+
+        ]
       },
       {
         id: 4,
@@ -1002,62 +1002,62 @@ Our team also coordinates directly with engineers, architects, and fabricators t
         details: `Our structural engineering services deliver efficient engineering solutions for sectors such as residential, commercial, industrial infrastructure, and more. Our service combines deep technical expertise with advanced engineering tools to make sure the structure is optimized for performance, durability, and cost-efficiency. Our engineers & designers work closely to emphasize understanding the project vision, anticipating engineering challenges, and designing structural systems that meet safety standards while supporting architectural intent.
 
 Our experts analyze multiple structural systems, evaluating site conditions, and apply global design codes to create reliable and buildable structures. With a commitment to coordination and quality, we make sure design intent can be easily translated into construction. Whether the project involves concrete structures, steel framing, timber systems, RCC structure, facade structure, or modular structure, we provide comprehensive engineering solutions tailored to the project's demands. Our precise calculations, detailed models, and code-compliant documentation are delivered using advanced software such as RISA, ETABS, SAFE, SAP, Enercalc, and STAAD.Pro, Robot Structural Analysis RAM, Revit, Tekla, and. Our engineering workflows are built around efficiency, transparency, and collaboration, ensuring the timely delivery of high-quality outputs.`,
-tabs:[
-  {
-    id:1,
-    title:"Structural Analysis & System Design",
-    content:`Our team carries out detailed structural analysis to verify the stability, strength,  and performance of the proposed structural systems under all relevant loading conditions. By using advanced tools such as ETABS, STAAD.Pro, SAFE, SAP2000, and Robot Structural Analysis, our experts analyze gravity loads, lateral loads, dynamic forces, wind actions, seismic behavior, and vibration sensitivity. We evaluated multiple design schemes & determined their technical feasibility, material efficiency, and constructability. This ensures the system meets the safety code compliance and is aligned with architectural requirements &  is in line with the budget sanctioned for the project.
+        tabs: [
+          {
+            id: 1,
+            title: "Structural Analysis & System Design",
+            content: `Our team carries out detailed structural analysis to verify the stability, strength,  and performance of the proposed structural systems under all relevant loading conditions. By using advanced tools such as ETABS, STAAD.Pro, SAFE, SAP2000, and Robot Structural Analysis, our experts analyze gravity loads, lateral loads, dynamic forces, wind actions, seismic behavior, and vibration sensitivity. We evaluated multiple design schemes & determined their technical feasibility, material efficiency, and constructability. This ensures the system meets the safety code compliance and is aligned with architectural requirements &  is in line with the budget sanctioned for the project.
 
 We also develop clear system-level design strategies incorporating essential information like framing layouts, load path strategies, lateral-force resisting systems, and floor/roof structural arrangements. Each design is optimized for durability, performance, and ease of construction. By coordinating closely with architects, MEP teams, and project consultants, we create integrated solutions that minimize conflicts, improve efficiency, and ensure smooth execution during the later stages of construction.`,
-    image:'/images/service/structural-engineering/img-1.jpg'
-  },
-  {
-    id:2,
-    title:"Concrete Structure Design",
-    content:`Our concrete design service encompasses all reinforced concrete components, including foundations, slabs, beams, columns, shear walls, and retaining structures. Our precise service includes detailed load calculations, reinforcement design, deflection checks, crack control verification, and durability assessments, all complied with international standards (ACI, BS, IS, and more). Our experts make sure each element serves long-term performance, serviceability, and strength, while optimizing quantities to reduce unnecessary material usage.
+            image: '/images/service/structural-engineering/img-1.jpg'
+          },
+          {
+            id: 2,
+            title: "Concrete Structure Design",
+            content: `Our concrete design service encompasses all reinforced concrete components, including foundations, slabs, beams, columns, shear walls, and retaining structures. Our precise service includes detailed load calculations, reinforcement design, deflection checks, crack control verification, and durability assessments, all complied with international standards (ACI, BS, IS, and more). Our experts make sure each element serves long-term performance, serviceability, and strength, while optimizing quantities to reduce unnecessary material usage.
 
 We convert all the complex outputs into clear and easy-to-understand construction drawings, schedules, and specifications. We integrate analysis with BIM-based design to provide our clients with enhanced coordination and minimize RFIs during construction, resulting in faster, safer, and more cost-effective concrete structure delivery.`,
-    image:'/images/service/structural-engineering/img-2.png'
-  },
-  {
-    id:3,
-    title:"Steel Structure Design",
-    content:`We specialize in engineering steel structures for commercial, industrial, residential, and special-use facilities, our steel structure design service incorporates all framing systems, connections, trusses, bracing systems, purlins, girts, composite decks, and long-span structures. These designs provide strength, stability, buckling, fatigue, and fire resistance, ensuring performance under seismic and wind loads. Each structural component is created using software such as RAM Steel, RISA, Enercalc, STAAD.Pro, and Tekla Structural Designer.
+            image: '/images/service/structural-engineering/img-2.png'
+          },
+          {
+            id: 3,
+            title: "Steel Structure Design",
+            content: `We specialize in engineering steel structures for commercial, industrial, residential, and special-use facilities, our steel structure design service incorporates all framing systems, connections, trusses, bracing systems, purlins, girts, composite decks, and long-span structures. These designs provide strength, stability, buckling, fatigue, and fire resistance, ensuring performance under seismic and wind loads. Each structural component is created using software such as RAM Steel, RISA, Enercalc, STAAD.Pro, and Tekla Structural Designer.
 
 These deliverables include detailed connection design reports, shop-ready calculations & coordinated framing plans. To help our clients better, our experts work closely with fabricators and contractors to ensure constructability, efficient sequencing, and material optimization. This results in structures that are not only technically accurate but also cost-efficient to fabricate & erect.`,
-    image:'/images/service/structural-engineering/img-3.png'
-  },
-  {
-    id:4,
-    title:"Wood Structure Design",
-    content:`In our wood structure design service, we provide safe, efficient & code-compliant structural systems using timber. We design wood framing layouts for floors, walls & roofs, including joists, rafters, studs, trusses, beams, posts, shear walls, and diaphragms. We make sure each component is created with accurate on-load paths, span requirements, material grades, environmental conditions, and internal codes (NDS or region-specific). We also consider factors such as moisture movement, fire resistance, insulation requirements, and long-term performance to ensure durability and structural stability.
+            image: '/images/service/structural-engineering/img-3.png'
+          },
+          {
+            id: 4,
+            title: "Wood Structure Design",
+            content: `In our wood structure design service, we provide safe, efficient & code-compliant structural systems using timber. We design wood framing layouts for floors, walls & roofs, including joists, rafters, studs, trusses, beams, posts, shear walls, and diaphragms. We make sure each component is created with accurate on-load paths, span requirements, material grades, environmental conditions, and internal codes (NDS or region-specific). We also consider factors such as moisture movement, fire resistance, insulation requirements, and long-term performance to ensure durability and structural stability.
 Our experts use tools like Revit, Tekla, and structural analysis software to develop 3D models and detailed drawings that align perfectly with other disciplines (architecture & structure). Krypta Tech's design process includes connection detailing, hold-down and anchorage design, CLT/Glulam system detailing, and seismic/wind performance checks. The final output ensures constructability, reduced material waste, and smooth on-site installation. With precise engineering and coordinated documentation, our wood structure designs support residential, commercial, and hybrid timber projects with efficiency, safety, and sustainability.
 
 `,
-    image:'/images/service/blank.png'
-  },
-  {
-    id:5,
-    title:"Preliminary Structural Design",
-    content:`Our preliminary structural drawings service provides an early level of graphical representation of the structural design intent. These help architects, clients & consultants with a clear understanding of the structural system before we finalize and detail it. These detail drawings incorporate every important component, such as column layouts, grid plans, preliminary beam/slab arrangements, foundation concepts, shear wall/brace locations, and initial load-bearing strategies. At this level, we establish framing logic, feasibility, and align the structural components with other disciplines (architecture & MEP) requirements and site constraints.
+            image: '/images/service/blank.png'
+          },
+          {
+            id: 5,
+            title: "Preliminary Structural Design",
+            content: `Our preliminary structural drawings service provides an early level of graphical representation of the structural design intent. These help architects, clients & consultants with a clear understanding of the structural system before we finalize and detail it. These detail drawings incorporate every important component, such as column layouts, grid plans, preliminary beam/slab arrangements, foundation concepts, shear wall/brace locations, and initial load-bearing strategies. At this level, we establish framing logic, feasibility, and align the structural components with other disciplines (architecture & MEP) requirements and site constraints.
 
 We draft accurate & coordinated drawings precisely using leading platforms such as Revit, AutoCAD, and structural analysis tools. This resulting output enables seamless communication with stakeholders, early detection of design conflicts, and efficient value engineering. By creating a strong structural framework early, we help clients reduce redesigns, avoid coordination issues, and streamline the transition into detailed design (DD) and construction documentation (CD).
 
 `,
-    image:'/images/service/blank.png'
-  },
-  {
-    id:6,
-    title:"Detailed Structural Design",
-    content:`Our detailed structural drawing service delivers a construction-ready set representing structural elements all coordinated across disciplines. These drawings incorporate detailed plans, sections, and schedules for foundations, slabs, beams, columns, walls, steel framing, reinforcement layouts, and connection details. They incorporate code-compliant reinforcement design, bar bending schedules, embed locations, construction joints, member sizes, connection specifications, service openings, and critical construction notes, ensuring that contractors have all the information needed for accurate execution on site.
+            image: '/images/service/blank.png'
+          },
+          {
+            id: 6,
+            title: "Detailed Structural Design",
+            content: `Our detailed structural drawing service delivers a construction-ready set representing structural elements all coordinated across disciplines. These drawings incorporate detailed plans, sections, and schedules for foundations, slabs, beams, columns, walls, steel framing, reinforcement layouts, and connection details. They incorporate code-compliant reinforcement design, bar bending schedules, embed locations, construction joints, member sizes, connection specifications, service openings, and critical construction notes, ensuring that contractors have all the information needed for accurate execution on site.
 
 These highly precise drawings are created using Revit, Tekla, AutoCAD, and structural analysis tools, ensuring overall accuracy, clarity, and constructability. Our drawing sets then go through the QA/QC process to eliminate the chances of inconsistencies and ensure alignment with Other discipline requirements. Ultimately, helping minimize RFIs, reduce construction delays, elevate coordination, and provide contractors with a blueprint for code-compliant, error-free fabrication and on-site execution. Krypta Tech's detailed structural drawing serves as the backbone of an accurate structural delivery and ensures actual construction reflects the design intent.
 
 `,
-    image:'/images/service/blank.png'
-  },
-  
-]
+            image: '/images/service/blank.png'
+          },
+
+        ]
       },
       {
         id: 5,
@@ -1069,58 +1069,58 @@ These highly precise drawings are created using Revit, Tekla, AutoCAD, and struc
 We prepare reinforcement layouts right from foundations to superstructure elements, addressing load paths, structural behavior, congestion zones, seismic requirements, and code compliance. Our drawings are developed with a strong commitment to constructability, ensuring that the detailing supports smooth on-site execution. We also closely work with engineers, contractors & fabricators in order to understand project requirements and provide solutions accordingly that enhance safety, durability, and elevate their overall efficiency.
 
 Using industry-leading software such as Autodesk Revit, Tekla Structures, AutoCAD, and specialized rebar tools, we deliver fully coordinated 3D rebar models, shop drawings, and comprehensive Bar Bending Schedules (BBS). Our workflow enables early clash detection, improved coordination with embedded items and MEP penetrations, and seamless integration with concrete formwork drawings. With our robust QA/QC checks, we make sure each project receives detailing that is reliable & optimized for construction and complies with global industry standards (ACI, BS, IS, and more).`,
-tabs:[
-  {
-        id:1,
-        title:"3D Rebar Modeling",
-        content:`Our 3D Rebar Modeling service provides a highly accurate and coordinated digital representation of reinforcement for all concrete elements. Using tools like Revit, Tekla Structures, and  Advance steel, we model every bar, including hooks, bends, laps, splice locations, distribution bars, stirrups, and anchorage, according to structural drawings and design codes. These 3D models help project teams visualize placement before the actual construction begins, helping you reduce uncertainties and rework during installation.
+        tabs: [
+          {
+            id: 1,
+            title: "3D Rebar Modeling",
+            content: `Our 3D Rebar Modeling service provides a highly accurate and coordinated digital representation of reinforcement for all concrete elements. Using tools like Revit, Tekla Structures, and  Advance steel, we model every bar, including hooks, bends, laps, splice locations, distribution bars, stirrups, and anchorage, according to structural drawings and design codes. These 3D models help project teams visualize placement before the actual construction begins, helping you reduce uncertainties and rework during installation.
 
 We integrate the rebar model with architectural, structural, and MEP models to identify clashes early & establish smooth coordination with embedded items, openings, sleeves, and post-tension elements. The model also supports precise quantity take-offs, sequencing, and shop drawing generation, giving contractors a clear blueprint that enhances site efficiency and material planning.`,
-        image:"/images/service/rebar-modeling/img-1.png"
-  },
-{
-        id:2,
-        title:"Precast Shop Drawings",
-        content:`Our precast shop drawings service guides factory production with high accuracy. These detailed drawings incorporate important information such as element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
+            image: "/images/service/rebar-modeling/img-1.png"
+          },
+          {
+            id: 2,
+            title: "Precast Shop Drawings",
+            content: `Our precast shop drawings service guides factory production with high accuracy. These detailed drawings incorporate important information such as element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
 
 With our multi-level QA/QC checks, our drawings ensure accuracy, clarity, and compliance with codes such as PCI, NPCA, ACI, BS, and IS. This reduces fabrication discrepancies and ensures that every precast component is cast, cured, and handled correctly, minimizing delays, optimizing material use, and ensuring safe, high-quality production.`,
-        image:"/images/service/rebar-modeling/img-2.jpg"
-  },
-{
-        id:3,
-        title:"Embed & Connection Detailing",
-        content:`Our specialized embed & connection detailing service serves an essential role for the performance and constructability of different precast structures. We detail embedded plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. Ensuring seamless assembly between precast elements and cast-in-place structures.
+            image: "/images/service/rebar-modeling/img-2.jpg"
+          },
+          {
+            id: 3,
+            title: "Embed & Connection Detailing",
+            content: `Our specialized embed & connection detailing service serves an essential role for the performance and constructability of different precast structures. We detail embedded plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. Ensuring seamless assembly between precast elements and cast-in-place structures.
 
 We coordinate every embed and connection detail within the BIM environment to avoid clashes with rebar, openings, MEP penetrations, and formwork. The result is a fully buildable connection system that supports structural stability, quick erection, and long-term durability, reducing risks during lifting, transport, and installation.`,
-        image:"/images/service/rebar-modeling/img-3.jpg"
-  },
-{
-        id:4,
-        title:"Precast Reinforcement Detailing",
-        content:`We offer precast reinforcement detailing for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. And also detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
+            image: "/images/service/rebar-modeling/img-3.jpg"
+          },
+          {
+            id: 4,
+            title: "Precast Reinforcement Detailing",
+            content: `We offer precast reinforcement detailing for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. And also detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
 
 By integrating 3D models, we make sure we give correct spacing, bar bending shapes, conflict-free placement, and alignment with embeds and lifting systems. Such detailing supports factory efficiency, improves quality control, and helps site teams install precast components without rework.`,
-        image:"/images/service/rebar-modeling/img-4.jpg"
-  },
-{
-        id:5,
-        title:"Erection Drawings & Sequencing Plans",
-        content:`We offer erection drawings & sequencing plans service for detailed erection drawings that guide contractors through the safe and efficient installation of precast components. These drawing sets represent lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
+            image: "/images/service/rebar-modeling/img-4.jpg"
+          },
+          {
+            id: 5,
+            title: "Erection Drawings & Sequencing Plans",
+            content: `We offer erection drawings & sequencing plans service for detailed erection drawings that guide contractors through the safe and efficient installation of precast components. These drawing sets represent lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
 
 Our sequencing plans are developed in coordination with structural stability requirements, site logistics, and safety standards. We then integrate model-based planning tools like 4D scheduling and enable contractors to foresee challenges, optimize erection timelines, and execute installation phases with confidence.`,
-        image:"/images/service/rebar-modeling/img-5.jpg"
-  },
-{
-        id:6,
-        title:"Bill of Materials (BOM) & Quantity Take-offs",
-        content:`We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
+            image: "/images/service/rebar-modeling/img-5.jpg"
+          },
+          {
+            id: 6,
+            title: "Bill of Materials (BOM) & Quantity Take-offs",
+            content: `We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
 
 This automation enables manufacturers to streamline procurement, enhance resource planning, and help owners maintain budgets from overspending. These detailed outputs support fabrication, logistics, and inventory management at every stage of the project.`,
-        image:"/images/service/blank.png"
-  },
+            image: "/images/service/blank.png"
+          },
 
 
-]
+        ]
       },
       {
         id: 6,
@@ -1131,10 +1131,63 @@ This automation enables manufacturers to streamline procurement, enhance resourc
 
 Our team works closely with precast manufacturers, structural engineers, and contractors to develop element-wise models and drawings for walls, slabs, beams, columns, stairs, hollow-core units, double tees, façade panels, and special precast assemblies. Each element is created & detailed with accurate reinforcement, embed plates, lifters, lifting anchors, inserts, corbels, ducts, and connection systems. We integrate factory production constraints, formwork limitations, transportation requirements, and erection sequences to deliver detailing that is both practical and applicable to real-world conditions.
 
-Our rebar experts create these well-coordinated 3D models, precast shop drawings, cast unit plans, reinforcement layouts, and installation diagrams, using top software such as Tekla Structures, Autodesk Revit, Advance Steel, and AutoCAD. After the drawing is completed, it undergoes a strict QA/QC process to ensure dimensional accuracy, rebar clarity, constructability, and compliance with global standards (PCI, NPCA, BS, ACI, IS). With our detailed rebar outputs, we aim to help teams by reducing fabrication errors, minimizing on-site adjustments, and speeding up their construction cycles.`
-      }
+Our rebar experts create these well-coordinated 3D models, precast shop drawings, cast unit plans, reinforcement layouts, and installation diagrams, using top software such as Tekla Structures, Autodesk Revit, Advance Steel, and AutoCAD. After the drawing is completed, it undergoes a strict QA/QC process to ensure dimensional accuracy, rebar clarity, constructability, and compliance with global standards (PCI, NPCA, BS, ACI, IS). With our detailed rebar outputs, we aim to help teams by reducing fabrication errors, minimizing on-site adjustments, and speeding up their construction cycles.`,
+tabs:[
+  {
+        id:1,
+        title:"Precast 3D Modeling",
+        content:`Our precast 3D modeling service delivers data-rich BIM models for all precast components, providing accuracy right from designing to fabrication & erection. We create these LOD-specific models with accurate details like walls, slabs, columns, beams, stairs, double tees, hollow-core units, façade panels, and complex custom elements with complete geometry, reinforcement zones, embeds, and connection provisions. Using Tekla Structures and Revit, we create production-ready digital twins that support clash detection, sequencing, and quantity analysis.
+
+We coordinate our precast model with other systems (architectural, structural, and MEP) and site models to eliminate chances of any conflicts, reducing costly design revisions and field fixes. The 3D model becomes a centralized source for manufacturers, contractors, and engineers and enables clear visualization, reliable take-offs, and smoother communication across disciplines.`,
+        image:"/images/service/precast-detailing/img-1.png"
+  },
+     {
+        id:2,
+        title:"Precast Shop Drawings",
+        content:`We offer a detailed precast shop drawing service that guides factory production with precision. These drawings consist of element dimensions, reinforcement layouts, embed locations, lifting anchors, inserts, connection details, formwork requirements, and strand patterns for prestressed units. Each sheet is designed to meet manufacturing standards and integrate seamlessly with factory workflows.
+
+With our multi-level QA/QC checks, these drawings ensure accuracy, clarity, and compliance with industry codes (PCI, NPCA, ACI, BS, and IS). This reduces fabrication discrepancies and ensures that every precast component is cast, cured, and handled correctly, minimizing delays, optimizing material use, and ensuring safe, high-quality production.`,
+        image:"/images/service/precast-detailing/img-2.jpg"
+  },
+     {
+        id:3,
+        title:"Embed & Connection Detailing",
+        content:`We specialize in precise embed & connection detailing, important for the performance and constructability of precast structures. We detail embed plates, anchor bolts, lifting points, dowels, sleeves, grout pockets, shear keys, and all mechanical connections based on design intent and fabrication standards. This ensures seamless assembly between precast elements and cast-in-place structures.
+
+We coordinate every embed and connection detail within the BIM environment to reduce clashes with other systems like rebar, openings, MEP penetrations, and formwork. The result is a fully buildable connection system that supports structural stability, quick erection, and long-term durability, reducing risks during lifting, transport, and installation.`,
+        image:"/images/service/precast-detailing/img-3.jpg"
+  },
+     {
+        id:4,
+        title:"Precast Reinforcement Detailing",
+        content:`Our team provides complete reinforcement detailing service for precast elements such as walls, beams, columns, slabs, shear walls, façade panels, and staircases. We detail rebar cages, mesh layouts, strand patterns for prestressed members, anchorage zones, development lengths, lap lengths, and congestion areas with high accuracy.
+
+By integrating reinforcement into 3D models, we ensure correct spacing, bar bending shapes, conflict-free placement, and alignment with embeds and lifting systems. This sort of detailing supports factory efficiency, improves quality control, and helps the team install precast components with ease.`,
+        image:"/images/service/precast-detailing/img-4.jpg"
+  },
+     {
+        id:5,
+        title:"Erection Drawings & Sequencing Plans",
+        content:`Our detailed erection drawing service guides contractors & serves as the blueprint for safe and efficient installation of different precast components. These drawings illustrate lifting points, rotation angles, rigging details, sequencing order, temporary supports, and connection alignment. With clear mapping of crane paths and installation stages, we help eliminate onsite confusion and accelerate construction workflows.
+
+Our sequencing plans are developed in coordination with structural stability requirements, site logistics, and safety standards. By incorporating a 4D scheduling tool, our experts enable contractors to foresee challenges, optimize erection timelines, and execute installation phases with confidence.`,
+        image:"/images/service/precast-detailing/img-5.jpg"
+  },
+     {
+        id:6,
+        title:"Bill of Materials (BOM) & Quantity Take-offs",
+        content:`We offer error-free quantity take-offs and BOMs service directly from the coordinated precast models to ensure accuracy through the process and eliminate the chance of any manual errors. These include concrete volumes, reinforcement weights, embed counts, insert types, lifting systems, and hardware quantities required for each cast unit.
+
+This automation helps manufacturers streamline procurement, resource planning & exceeding of budget. These detailed outputs support fabrication, logistics, and inventory management throughout the project lifecycle.`,
+        image:"/images/service/blank.png"
+  },
+      
+    ]
+
+      },
     ]
   },
+
   civil: {
     name: "Civil & Utilities BIM",
     items: [
