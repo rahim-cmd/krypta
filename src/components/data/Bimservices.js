@@ -1391,7 +1391,34 @@ This captured data is then transformed into precise 2D and 3D outputs, which inc
 
 We cater to the specific needs of architects, general contractors, mechanical/plumbing/HVAC contractors and civil contractors in streamlining design, clash detection, coordination, and construction decision-making. By using advanced laser scanners and photogrammetry tools, we capture accurate 3D point clouds that serve as the foundation for Revit-based BIM models.
 
-Krypta Tech produces detailed BIM outputs, assisting with different aspects of your project - whether it is 3D model creation, visualization, or quality inspection. We adhere to international BIM standards (like PAS 1192 and ISO 19650) and deliver models compatible with all major platforms, including Revit, AutoCAD, Navisworks, and ArchiCAD.`
+Krypta Tech produces detailed BIM outputs, assisting with different aspects of your project - whether it is 3D model creation, visualization, or quality inspection. We adhere to international BIM standards (like PAS 1192 and ISO 19650) and deliver models compatible with all major platforms, including Revit, AutoCAD, Navisworks, and ArchiCAD.`,
+tabs:[
+  {
+    id:1,
+    title:"Point Cloud to BIM Modeling",
+    content:`Krypta Tech converts high-definition 3D laser scan point clouds into detailed BIM models that reflect the actual geometry and dimensions of existing buildings. This scan data is reviewed, cleaned, and modeled carefully so the final output matches on-site conditions as closely as possible.
+
+Our Point Cloud to BIM services cover architectural, structural, and MEP scopes. This helps project teams work faster, avoid coordination issues, and reduce errors during design and construction. The BIM models are commonly used for clash checks, design coordination, and accurate as-built records, making them well-suited for renovation, retrofit, and new construction projects.`,
+    image:"/images/service/scan-to-bim-services/img-1.png"
+  },
+  {
+    id:2,
+    title:"As-Built BIM Modeling",
+    content:`We provide accurate as-built BIM models that represent the actual existing conditions of buildings with our as-built BIM modeling service. By capturing real-world measurements through surveys or 3D laser scans, we create detailed BIM models that serve as a reliable digital representation of the structure.
+
+These services support architectural, structural, and MEP systems, enabling renovation, retrofitting, or facility management projects. These models help clients reduce errors, improve coordination, and streamline project planning with a clear and accurate digital reference.`,
+    image:"/images/service/scan-to-bim-services/img-2.jpg"
+  },
+  {
+    id:3,
+    title:"COBie integration & Asset Data Management",
+    content:`We provide COBie-compliant BIM integration to perfectly manage & organize asset data throughout the building lifecycle. Our team makes sure all facility and equipment information is accurately captured, structured, and linked within the BIM model for seamless handover to owners and operators.
+
+Our asset data management services help clients maintain up-to-date records, streamline facility management, and improve operational efficiency. Integrating asset data with intelligent models, we enable better decision-making, easy access to information, and enhanced maintenance planning.`,
+    image:"/images/service/scan-to-bim-services/img-3.jpg"
+  },
+  
+]
       },
       {
         id: 3,
@@ -1400,7 +1427,42 @@ Krypta Tech produces detailed BIM outputs, assisting with different aspects of y
         slug: "scan-to-card-services",
         details: `Our Scan to CAD services offer a reliable pathway from field data to design-ready CAD files. Using advanced 3D scanners for CAD modeling and 3D scanners for AutoCAD, we convert point clouds into clean, vectorized outputs suitable for architectural, structural, MEP, interior, and civil engineering applications.
 
-We help stakeholders transition from raw scans to usable data by offering deliverables like DWG, DXF, or DGN files, optimized for use in AutoCAD, MicroStation, and similar platforms. Whether you’re working on restoration, retrofitting, or documentation, Krypta Tech ensures every detail of the existing conditions is captured with precision and clarity.`
+We help stakeholders transition from raw scans to usable data by offering deliverables like DWG, DXF, or DGN files, optimized for use in AutoCAD, MicroStation, and similar platforms. Whether you’re working on restoration, retrofitting, or documentation, Krypta Tech ensures every detail of the existing conditions is captured with precision and clarity.`,
+tabs:[
+  {
+    id:1,
+    title:"Architectural Scan to CAD",
+    content:`Our architecture scan-to-CAD service converts high-definition 3D scan data into 2D & 3D drawings, incorporating floor plans, elevations, sections & detailed layouts. These highly accurate drawings also capture all architectural elements such as walls, doors, windows, stairs, and facades. Helping engineers & contractors with an accurate replica of the existing buildings (project) for perfect renovation, retrofitting, or new design coordination.
+
+We also deliver top-quality CAD drawings in DWG, DXF, PDF, and IFC formats that are fully annotated and ready for use in design, construction, or facility management. These drawings provide clear and actionable documentation for architects and contractors to plan and execute projects efficiently.`,
+    image:"/images/service/scan-to-cad/img-1.png"
+  },
+  {
+    id:2,
+    title:"MEP Scan to CAD",
+    content:`Our MEP Scan to CAD service provides data-rich drawings for HVAC, plumbing, and electrical systems, including ducts, pipes, conduits, and equipment. These drawings provide accurate information for retrofit, renovation, or new design coordination.
+
+We also provide the final CAD deliverables in different formats such as DWG, DXF, PDF, and IFC, fully detailed and ready for design, construction, or facility management purposes. With the help of our accurate MEP drawings, engineers and contractors can improve planning, coordination, and execution.`,
+    image:"/images/service/scan-to-cad/img-2.png"
+  },
+  {
+    id:3,
+    title:"Structural Scan to CAD",
+    content:`Our Structural Scan to CAD service provides information-rich drawings incorporating different columns, beams, slabs, foundations, and other structural components. These drawings serve as a reliable documentation for renovation, retrofitting, or new construction projects.
+
+As per the client's requirement, we also provide our deliverables in DWG, DXF, PDF, and IFC formats. These deliverables are fully annotated and coordinated for engineers and contractors. These structural drawings reduce errors, improve communication, and support project execution seamlessly.`,
+    image:"/images/service/scan-to-cad/img-3.jpg"
+  },
+  {
+    id:4,
+    title:"Interior Scan to CAD",
+    content:`Our interior scan to CAD service converts interior spaces into precise CAD drawings, incorporating all important elements such as furniture, fixtures, partitions, and millwork layouts. With these accurate and precise details, these drawings serve as an ideal document for interior redesign, space planning, and renovation projects.
+
+We also provide drawings in DWG, DXF, PDF, and IFC format that are completely annotated, ready for design & construction, and help in facility management. The drawings enable clients to make informed decisions and streamline project execution.`,
+    image:"/images/service/scan-to-cad/img-4.png"
+  },
+  
+]
       },
       {
         id: 4,
@@ -1411,7 +1473,34 @@ We help stakeholders transition from raw scans to usable data by offering delive
 
 When you integrate Operations and Maintenance, BIM Asset Management, and BIM Energy Management together, you take control of your costs, reduce downtime, and prolong the life of your facility systems. Our team gives you the power to access equipment data, maintenance history, warranty information and energy insights all in real time—giving you the tools to maximize every square foot of your facility.
 
-Whether it’s tracking assets for renovations, retrofits, or routine upkeep, our data-rich BIM models and integrated CMMS workflows keep your building running efficiently and sustainably.`
+Whether it’s tracking assets for renovations, retrofits, or routine upkeep, our data-rich BIM models and integrated CMMS workflows keep your building running efficiently and sustainably.`,
+tabs:[
+  {
+    id:1,
+    title:"BIM Asset Management",
+    content:`Krypta Tech BIM Asset Management service combines technical characteristics, fabrication details, and maintenance stages into your building’s BIM model to support its entire lifecycle. By verifying our As-Built models, every asset is perfectly documented, enabling accurate visualization of spaces, maximized asset utilization, and complete transparency in tracking.
+
+We connect  BIM data to CMMS to enable smarter scheduling, streamlined work orders, and digitized inventory & maintenance workflows. With our data-centric approach, we facilitate proper facility management, efficient maintenance, and enhance operation, helping owners & managers make informed decisions throughout the life of the building.`,
+    image:"/images/service/facility-management/img-1.png"
+  },
+  {
+    id:2,
+    title:"Operations & Maintenance",
+    content:`Our operations & maintenance service provides all important facility information on a single digital platform, right from warranty details to component utilization. By consolidating this data, our experts help owners and facility managers access reliable information on the go for accurate quantity takeoffs, material estimation, audits, and predictive maintenance. This systematic approach not only ensures better planning but also better resource management.
+
+We help clients with real-time asset tracking, manage renovations and restorations, and streamline everyday maintenance with high accuracy, to maintain records. Through digital tools and BIM integration, our services enhance operational efficiency, extend asset lifecycles, minimize downtime, and facilitate informed decision-making across the entire facility.`,
+    image:"/images/service/facility-management/img-2.png"
+  },
+  {
+    id:3,
+    title:"BIM Energy Management",
+    content:`Our BIM energy management service helps clients keep their facilities sustainable, efficient, and cost-effective. Our BIM energy management experts perform detailed energy audits, performance assessments, and retrofitting strategies to optimize HVAC, lighting, and building envelope systems. By deep analysis & comparing energy alternatives, we provide actionable insights for reducing utility consumption and enhancing overall efficiency.
+
+We also provide support for upgrading doors, windows, insulation, and other building components, alongside routine monitoring of energy systems. This ensures improved performance, reduces environmental damage & operational costs, and promotes sustainability, while helping facility managers make data-driven decisions for seamless energy management.`,
+    image:"/images/service/facility-management/img-3.png"
+  },
+  
+]
       },
       {
         id: 5,
@@ -1420,7 +1509,34 @@ Whether it’s tracking assets for renovations, retrofits, or routine upkeep, ou
         slug: "digital-twin-services",
         details: `Our digital twin services provide an immersive, interactive digital replica of your building that evolves throughout its lifecycle—from planning and design to operation and maintenance. Unlike static models, digital twins for buildings integrate real-time data streams, IoT inputs, and AI-powered simulation to deliver dynamic performance tracking and predictive insights.
 
-With years of experience in BIM and digital construction, Krypta Tech creates scalable, cloud-integrated digital twin solutions that help you manage building systems more efficiently. Whether you're a facility manager, contractor, or asset owner, our digital twin software bridges the gap between virtual design and physical reality—enabling smart asset management and engineering design optimization.`
+With years of experience in BIM and digital construction, Krypta Tech creates scalable, cloud-integrated digital twin solutions that help you manage building systems more efficiently. Whether you're a facility manager, contractor, or asset owner, our digital twin software bridges the gap between virtual design and physical reality—enabling smart asset management and engineering design optimization.`,
+tabs:[
+  {
+    id:1,
+    title:"Asset Information Modeling (AIM)",
+    content:`Our Asset Information Modeling (AIM) service consolidates all building datalike mechanical, electrical, plumbing, and structural, into a single model. This unified model provides facility managers & project teams with real-time, data-driven insights, ensuring full visibility about the asset health, performance, and life.
+
+By providing centralized access for collaboration, AIM enables streamlined communication across teams and supports informed decision-making during operations, renovations, and maintenance. With the help of AIM, clients can reduce downtime, optimize asset performance, and extend the lifespan of building systems, forming the foundation for data-driven engineering and efficient facility management.`,
+    image:"/images/service/digital-twin/img-1.png"
+  },
+  {
+    id:2,
+    title:"CMMS (Computerized Maintenance Management System)",
+    content:`Our CMMS integration amplifies building maintenance by combining 3D BIM models with real-time operational data, enabling precise location & inspection of equipment. Krypta Tech's CMMS service facilitates facility managers with different perks, such as monitoring asset health, tracking performance metrics, and accessing detailed maintenance histories, resulting in reduced downtime & optimized total cost of ownership (TCO).
+
+The system supports automated maintenance scheduling, record-keeping, and reporting, ensuring compliance with safety standards and corporate policies. When combined together digital twin technology & CMMS, it helps teams to streamline workflows, reduce manual interventions, and implement sustainable, smart asset management practices. This data-driven approach ultimately improves efficiency, safety, and long-term building performance.`,
+    image:"/images/service/digital-twin/img-2.png"
+  },
+  {
+    id:3,
+    title:"IoT Integration",
+    content:`Our IoT integration service integrates smart sensor systems with digital twin software to provide teams with real-time insights for building performance. Facility managers can visualize working conditions, monitor energy consumption, track system status, and assess air quality and CO2 levels post-construction, resulting in making smarter operational decisions for seamless & efficient workflow.
+
+Besides other perks, IoT-enabled digital twins also help in construction sequencing, enhancing productivity & risk management during project execution. After the project has been successfully delivered, these updated digital twins can be handed over to clients for ongoing facility management. These transform BIM models into responsive, sensor-driven tools that enhance real-time decision-making and overall building efficiency.`,
+    image:"/images/service/digital-twin/img-3.avif"
+  },
+  
+]
       }
     ]
   },
