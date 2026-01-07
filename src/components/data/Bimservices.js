@@ -1200,7 +1200,41 @@ This automation helps manufacturers streamline procurement, resource planning & 
 
 We combine every detail, such as client drawings, survey data, and point clouds, to create a comprehensive 3D model & accurate technical document. These deliverables incorporate plans, sections, elevations, and 3D visualizations, highlighting critical parameters like slopes, cut-and-fill areas, drainage patterns & surface details. Helping to validate designs, optimize workflows, detect clashes, and support accurate quantity take-offs. Once the models are completely developed, we make sure they undergo a QA/QC process to check dimensions, alignments, and tolerances. With our well-coordinated surface models and drawings, we help clients make informed decisions, reduce errors, and streamline construction to ensure overall consistency throughout the project life cycle.
 
-Since 2014, Krypta Tech has been a top BIM services provider across various regions. Helping project teams move from concept to execution with clarity. We have delivered over 1,100+ projects around the world, and built models that convey design intent accurately and provide the level of detail required for efficient on-site implementation.`
+Since 2014, Krypta Tech has been a top BIM services provider across various regions. Helping project teams move from concept to execution with clarity. We have delivered over 1,100+ projects around the world, and built models that convey design intent accurately and provide the level of detail required for efficient on-site implementation.`,
+tabs:[
+  {
+    id:1,
+    title:"Site Modeling Service",
+    content:`Our excellent site modeling service provides clients with 3D models that translate existing and proposed site conditions. This model is created by integrating survey data, topography & GIS information to ensure accurate constitutionality, and incorporates all the important elements such as terrain features, roads, pathways, utilities, and more to create a perfect digital twin of the project.
+
+These precisely developed models support design coordination, clash detection, and constructability reviews. By visualizing the site in 3D, project teams not only get the real idea of the on site conditions but also help them optimize layouts and construction sequences to eliminate any chances of errors and rework.`,
+    image:"/images/service/surface-modeling/img-1.png"
+  },
+  {
+    id:2,
+    title:"Civil Surface BIM Modeling",
+    content:`Our civil surface BIM modeling service provides precise 3D surface models for grading, earthworks, drainage, and landscape integration. Our experts create these 3D models using Autodesk Civil 3D, Revit, and AutoCAD, capturing all important information such as slopes, contours, cut-and-fill areas, and terrain undulations to support project design and execution.
+
+These fully developed civil surface BIM models are completely coordinated with other disciplines (architectural, structural & MEP), enabling clash detection and accurate quantity take-offs. These models provide a digital platform for better planning, coordination, and construction management.`,
+    image:"/images/service/surface-modeling/img-2.png"
+  },
+  {
+    id:3,
+    title:"Civil Surface 2D Modelings",
+    content:`Our expert team converts detailed 3D surface models into information-rich 2D civil drawings. In civil surface 2D drawings service, we not only incorporate plans, sections, elevations, and contour mapsbut also highlight grading, drainage layouts, cut-and-fill areas, and site features for smooth construction execution.
+
+Our accurate 2D deliverables are standardized, dimensionally accurate, and ready for approval, tender, or construction use. They help contractors and engineers translate design intent into actionable on-site execution plans.`,
+    image:"/images/service/surface-modeling/img-3.png"
+  },
+  {
+    id:4,
+    title:"Report Generation",
+    content:`Our report generation services help clients with structured documentation & analysis derived from surface and site models. These reports include cut-and-fill calculations, grading reports, drainage analysis, and quantity take-offs for materials & earthwork.
+
+We make sure these reports are properly formatted to ensure easy interpretation by project stakeholders, enabling informed decision-making, project approvals, and cost estimation. By integrating reports with BIM models, teams gain a reliable, data-driven overview of site conditions and construction requirements.`,
+    image:"/images/service/surface-modeling/img-4.jpg"
+  }
+]
       },
       {
         id: 2,
