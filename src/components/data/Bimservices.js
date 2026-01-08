@@ -1552,7 +1552,34 @@ Besides other perks, IoT-enabled digital twins also help in construction sequenc
 
 We extract and format your model data, geometry, schedules, quantities and cost calculations that feed directly into PowerBI. Stakeholders, executives, owners are able to instantly see the schedule, the costs, and the completed status. From high-level overviews to drill-down specifics, we deliver dashboards that are designed to assist you in keeping an eye on critical KPIs and in taking proactive measures against overruns and delays.
 
-Whether you’re tracking 5D BIM cost changes, comparing planned vs actual 4D construction schedules, or managing complex multi-trade coordination, our dashboards deliver instant clarity, and turn your BIM investment into real-time business intelligence.`
+Whether you’re tracking 5D BIM cost changes, comparing planned vs actual 4D construction schedules, or managing complex multi-trade coordination, our dashboards deliver instant clarity, and turn your BIM investment into real-time business intelligence.`,
+tabs:[
+  {
+    id:1,
+    title:"BIM Data Analytics",
+    content:`In our BIM Data Analytics service, we extract & prepare BIM model data that includes essential information such as geometry, schedules, and quantities to provide extensive analysis. With precise parameters, attributes, and LOD, we make your data perfect, reliable, and ready for actionable insights.
+
+This prepared data integrates seamlessly into Power BI dashboards, enabling stakeholders to monitor KPIs, track progress, and make informed decisions. With our analytics services, teams can transform raw BIM information into meaningful insights that improve project planning, execution, and overall efficiency.`,
+    image:"/images/service/bim-power/img-1.png"
+  },
+  {
+    id:2,
+    title:"4D BIM & Construction Scheduling",
+    content:`Our 4D BIM & Construction Scheduling service helps clients with real-time monitoring of project progress by integrating construction sequencing with Power BI dashboards. Stakeholders can readily compare planned and actual timelines, monitor critical path activities for improved coordination, and track milestone completion by connecting BIM models with schedule data.
+
+The dashboards deliver clear graphical insights on schedule performance, on-time completion, and project status, ensuring all team members stay aligned. This method makes it easier for project managers to spot delays, streamline processes, and ensure seamless execution.`,
+    image:"/images/service/bim-power/img-2.png"
+  },
+  {
+    id:3,
+    title:"5D BIM & Cost Reporting",
+    content:`Our 5D BIM & Cost Reporting service links detailed cost estimates and quantity takeoff data with real-time Power BI dashboards. These dashboards provide clear visualizations of the budget allotted and actual costs that have been spent. Stakeholders can track BOQ variances, monitor bid packages, and gain a comprehensive understanding of project financials.
+
+These dashboards act asreliable source for teams to identify cost risks, optimize resource allocation, and control budget throughout the project lifecycle. By combining 5D BIM data with our interactive analytics, we help clients make informed decisions, reduce cost overruns, and improve overall efficiency.`,
+    image:"/images/service/bim-power/img-3.png"
+  },
+  
+]
       },
       {
         id: 2,
@@ -1561,7 +1588,50 @@ Whether you’re tracking 5D BIM cost changes, comparing planned vs actual 4D co
         slug: "4d-scheduling",
         details: `Krypta Techs 4D BIM construction sequencing and Scheduling services provides you with the detailed time-driven visualizations that allows all the stakeholders to monitor their construction process. These 4D BIM simulations represents building elements & their surroundings at regular intervals, which helps stakeholders to monitor real-time construction process. Our 4D simulation outputs also helps contractors during the bidding phase, providing them with realistic construction timelines.
 
-By mapping start and end dates for the procurement and installation of key components, our 4D BIM models bring clarity to construction sequencing and scheduling.`
+By mapping start and end dates for the procurement and installation of key components, our 4D BIM models bring clarity to construction sequencing and scheduling.`,
+tabs:[
+  {
+    id:1,
+    title:"Construction Sequencing",
+    content:`At Krypta Tech, our Construction Phasing and Sequencing services break down complex projects into manageable stages, giving clients a clear, time-based blueprint of how construction will be carried out. By integrating detailed sequencing into 4D BIM models, we ensure every phase is planned with maximum efficiency and coordination. This method offers improved clarity, precise scheduling, and increased confidence in meeting project deadlines by reducing trade overlap, minimizing site downtime, and streamlining overall execution.
+
+In addition to detailed planning, we evaluate multiple sequencing scenarios to identify the most practical and risk-free path for construction. Our sequencing outputs make it easier for project teams to understand installation priorities, critical paths, and resource requirements. This leads to improved decision-making, better communication among stakeholders, and higher productivity throughout the project lifecycle.`,
+    image:"/images/service/4d-scheduling/img-1.png"
+  },
+  {
+    id:2,
+    title:"4D Simulation & Visualization",
+    content:`Our 4D Simulation & Visualization services allow clients to virtually experience the entire construction process before on-site work begins. We produce dynamic, time-based simulations that accurately depict the course of each construction stage by fusing 3D BIM models with comprehensive project schedules. This visual representation helps stakeholders understand the sequence of activities, identify potential clashes or delays, and gain full clarity on project flow from start to finish.
+
+These simulations also serve as a powerful communication and planning tool for project teams, contractors, and clients. By visually comparing planned progress with actual site conditions, teams can monitor updates, evaluate alternative construction strategies, and make more informed decisions. Throughout the course of the project, this proactive strategy improves coordination, lowers uncertainty, and guarantees a more seamless construction process.`,
+    image:"/images/service/4d-scheduling/img-2.png"
+  },
+  {
+    id:3,
+    title:"Project Progress Reporting",
+    content:`Our Project Progress Reports are generated using insights from both 4D (time) and 5D (cost) simulations at regular project intervals. Providing stakeholders with a data-driven understanding of project status, upcoming milestones, and potential risks. By combining analytical summaries with visual progress mapping, we help project teams monitor, plan, and control project requirements more effectively. The graphic representations included in these reports offer an intuitive view of construction progress, enabling all stakeholders to clearly grasp how the project is being executed on site.
+
+In addition to periodic reporting, we deliver Project Timeline Simulation services that recreate real-time site conditions throughout the construction lifecycle. These simulations illustrate how the structure will be built step by step, along with the evolving site environment at each stage. This allows clients to visualize installation sequences, anticipate site constraints, and make proactive decisions to ensure smooth project delivery. With these simulations, project teamsgain a detailed and immersive understanding of construction progress long before activities take place on the ground.`,
+    image:"/images/service/4d-scheduling/img-3.png"
+  },
+  {
+    id:4,
+    title:"Site logistics Planning",
+    content:`Through our Site Logistics Planning service, we support clients in organizing site space, resources, and movement using 4D BIM. The process includes simulating equipment locations, material storage areas, access routes, and workforce movement so site operations remain coordinated at each stage of construction.
+
+These simulations help teams identify constraints early, plan activities more effectively, and avoid disruptions during execution. Main elements such as crane operations, temporary works, staging zones, and delivery routes are reviewed to reduce clashes and improve day-to-day workflow. This approach supports safer sites, smoother coordination, and more efficient construction, whether applied during early planning or on fast-track projects.`,
+    image:"/images/service/4d-scheduling/img-4.png"
+  },
+  {
+    id:5,
+    title:"Demolition Simulation",
+    content:`In our Demolition Simulation service, we use 4D BIM to plan demolition activities before work starts on site. The model is linked with the demolition schedule to define the order in which structural elements are removed. This helps teams understand load paths, temporary stability requirements, and potential safety risks during dismantling.
+
+The simulation also looks at nearby structures, debris movement, and site constraints to identify issues early. Equipment positions, access routes, debris handling paths, and temporary supports are included to reflect actual site conditions. This allows teams to plan resources properly and avoid sequencing errors during execution. Visual simulations make it easier for all stakeholders to review the plan, coordinate activities, and carry out demolition work in a controlled and safe manner.`,
+    image:"/images/service/4d-scheduling/img-5.png"
+  },
+  
+]
       },
       {
         id: 3,
@@ -1572,7 +1642,50 @@ By mapping start and end dates for the procurement and installation of key compo
 
 By leveraging 5D BIM cost estimation, we streamline the traditional cost planning workflow with high-precision extraction of BOMs, RFIs, and bid documentation directly from the 3D model. This ensures greater transparency, minimizes financial risk, and strengthens cost control across the project lifecycle.
 
-Our BIM cost planning solutions are tailored for contractors, cost consultants, and developers seeking greater clarity in tendering, procurement, and post-construction documentation.`
+Our BIM cost planning solutions are tailored for contractors, cost consultants, and developers seeking greater clarity in tendering, procurement, and post-construction documentation.`,
+tabs:[
+  {
+    id:1,
+    title:"Quantity Take-Off Reports",
+    content:`At Krypta Tech, discipline-specific and trade-wise quantity take-offs are derived directly from BIM models, eliminating manual calculations and improving the accuracy of cost assessments. Automated quantity extraction ensures uniformity across reports while significantly reducing the risk of human error, resulting in dependable data for budgeting and procurement activities.
+
+These quantity take-off reports allow teams to review design changes quickly and adjust material and resource plans without delay. Having clear, item-level quantities helps keep costs in check and supports better planning from early design through on-site execution.`,
+    image:"/images/service/5d-bim/img-1.png"
+  },
+  {
+    id:2,
+    title:"Cost Estimation",
+    content:`Under our cost estimation service, cost managers derive project estimates directly from BIM data to support timely budgeting decisions. Model-based quantities are linked with material specifications and cost databases, allowing estimates to reflect actual scope and reducing financial risk during planning.
+
+We align cost estimations with project phases, local cost indices, and evolving design changes, ensuring dynamic updates throughout the project lifecycle. This approach allows help teams to monitor budgets in real time, evaluate design alternatives quickly, and maintain tight control over project expenditures from pre-construction to completion.`,
+    image:"/images/service/5d-bim/img-2.jpg"
+  },
+  {
+    id:3,
+    title:"Construction Bid Estimation & Documentation",
+    content:`Tecture's construction bid estimation and documentation service provides tender-ready estimates directly from BIM models. This includes BOQs, tender packages, RFIs, and procurement documents developed to suit the requirements of each project stage.
+
+Since these documents are tied back to the BIM model, any design change can be reflected without reworking the entire estimate. Quantities, scopes, and reports stay aligned across disciplines, giving project teams access to reliable and current information during bidding and pre-construction.`,
+    image:"/images/service/5d-bim/img-3.png"
+  },
+  {
+    id:4,
+    title:"5D Visualization",
+    content:`Our 5D Visualization services combine 3D models with time and cost data to provide a clear, interactive view of construction progress & financial impact. Stakeholders can visualize how design changes, schedules, and budgets interact, enabling proactive decision-making and minimizing costly delays.
+
+Through dynamic visual dashboards and simulations, clients can track project milestones, monitor cost variations, and assess the effect of design alternatives in real time. This immersive approach improves communication between teams, enhances planning efficiency, and ensures better control over project outcomes.`,
+    image:"/images/service/5d-bim/img-4.png"
+  },
+  {
+    id:5,
+    title:"Material Take-Off Reports",
+    content:`Our Material Take-Off Reports service provides excellent reports generated directly from BIM models, providing accurate, trade-specific quantities for construction materials. This automated extraction reduces human error, ensures consistency, and saves significant time compared to manual calculations.
+‍
+These reports help all the team members plan procurement, manage material usage, and excellently keep the project budget under control. Because quantities are updated as designs change, teams can review material requirements early, adjust decisions in time, and avoid cost surprises later in the project.`,
+    image:"/images/service/5d-bim/img-5.png"
+  },
+  
+]
       },
 
       {
@@ -1582,7 +1695,34 @@ Our BIM cost planning solutions are tailored for contractors, cost consultants, 
         slug: "off-site-bim-management",
         details: `Through every phase of the construction lifecycle, your teams remain connected and in the know with our Services. When we combine Progress Monitoring, Safety Hazards Reviews and intensive Model Cross Reviews, we are able to keep your project on schedule, compliant and coordinated.
 
-This method cuts down on on-site risks, accelerates approvals and provides stakeholders the assurance that everything — from structural coordination to safety codes — is confirmed on a digital platform before it becomes a site problem. The result? Quicker delivery, less rework and safer sites – all coordinated from a single digital workspace.`
+This method cuts down on on-site risks, accelerates approvals and provides stakeholders the assurance that everything — from structural coordination to safety codes — is confirmed on a digital platform before it becomes a site problem. The result? Quicker delivery, less rework and safer sites – all coordinated from a single digital workspace.`,
+tabs:[
+  {
+    id:1,
+    title:"Safety Hazards Review",
+    content:`Our Safety Hazards Review service focuses on identifying risks early by reviewing BIM models alongside site scans and construction data. By cross-checking installed elements, we flag unsafe conditions such as missing edge protection, incorrect temporary works, access conflicts, or non-compliant installations before they escalate into site incidents so that they don't create any delay.
+
+These reviews support safety teams and site supervisors by providing clear, model-based observations that can be acted on immediately. Instead of relying only on manual inspections, teams gain an additional digital layer of verification that helps maintain compliance with safety standards, reduce exposure to hazards, and create safer working conditions throughout construction.`,
+    image:"/images/service/offsite-bim/img-1.png"
+  },
+  {
+    id:2,
+    title:"Progress Monitoring- Scan to Review",
+    content:`Our Scan to Review service enables teams to monitor construction progress remotely using laser scans and point cloud data. As-built site conditions are compared directly against the approved BIM model to assess installation status, sequencing, and completion levels. This comparison produces clear visual progress outputs that show what has been built, what is pending, and where deviations exist.
+
+These insights help project teams track milestones, validate contractor progress, and maintain alignment with the construction schedule. By reviewing progress digitally, teammates can make informed decisions without frequent site visits & respond quickly to delays or scope changes as construction advances.`,
+    image:"/images/service/offsite-bim/img-2.jpg"
+  },
+  {
+    id:3,
+    title:"Model Cross Review",
+    content:`Our Model Cross Review service checks architectural, structural & MEP models for clashes and coordination gaps. These evaluations are carried out from a constructability mindset, concentrating on real installation circumstances and not just geometric conflicts.
+
+Resolving issues in the model stage reduces last-minute design changes & prevents trade interference on site. This leads to faster approvals, smoother handovers between disciplines, and fewer disruptions during execution. By addressing coordination challenges early, teams can effortlessly move into construction with greater confidence and clarity.`,
+    image:"/images/service/offsite-bim/img-3.png"
+  },
+  
+]
       },
       {
         id: 5,
@@ -1591,7 +1731,52 @@ This method cuts down on on-site risks, accelerates approvals and provides stake
         slug: "pre-bid-and-bid-support",
         details: `We provide accurate pre-bid services for construction projects. We help contractors, developers, and engineers plan project costs before bidding. Our team analyzes project drawings and models. We calculate quantities, material costs, labor, and equipment needs. Our estimates follow construction industry standards and local building codes.
 
-This step helps contractors understand the full scope of work. It also helps them decide the right bid price. A detailed pre bid estimate reduces the chance of cost overruns and errors. This not only increases your chances of winning the bid, but provides you with accurate estimates ensuring better allocation of materials, labor, and resources.`
+This step helps contractors understand the full scope of work. It also helps them decide the right bid price. A detailed pre bid estimate reduces the chance of cost overruns and errors. This not only increases your chances of winning the bid, but provides you with accurate estimates ensuring better allocation of materials, labor, and resources.`,
+tabs:[
+  {
+    id:1,
+    title:"Evaluation and Audit of Design Models",
+    content:`Our Evaluation and Audit of Design Models service ensures that finalized designs are thoroughly assessed for feasibility before approval. We thoroughly examine design models to make sure they adhere to the project's specified scope, spotting any discrepancies or any problems early on. This helps project teams make informed decisions and ensures that the design is practical and constructible. 
+
+By auditing the model, we verify that all elements meet project requirements and standards, reducing the risk of errors or rework during construction. This proactive strategy improves design reliability, facilitates more seamless project execution, and gives assurance that the model faithfully captures the desired result.`,
+    image:"/images/service/bid-support-service/img-1.png"
+  },
+  {
+    id:2,
+    title:"Highly Accurate Drawings",
+    content:`Our Highly Accurate Drawings are developed with close attention to detail and practical site requirements. We create drawings that accurately depict design intent and construction details by employing precise modeling techniques. This helps project teams rely on the drawings without second-guessing dimensions, layouts, or component placement.
+
+These drawings also support accurate quantity estimation & reliable model-based information, so you can prepare a clear and dependable bill of quantities, making it easier to invite capable and well-qualified contractors. The result is better cost clarity, fewer assumptions, and stronger control during the bidding stage.`,
+    image:"/images/service/bid-support-service/img-2.jpg"
+  },
+  {
+    id:3,
+    title:"BIM Assistance and Consulting",
+    content:`Our BIM Assistance and Consulting services are designed to support teams through day-to-day BIM tasks and project-specific requirements. We work closely with clients to help manage models, coordination activities, and documentation so that deliverables are completed on time and with the required level of accuracy. The focus is on practical support that fits into your existing project setup rather than forcing rigid processes.
+
+Through our BIM consulting, we help teams adopt technology to enhance their workflow. This includes setting up clear BIM processes, improving coordination between disciplines, and streamlining how information is created and shared. This provides a more effective and structured workflow that facilitates better decision-making throughout the project lifecycle.`,
+    image:"/images/service/bid-support-service/img-3.png"
+  },
+  {
+    id:4,
+    title:"Clean & Clash-Free Model",
+    content:`We provide a Clean & Clash-Free Model by conducting clash detection checks across and within disciplines. Early on in the project, these checks assist in identifying design conflicts, coordination gaps, and modeling errors. By reviewing the model in detail, teams can clearly see where elements overlap or interfere and address issues before they reach the site.
+
+Once clashes are resolved, the model becomes a reliable source of project information. A coordinated, clash-free model allows accurate data extraction and gives a clear understanding of the overall project scope. A more effective and structured workflow that facilitates better decision-making throughout the project lifecycle is the result.
+
+`,
+    image:"/images/service/bid-support-service/img-4.png"
+  },
+  {
+    id:5,
+    title:"Tender Quantities and Material & Area Takeoff",
+    content:`Our Tender Quantities and Material & Area Takeoff services focus on capturing accurate quantities directly from the model, ensuring that materials, areas, and key components are properly accounted for before tendering.
+
+Teams can price the project with confidence when takeoffs are transparent and dependable. By foreseeing material requirements and associated costs, contractors can protect profit margins while staying within the project budget. This clarity facilitates more controlled cost planning throughout the project and lessens assumptions during the bidding process.`,
+    image:"/images/service/bid-support-service/img-5.png"
+  },
+  
+]
       },
       {
         id: 6,
